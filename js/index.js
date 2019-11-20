@@ -9,7 +9,7 @@ $(function(){
     return `${min}：${sec}.${timeArr[1]}`
   }
   $.ajax({
-    url:'./speed.json',
+    url:'./speed.json?v=201911291717',
     async:false,
     success:function(res){
       // console.log(res);
