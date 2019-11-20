@@ -6,44 +6,69 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>键盘车神教锐思圈速榜</title>
   <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
 
   <script
   src="https://code.jquery.com/jquery-1.12.4.min.js"
   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
   crossorigin="anonymous"></script>
   <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="./lib/bootstrap/js/bootstrap-table.min.js"></script>
   <script src="./lib/template.js"></script>
   <script src="./js/index.js"></script>
+
+  <style>
+    body {
+      background-image: linear-gradient(
+        90deg,#DDDDDD,#FFFFFF,#CCCCFF
+      );
+    }
+    tbody {
+      background-color: rgba(0,0,0,0.3);
+    }
+  </style>
 </head>
 <body>
-    <table class="table table-hover">
-      <thead>
-        <th>排名</th>
-        <th>车型</th>
-        <th>马力（PS）</th>
-        <th>动力总成</th>
-        <th>圈速</th>
-        <th>改装</th>
-        <th>轮胎</th>
-        <th>气温（℃）</th>
-      </thead>
-
-      <tbody>
-
-      </tbody>
-    </table>
+    <div class="table-responsive">
+      <table class="table table-hover">
+        <thead>
+          <th>排名</th>
+          <th>车型</th>
+          <th>马力（PS）</th>
+          <th>动力总成</th>
+          <th>圈速</th>
+          <th>改装</th>
+          <th>轮胎</th>
+          <th>气温（℃）</th>
+        </thead>
+  
+        <tbody>
+  
+        </tbody>
+      </table>
+    </div>
 
 </body>
 
 <script type="text/template" id="tb">
   
   {{each data as v i}}
-  <tr>
+  <tr 
+  class="
+  {{if v.speed < 61}}
+  red
+  {{else if v.speed < 63}}
+  {{else if v.speed < 64}}
+  {{else if v.speed < 65}}
+  {{else if v.speed < 66}}
+  {{/if}}
+  "
+  >
     <td>{{i + 1}}</td>
     <td>{{v.car}}</td>
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
-    <td>{{v.speed}}</td>
+    <td>{{v.speed | timeFormat}}</td>
     <td>{{v.refit}}</td>
     <td>{{v.tyre}}</td>
     <td>{{v.temperature}}</td>

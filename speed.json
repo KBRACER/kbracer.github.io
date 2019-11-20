@@ -4,7 +4,7 @@
     "hp":"151",
     "hp_content":"131+20",
     "Powertrain":"1.5/5mt",
-    "speed":"1：00.2",
+    "speed":"60.2",
     "refit":"2",
     "tyre":"RE71R + AD08R",
     "temperature":"15"
@@ -14,7 +14,7 @@
     "hp":"290",
     "hp_content":"200+90",
     "Powertrain":"2.0t/6DCT",
-    "speed":"1：02.5",
+    "speed":"62.5",
     "refit":"1",
     "tyre":"原厂S001",
     "temperature":"28"
@@ -24,7 +24,7 @@
     "hp":"250",
     "hp_content":"250",
     "Powertrain":"2.0T/8AT",
-    "speed":"1：02.8",
+    "speed":"62.8",
     "refit":"0",
     "tyre":"原厂P7",
     "temperature":"14"
@@ -34,7 +34,7 @@
     "hp":"252",
     "hp_content":"252",
     "Powertrain":"2.0T/CVT",
-    "speed":"1：03.5",
+    "speed":"63.5",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"28"
@@ -44,7 +44,7 @@
     "hp":"204",
     "hp_content":"204",
     "Powertrain":"1.6T/7DCT",
-    "speed":"1：03.6",
+    "speed":"63.6",
     "refit":"0",
     "tyre":"原厂耐克森",
     "temperature":"6"
@@ -54,7 +54,7 @@
     "hp":"131",
     "hp_content":"131",
     "Powertrain":"1.5/5MT",
-    "speed":"1：03.7",
+    "speed":"63.7",
     "refit":"1",
     "tyre":"UC6",
     "temperature":"6"
@@ -64,7 +64,7 @@
     "hp":"230",
     "hp_content":"200+30",
     "Powertrain":"2.OT/6DCT",
-    "speed":"1：03.7",
+    "speed":"63.7",
     "refit":"1",
     "tyre":"原厂P7",
     "temperature":"28"
@@ -74,7 +74,7 @@
     "hp":"181",
     "hp_content":"181",
     "Powertrain":"1.5T/6AT",
-    "speed":"1：04.1",
+    "speed":"64.1",
     "refit":"1",
     "tyre":"AD08R",
     "temperature":"23"
@@ -84,7 +84,7 @@
     "hp":"100",
     "hp_content":"100",
     "Powertrain":"1.6/5MT",
-    "speed":"1：04.7",
+    "speed":"64.7",
     "refit":"1",
     "tyre":"AD08R",
     "temperature":"27"
@@ -94,7 +94,7 @@
     "hp":"200",
     "hp_content":"200",
     "Powertrain":"2.0T/8AT",
-    "speed":"1：04.7",
+    "speed":"64.7",
     "refit":"0",
     "tyre":"原厂四季P7",
     "temperature":"6"
@@ -104,7 +104,7 @@
     "hp":"170",
     "hp_content":"170",
     "Powertrain":"1.6T/8AT",
-    "speed":"1：04.8",
+    "speed":"64.8",
     "refit":"0",
     "tyre":"原厂防爆P7",
     "temperature":"31"
@@ -114,7 +114,7 @@
     "hp":"169",
     "hp_content":"169",
     "Powertrain":"1.5T/7DCT",
-    "speed":"1：05.4",
+    "speed":"65.4",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"23"
@@ -124,7 +124,7 @@
     "hp":"150",
     "hp_content":"150",
     "Powertrain":"1.4T/7DCT",
-    "speed":"1：05.5",
+    "speed":"65.5",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"28"
@@ -134,7 +134,7 @@
     "hp":"158",
     "hp_content":"158",
     "Powertrain":"2.0/6AT",
-    "speed":"1：05.8",
+    "speed":"65.8",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"31"
@@ -144,7 +144,7 @@
     "hp":"218",
     "hp_content":"218",
     "Powertrain":"2.5E/CVT",
-    "speed":"1：06.2",
+    "speed":"66.2",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"28"
@@ -154,7 +154,7 @@
     "hp":"110",
     "hp_content":"110",
     "Powertrain":"1.6/6AT",
-    "speed":"1：06.9",
+    "speed":"66.9",
     "refit":"1",
     "tyre":"AD08R",
     "temperature":"6"
@@ -164,7 +164,7 @@
     "hp":"181",
     "hp_content":"181",
     "Powertrain":"2.4/5AT",
-    "speed":"1：06.9",
+    "speed":"66.9",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"18"
@@ -174,7 +174,7 @@
     "hp":"169",
     "hp_content":"169",
     "Powertrain":"1.5T/7DCT",
-    "speed":"1：07.2",
+    "speed":"67.2",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"26"
@@ -184,7 +184,7 @@
     "hp":"100",
     "hp_content":"100",
     "Powertrain":"1.6/5MT",
-    "speed":"1：07.5",
+    "speed":"67.5",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"7"
@@ -194,7 +194,7 @@
     "hp":"215",
     "hp_content":"215",
     "Powertrain":"2.0E/CVT",
-    "speed":"1：07.6",
+    "speed":"67.6",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"28"
@@ -204,7 +204,7 @@
     "hp":"124",
     "hp_content":"124",
     "Powertrain":"1.8/5MT",
-    "speed":"1：07.9",
+    "speed":"67.9",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"18"
@@ -214,7 +214,7 @@
     "hp":"86",
     "hp_content":"86",
     "Powertrain":"1.4/5MT",
-    "speed":"1：08.7",
+    "speed":"68.7",
     "refit":"0",
     "tyre":"原厂",
     "temperature":"18"
@@ -224,7 +224,7 @@
     "hp":"115",
     "hp_content":"115",
     "Powertrain":"2.0/6AT",
-    "speed":"1：09.8",
+    "speed":"69.8",
     "refit":"1",
     "tyre":"原厂",
     "temperature":"21"
