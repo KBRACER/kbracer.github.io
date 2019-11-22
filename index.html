@@ -8,14 +8,14 @@
   <title>键盘车神教锐思圈速榜</title>
   <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-  <link rel="stylesheet" href="./css/index.css?v=201911221711">
+  <link rel="stylesheet" href="./css/index.css?v=201911221806">
 
   <script src="https://code.jquery.com/jquery-1.12.4.min.js"
     integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
   <script src="./lib/bootstrap/js/bootstrap-table.min.js"></script>
   <script src="./lib/template.js"></script>
-  <script src="./js/index.js?v=201911221656"></script>
+  <script src="./js/index.js?v=201911221806"></script>
 
 </head>
 
@@ -50,13 +50,13 @@
         <th>排名</th>
         <th>车型</th>
         <th>级别</th>
-        <th>链接</th>
         <th>马力（PS）</th>
         <th>动力总成</th>
         <th>圈速</th>
         <th>改装</th>
         <th>轮胎</th>
         <th>气温（℃）</th>
+        <th>链接</th>
       </thead>
 
       <tbody>
@@ -100,15 +100,15 @@
     <td>{{i + 1}}</td>
     <td>{{v.car}}</td>
     <td>{{v.lv}}</td>
-    <td>
-      <a href="https://www.bilibili.com/video/{{v.BID}}" target="__blank">{{v.Btitle}}</a>
-    </td>
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
     <td>{{v.speed | timeFormat}}</td>
     <td>{{v.refit}}</td>
     <td>{{v.tyre}}</td>
     <td>{{v.temperature}}</td>
+    <td>
+      <a href="https://www.bilibili.com/video/{{v.BID}}" target="__blank">{{v.Btitle}}</a>
+    </td>
   </tr>
   {{/each}}
 

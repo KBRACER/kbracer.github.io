@@ -7,6 +7,10 @@
     }
     tbody {
       background-color: rgba(0, 0, 0, 0.2);
+      color: #fff;
+    }
+    tr:hover {
+      color: #333;
     }
 
     tr.speed0 {
@@ -38,7 +42,8 @@
     }
 
     tr.speed8 {
-      background-color: #CCFFFF;
+      /* background-color: #CCFFFF; */
+      background-color: #999966;
     }
 
     tr.speed9 {}
