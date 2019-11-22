@@ -9,7 +9,8 @@
     "speed":"60.2",
     "refit":"0",
     "tyre":"PS4 + RE003",
-    "temperature":"3"
+    "temperature":"3",
+    "lv":"A"
   },
   {
     "car":"飞度（2014）",
@@ -21,7 +22,8 @@
     "speed":"60.2",
     "refit":"2",
     "tyre":"RE71R + AD08R",
-    "temperature":"15"
+    "temperature":"15",
+    "lv":"A0"
   },
   {
     "car":"速腾GLI（2016）",
@@ -33,7 +35,8 @@
     "speed":"62.5",
     "refit":"1",
     "tyre":"原厂S001",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"A"
   },
   {
     "car":"捷豹XEL（2019）",
@@ -45,7 +48,8 @@
     "speed":"62.8",
     "refit":"0",
     "tyre":"原厂P7",
-    "temperature":"14"
+    "temperature":"14",
+    "lv":"B"
   },
   {
     "car":"天籁（2019）",
@@ -57,7 +61,8 @@
     "speed":"63.5",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"B"
   },
   {
     "car":"菲斯塔（2019）",
@@ -69,7 +74,8 @@
     "speed":"63.6",
     "refit":"0",
     "tyre":"原厂耐克森",
-    "temperature":"6"
+    "temperature":"6",
+    "lv":"A"
   },
   {
     "car":"飞度（2014）",
@@ -81,7 +87,8 @@
     "speed":"63.7",
     "refit":"1",
     "tyre":"UC6",
-    "temperature":"6"
+    "temperature":"6",
+    "lv":"A0"
   },
   {
     "car":"高尔夫GTI（2012）",
@@ -93,7 +100,8 @@
     "speed":"63.7",
     "refit":"1",
     "tyre":"原厂P7",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"A"
   },
   {
     "car":"福克斯（2015）",
@@ -105,7 +113,8 @@
     "speed":"64.1",
     "refit":"1",
     "tyre":"AD08R",
-    "temperature":"23"
+    "temperature":"23",
+    "lv":"A"
   },
   {
     "car":"菱帅（2005）",
@@ -117,7 +126,8 @@
     "speed":"64.7",
     "refit":"1",
     "tyre":"AD08R",
-    "temperature":"27"
+    "temperature":"27",
+    "lv":"A"
   },
   {
     "car":"Guilia（2017）",
@@ -129,7 +139,8 @@
     "speed":"64.7",
     "refit":"0",
     "tyre":"原厂四季P7",
-    "temperature":"6"
+    "temperature":"6",
+    "lv":"B"
   },
   {
     "car":"宝马118i（2013）",
@@ -141,7 +152,8 @@
     "speed":"64.8",
     "refit":"0",
     "tyre":"原厂防爆P7",
-    "temperature":"31"
+    "temperature":"31",
+    "lv":"A"
   },
   {
     "car":"名爵MG6（2019）",
@@ -153,7 +165,8 @@
     "speed":"65.4",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"23"
+    "temperature":"23",
+    "lv":"A"
   },
   {
     "car":"奥迪A3（2016）",
@@ -165,7 +178,8 @@
     "speed":"65.5",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"A"
   },
   {
     "car":"昂克塞拉（2016）",
@@ -177,7 +191,8 @@
     "speed":"65.8",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"31"
+    "temperature":"31",
+    "lv":"A"
   },
   {
     "car":"凯美瑞（2019）",
@@ -189,7 +204,8 @@
     "speed":"66.2",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"B"
   },
   {
     "car":"POLO（2014）",
@@ -201,7 +217,8 @@
     "speed":"66.9",
     "refit":"1",
     "tyre":"AD08R",
-    "temperature":"6"
+    "temperature":"6",
+    "lv":"A0"
   },
   {
     "car":"思铂睿（2009）",
@@ -213,7 +230,8 @@
     "speed":"66.9",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"18"
+    "temperature":"18",
+    "lv":"B"
   },
   {
     "car":"威朗（2018）",
@@ -225,7 +243,8 @@
     "speed":"67.2",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"26"
+    "temperature":"26",
+    "lv":"A"
   },
   {
     "car":"菱帅（2005）",
@@ -237,7 +256,8 @@
     "speed":"67.5",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"7"
+    "temperature":"7",
+    "lv":"A"
   },
   {
     "car":"雅阁（2018）",
@@ -249,7 +269,8 @@
     "speed":"67.6",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"28"
+    "temperature":"28",
+    "lv":"B"
   },
   {
     "car":"福克斯（2012）",
@@ -261,7 +282,8 @@
     "speed":"67.9",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"18"
+    "temperature":"18",
+    "lv":"A"
   },
   {
     "car":"POLO（2008）",
@@ -273,7 +295,8 @@
     "speed":"68.7",
     "refit":"0",
     "tyre":"原厂",
-    "temperature":"18"
+    "temperature":"18",
+    "lv":"A0"
   },
   {
     "car":"甲壳虫（2006）",
@@ -285,6 +308,7 @@
     "speed":"69.8",
     "refit":"1",
     "tyre":"原厂",
-    "temperature":"21"
+    "temperature":"21",
+    "lv":"A"
   }
 ]
