@@ -18,7 +18,7 @@ $(function () {
   }
   //获取json数据
   $.ajax({
-    url: './speed.json?v=201911291717',
+    url: './speed.json?v=201911221710',
     async: false,
     success: function (res) {
       // console.log(res);
@@ -45,7 +45,7 @@ $(function () {
 
   //搜索车型
   $('#search').on('input',function(){
-    var val = $(this).val()
+    var val = $(this).val().toLowerCase()
     var arr = jsonData.filter( v => {
       return v.car.toLowerCase().indexOf(val) != -1
     })
