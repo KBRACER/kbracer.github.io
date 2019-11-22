@@ -26,6 +26,34 @@
     tbody {
       background-color: rgba(0,0,0,0.2);
     }
+
+    tr.speed0 {
+      background-color: red;
+    }
+    tr.speed2 {
+      background-color: #CC3333;
+    }
+    tr.speed3 {
+      /* background-color: #FF6666; */
+    }
+    tr.speed4 {
+      background-color: #FF0066;
+    }
+    tr.speed5 {
+      /* background-color: #6600FF; */
+    }
+    tr.speed6 {
+      background-color: #006666;
+    }
+    tr.speed7 {
+      /* background-color: #FFCC33; */
+    }
+    tr.speed8 {
+      background-color: #CCFFFF;
+    }
+    tr.speed9 {
+      
+    }
   </style>
 </head>
 <body>
@@ -56,12 +84,24 @@
   {{each data as v i}}
   <tr 
   class="
-  {{if v.speed < 61}}
-  red
-  {{else if v.speed < 63}}
+  {{if v.speed < 58}}
+  speed0
+  {{else if v.speed < 60}}
+  speed1
+  {{else if v.speed < 62}}
+  speed2
   {{else if v.speed < 64}}
-  {{else if v.speed < 65}}
+  speed3
   {{else if v.speed < 66}}
+  speed4
+  {{else if v.speed < 68}}
+  speed5
+  {{else if v.speed < 70}}
+  speed6
+  {{else if v.speed < 72}}
+  speed7
+  {{else if v.speed < 74}}
+  speed8
   {{/if}}
   "
   >
