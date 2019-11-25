@@ -9,7 +9,7 @@ thead {
     color: #e5e5e5;
 }
 
-tr:hover {
+#tbody_results tr:hover {
     color: #eef;
     font-weight: 700;
 }
@@ -64,5 +64,11 @@ a:checked {
     margin: 2em 2em;
     border-radius: 20px;
     box-shadow: 1px 1px 10px #333;
-    background-image: linear-gradient(200deg, #2980b9, #2c3e50)
+    background-image: linear-gradient(200deg, #2980b9, #2c3e50);
+    text-align: left;
+    vertical-align: middle;
+}
+
+.title {
+    color: #fefeff
 }

@@ -16,47 +16,46 @@
         <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
         <script src="./lib/bootstrap/js/bootstrap-table.min.js"></script>
         <script src="./lib/template.js"></script>
-        <script src="./js/index.js?v=201911251323"></script>
     </head>
 
     <body>
         <div class="index_banner">
-            <div class="container row">
-                <img src="favicon.png" class="col-1" style="margin: 0 1em ">
-                <h1 style="color:#fff"  class="title col-1">
-                    键盘车神教圈速榜
-                    <span>坚持不充值的偶像派车评人教主的真实锐思圈速榜单</span>
-                </h1>
-
-            </div>
-
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-6">
-                <div class="input-group">
-                    <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">搜索车型</button>
-                    </span>
-                    <input type="text" class="form-control" placeholder="关键字" id="search">
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6">
-                <div class="input-group">
-                    <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">级别</button>
-                    </span>
-                    <select class="form-control" id="lv">
-                        <option value="all">所有</option>
-                        <option value="A0">A0</option>
-                        <option value="A">A</option>
-                        <option value="B">B</option>
-                        <option value="C">C</option>
-                    </select>
-                </div>
-            </div>
+            <table style="width: 100%">
+                <tr>
+                    <td style="width: 5%"><img src="favicon.png" style="padding-right: 1em"/></td>
+                    <td>
+                        <h1 class="title">键盘车神教圈速榜</h1>
+                        <h5 class="title">传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单</h5>
+                    </td>
+                    <td>
+                        <div class="col-sm-6">
+                            <div class="input-group">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" type="button">搜索车型</button>
+                                </span>
+                                <input type="text" class="form-control" placeholder="关键字" id="search">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="input-group">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" type="button">级别</button>
+                                </span>
+                                <select class="form-control" id="lv">
+                                    <option value="all">所有</option>
+                                    <option value="A0">A0</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+                                    <option value="C">C</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div class="table-responsive">
-            <table class="table table-hover">
+            <table id="tb_results" class="table table-hover">
                 <thead>
                     <th>排名</th>
                     <th>车型</th>
@@ -75,7 +74,7 @@
                 </tbody>
             </table>
         </div>
-
+        <script src="./js/index.js?v=201911251323"></script>
     </body>
 
     <script type="text/template" id="tb">
