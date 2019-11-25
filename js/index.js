@@ -14,7 +14,7 @@ $(function () {
       min
     timeArr[0] >= 60 ? min = 1 : min = 0
     sec < 10 ? sec = '0' + sec : null
-    return `${min}：${sec}.${timeArr[1]}`
+    return `${min}:${sec}.${timeArr[1]}`
   }
   //获取json数据
   $.ajax({
