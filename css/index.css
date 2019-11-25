@@ -1,5 +1,8 @@
 body {
     background-image: linear-gradient(90deg, #485563, #29323c);
+    min-height: 100%;
+    display: flex;
+    flex-direction:column;
 }
 
 tbody {
@@ -60,6 +63,7 @@ tr.speed5:hover {
     border: solid;
     border-width: 0;
     margin: 2em;
+    flex: 1;
 }
 
 .table {
@@ -96,8 +100,7 @@ footer {
     color:#fff;
     background-image: linear-gradient(90deg, rgba(200,200,255,0.2), rgba(255,255,255,0.4));
     box-shadow: -10px 0px 50px #333;
-    bottom: 0;
+    bottom: 0px;
     width: 100%;
-    position: absolute;
     padding: 2em;
 }
