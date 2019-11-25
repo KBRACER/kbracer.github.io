@@ -9,7 +9,7 @@ thead {
     color: #e5e5e5;
 }
 
-#tbody_results tr:hover {
+#tb_results tr:hover {
     color: #eef;
     font-weight: 700;
 }
