@@ -2,98 +2,111 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>键盘车神教锐思圈速榜</title>
-  <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-  <link rel="stylesheet" href="./css/index.css?v=201911221806">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>键盘车神教锐思圈速榜</title>
+	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
+	<link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/lib/bootstrap/css/bootstrap-table.min.css">
+	<link rel="stylesheet" href="/css/index.css?v=201911251354">
 
-  <script src="https://code.jquery.com/jquery-1.12.4.min.js"
-    integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-  <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="./lib/bootstrap/js/bootstrap-table.min.js"></script>
-  <script src="./lib/template.js"></script>
-  <script src="./js/index.js?v=201911251323"></script>
-
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
+		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+	<script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/lib/bootstrap/js/bootstrap-table.min.js"></script>
+	<script src="/lib/template.js"></script>
+	<script src="/js/index.js?v=201911251354"></script>
 </head>
 
 <body>
-  <div class="row">
-    <div class="col-lg-3 col-md-3 col-xs-6">
-      <div class="input-group">
-        <span class="input-group-btn">
-          <button class="btn btn-default" type="button">搜索车型</button>
-        </span>
-        <input type="text" class="form-control" placeholder="关键字" id="search">
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-3 col-xs-6">
-      <div class="input-group">
-        <span class="input-group-btn">
-          <button class="btn btn-default" type="button">级别</button>
-        </span>
-        <select class="form-control" id="lv">
-          <option value="all">所有</option>
-          <option value="A0">A0</option>
-          <option value="A">A</option>
-          <option value="B">B</option>
-          <option value="C">C</option>
-        </select>
-      </div>
-    </div>
-  </div>
-  <div class="table-responsive">
-    <table class="table table-hover">
-      <thead>
-        <th>排名</th>
-        <th>车型</th>
-        <th>级别</th>
-        <th>马力（PS）</th>
-        <th>动力总成</th>
-        <th>圈速</th>
-        <th>改装</th>
-        <th>轮胎</th>
-        <th>气温（℃）</th>
-        <th>链接</th>
-      </thead>
+	<div class="index_banner">
+		<table style="width: 100%">
+			<tr>
+				<td style="width: 5%"><img src="/img/logo.png" style="padding-right: 1em" /></td>
+				<td>
+					<h1 class="title">键盘车神教锐思圈速榜</h1>
+					<h5 class="title">传说中绝不充值的偶像派车评人教主的真实圈速榜单</h5>
+				</td>
+				<td>
+					<div class="col-sm-6">
+						<div class="input-group">
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="button">搜索车型</button>
+							</span>
+							<input type="text" class="form-control" placeholder="关键字" id="search">
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="input-group">
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="button">级别</button>
+							</span>
+							<select class="form-control" id="lv">
+								<option value="all">所有</option>
+								<option value="A0">A0</option>
+								<option value="A">A</option>
+								<option value="B">B</option>
+								<option value="C">C</option>
+							</select>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="table-responsive">
+		<table id="tb_results" class="table table-hover">
+			<thead>
+				<th>排名</th>
+				<th>车型</th>
+				<th>级别</th>
+				<th>马力 (Ps)</th>
+				<th>动力总成</th>
+				<th>圈速</th>
+				<th>改装</th>
+				<th>轮胎</th>
+				<th>气温 (℃)</th>
+				<th>链接</th>
+			</thead>
 
-      <tbody>
+			<tbody>
 
-      </tbody>
-    </table>
-  </div>
-
+			</tbody>
+		</table>
+	</div>
+	<div class="placeholding" style="flex: 1"></div>
+	<footer>
+		<div class="container">
+			<span style="float:left">
+				关注教主：<a href="https://space.bilibili.com/49576477" target="_blank"><img src="/img/bilibili.png" alt="bilibili"
+						style="height: 1.5em;padding-bottom: 0.2em"> @键盘车神教</a>
+				<a href="https://www.weibo.com/u/5934299797" target="_blank"><img src="/img/weibo.png" alt="weibo"
+						style="height: 1.5em;padding-bottom: 0.2em"> @键盘车神教教主</a>
+			</span>
+			<span style="float: right">
+				查看源代码：<a href="https://github.com/KBRACER/kbracer.github.io" target="_blank"><img src="/img/github.png"
+						alt="github" style="height: 1.5em;padding-bottom: 0.2em"> GitHub</a>&nbsp;&nbsp;&nbsp;
+			</span>
+		</div>
+	</footer>
 </body>
 
 <script type="text/template" id="tb">
 
-  {{each data as v i}}
+	{{each data as v i}}
   <tr 
   class="
-  {{if v.speed < 58}}
-  speed0
-  {{else if v.speed < 60}}
+  {{if v.speed < 62}}
   speed1
-  {{else if v.speed < 61}}
-  speed2
-  {{else if v.speed < 62}}
-  speed3
-  {{else if v.speed < 63}}
-  speed4
   {{else if v.speed < 64}}
-  speed5
-  {{else if v.speed < 65}}
-  speed6
+  speed2
   {{else if v.speed < 66}}
-  speed7
-  {{else if v.speed < 67}}
-  speed8
+  speed3
   {{else if v.speed < 68}}
-  speed9
-  {{else if v.speed < 69}}
-  speed10
+  speed4
+  {{else if v.speed > 68}}
+  speed5
   {{/if}}
   "
   >
@@ -103,15 +116,15 @@
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
     <td>{{v.speed | timeFormat}}</td>
-    <td>{{v.refit}}</td>
+    <td>{{v.mods}}</td>
     <td>{{v.tyre}}</td>
     <td>{{v.temperature}}</td>
     <td>
-      <a href="https://www.bilibili.com/video/{{v.BID}}" target="__blank">{{v.Btitle}}</a>
-    </td>
-  </tr>
+      <a href="https://www.bilibili.com/video/{{v.BID}}?t={{v.time}}" target="_blank">{{v.Btitle}}</a>
+        </td>
+        </tr>
   {{/each}}
 
-</script>
+    </script>
 
 </html>
