@@ -1,112 +1,118 @@
 body {
-    background-image: linear-gradient(90deg, #485563, #29323c);
-    min-height: 100vh;
-    display: flex;
-    flex-direction:column;
+	background-image: linear-gradient(90deg, #485563, #29323c);
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 tbody {
-    color: #eeeeee;
+	color: #eeeeee;
 }
+
 thead {
-    color: #e5e5e5;
+	color: #e5e5e5;
 }
 
 tr.speed1 {
-    background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
+	background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
 }
 
 tr.speed2 {
-    background-image: linear-gradient(230deg, hsl(238, 38%, 28%), hsl(206, 53%, 56%));
+	background-image: linear-gradient(230deg, hsl(238, 38%, 28%), hsl(206, 53%, 56%));
 }
 
 tr.speed3 {
-    background-image: linear-gradient(230deg, hsl(186, 38%, 28%), hsl(186, 27%, 56%));
+	background-image: linear-gradient(230deg, hsl(186, 38%, 28%), hsl(186, 27%, 56%));
 }
 
 tr.speed4 {
-    background-image: linear-gradient(230deg, hsl(30, 83%, 38%), hsl(30, 49%, 56%));
+	background-image: linear-gradient(230deg, hsl(30, 83%, 38%), hsl(30, 49%, 56%));
 }
 
 tr.speed5 {
-    background-image: linear-gradient(230deg, hsl(0, 54%, 38%), hsl(10, 49%, 56%));
+	background-image: linear-gradient(230deg, hsl(0, 54%, 38%), hsl(10, 49%, 56%));
 }
 
 tr.speed1:hover {
-    background-image: linear-gradient(230deg, hsl(282, 38%, 33%), hsl(282, 27%, 61%));
-    color: #fff;
+	background-image: linear-gradient(230deg, hsl(282, 38%, 33%), hsl(282, 27%, 61%));
+	color: #fff;
 }
 
 tr.speed2:hover {
-    background-image: linear-gradient(230deg, hsl(238, 38%, 33%), hsl(206, 53%, 61%));
-    color: #fff;
+	background-image: linear-gradient(230deg, hsl(238, 38%, 33%), hsl(206, 53%, 61%));
+	color: #fff;
 }
 
 tr.speed3:hover {
-    background-image: linear-gradient(230deg, hsl(186, 38%, 33%), hsl(186, 27%, 61%));
-    color: #fff;
+	background-image: linear-gradient(230deg, hsl(186, 38%, 33%), hsl(186, 27%, 61%));
+	color: #fff;
 }
 
 tr.speed4:hover {
-    background-image: linear-gradient(230deg, hsl(30, 83%, 43%), hsl(30, 49%, 61%));
-    color: #fff;
+	background-image: linear-gradient(230deg, hsl(30, 83%, 43%), hsl(30, 49%, 61%));
+	color: #fff;
 }
 
 tr.speed5:hover {
-    background-image: linear-gradient(230deg, hsl(0, 54%, 43%), hsl(10, 49%, 61%));
-    color: #fff;
+	background-image: linear-gradient(230deg, hsl(0, 54%, 43%), hsl(10, 49%, 61%));
+	color: #fff;
 }
 
 .table-responsive {
-    background-color: rgba(229,229,229, 0.3);
-    border-radius: 4px;
-    border: solid;
-    border-width: 0;
-    margin: 2em;
+	background-color: rgba(229, 229, 229, 0.3);
+	border-radius: 4px;
+	border: solid;
+	border-width: 0;
+	margin: 2em;
+}
+
+.black {
+	background-color: rgba(0,0,0,0.3);
 }
 
 .table {
-    margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 a {
-    color: #bbffff !important;
+	color: #bbffff !important;
 }
 
 a:hover {
-    color: aqua;
+	color: aqua;
 }
 
 a:checked {
-    color:azure;
+	color: azure;
 }
 
 .index_banner {
-    /* position: relative; */
-    padding: 2em 1em;
-    margin: 1em 2em 0em ;
-    border-radius: 20px;
-    box-shadow: 1px 1px 10px #333;
-    background-image: linear-gradient(200deg, #2980b9, #2c3e50);
-    text-align: left;
-    vertical-align: middle;
+	/* position: relative; */
+	padding: 2em 1em;
+	margin: 1em 2em 0em;
+	border-radius: 20px;
+	box-shadow: 1px 1px 10px #333;
+	background-image: linear-gradient(200deg, #2980b9, #2c3e50);
+	text-align: left;
+	vertical-align: middle;
 }
+
 #canvas_bg {
-    position: absolute;
-    /* width: 100%;
+	position: absolute;
+	/* width: 100%;
     height: 100%; */
-    z-index: -10;
+	z-index: -10;
 }
 
 .title {
-    color: #fefeff
+	color: #fefeff
 }
 
 footer {
-    color:#fff;
-    background-image: linear-gradient(90deg, rgba(200,200,255,0.2), rgba(255,255,255,0.4));
-    box-shadow: -10px 0px 50px #333;
-    width: 100%;
-    padding: 2em;
-    margin-bottom: 0px;
+	color: #fff;
+	background-image: linear-gradient(90deg, rgba(200, 200, 255, 0.2), rgba(255, 255, 255, 0.4));
+	box-shadow: -10px 0px 50px #333;
+	width: 100%;
+	padding: 2em;
+	margin-bottom: 0px;
 }

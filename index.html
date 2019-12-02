@@ -9,7 +9,7 @@
 	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-	<link rel="stylesheet" href="./css/index.css?v=201911271723">
+	<link rel="stylesheet" href="./css/index.css?v=201912021553">
 
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -19,7 +19,7 @@
 	<script src="./lib/canvas-bg/TweenLite.min.js"></script>
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
 	<script src="./lib/canvas-bg/rAF.js"></script>
-	<script src="./js/index.js?v=201911271723"></script>
+	<script src="./js/index.js?v=201912021553"></script>
 </head>
 
 <body>
@@ -71,9 +71,11 @@
 				<th>马力 (Ps)</th>
 				<th>动力总成</th>
 				<th>圈速</th>
-				<th>改装</th>
+				<th>改装程度</th>
 				<th>轮胎</th>
 				<th>气温 (℃)</th>
+				<th class="black">尾速</th>
+				<th class="black">0-100</th>
 				<th>链接</th>
 			</thead>
 
@@ -126,6 +128,8 @@
     <td>{{v.mods}}</td>
     <td>{{v.tyre}}</td>
     <td>{{v.temperature}}</td>
+    <td class="black">{{v.limit}}</td>
+    <td class="black">{{v.accelerate}}</td>
     <td>
       <a href="https://www.bilibili.com/video/{{v.BID}}?t={{v.time}}" target="_blank">{{v.Btitle}}</a>
         </td>
