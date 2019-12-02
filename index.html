@@ -9,7 +9,7 @@
 	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-	<link rel="stylesheet" href="./css/index.css?v=201912021553">
+	<link rel="stylesheet" href="./css/index.css?v=201912021706">
 
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -103,8 +103,8 @@
 
 <script type="text/template" id="tb">
 
-	{{each data as v i}}
-  <tr 
+{{each data as v i}}
+<tr 
   class="
   {{if v.speed < 62}}
   speed1
@@ -131,9 +131,9 @@
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
     <td>
-      <a href="https://www.bilibili.com/video/{{v.BID}}?t={{v.time}}" target="_blank">{{v.Btitle}}</a>
+      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
         </td>
-        </tr>
+  </tr>
   {{/each}}
 
     </script>
