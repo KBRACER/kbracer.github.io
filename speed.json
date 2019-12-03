@@ -32,22 +32,6 @@
 		"limit": ""
 	},
 	{
-		"car": "奔驰A45 AMG",
-		"BID": "av76328769",
-		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
-		"hp": "381",
-		"hp_content": "381",
-		"Powertrain": "2.0T/7DCT",
-		"speed": "60.2",
-		"mods": "0",
-		"tyre": "PS4 + RE003",
-		"temperature": "3",
-		"lv": "A",
-		"time": "234",
-		"accelerate": "",
-		"limit": ""
-	},
-	{
 		"car": "飞度（2014）",
 		"BID": "av48683350",
 		"Btitle": "【教主的赛道周末Vlog05】7W买车7W改，超跑飞度成功刷新“键盘车神圈速榜”",
@@ -62,6 +46,22 @@
 		"time": "360",
 		"accelerate": "",
 		"limit": "128"
+	},
+    {
+		"car": "奔驰A45 AMG",
+		"BID": "av76328769",
+		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
+		"hp": "381",
+		"hp_content": "381",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "60.2",
+		"mods": "0",
+		"tyre": "PS4 + RE003",
+		"temperature": "3",
+		"lv": "A",
+		"time": "234",
+		"accelerate": "",
+		"limit": ""
 	},
 	{
 		"car": "速腾GLI（2016）",
@@ -293,7 +293,7 @@
 		"Btitle": "【赛道周末Vlog12】“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
 		"hp": "218",
 		"hp_content": "218",
-		"Powertrain": "2.5ENA/CVT",
+		"Powertrain": "2.5E/CVT",
 		"speed": "66.2",
 		"mods": "0",
 		"tyre": "原厂",
@@ -373,7 +373,7 @@
 		"Btitle": "【赛道周末Vlog12】“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
 		"hp": "215",
 		"hp_content": "215",
-		"Powertrain": "2.0ENA/CVT",
+		"Powertrain": "2.0E/CVT",
 		"speed": "67.6",
 		"mods": "0",
 		"tyre": "原厂",

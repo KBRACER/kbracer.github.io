@@ -1,0 +1,53 @@
+tr.speed0 {
+    background-image: linear-gradient(230deg, hsl(335, 58%, 48%), hsl(335, 47%, 60%));
+}
+
+tr.speed1 {
+    background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
+}
+
+tr.speed2 {
+    background-image: linear-gradient(230deg, hsl(238, 38%, 28%), hsl(206, 53%, 56%));
+}
+
+tr.speed3 {
+    background-image: linear-gradient(230deg, hsl(186, 38%, 28%), hsl(186, 27%, 56%));
+}
+
+tr.speed4 {
+    background-image: linear-gradient(230deg, hsl(25, 83%, 38%), hsl(25, 49%, 56%));
+}
+
+tr.speed5 {
+    background-image: linear-gradient(230deg, hsl(0, 54%, 38%), hsl(5, 49%, 56%));
+}
+
+tr.speed0:hover {
+    background-image: linear-gradient(230deg, hsl(335, 58%, 53%), hsl(335, 47%, 65%));
+    color: #fff;
+}
+
+tr.speed1:hover {
+    background-image: linear-gradient(230deg, hsl(282, 38%, 33%), hsl(282, 27%, 61%));
+    color: #fff;
+}
+
+tr.speed2:hover {
+    background-image: linear-gradient(230deg, hsl(238, 38%, 33%), hsl(206, 53%, 61%));
+    color: #fff;
+}
+
+tr.speed3:hover {
+    background-image: linear-gradient(230deg, hsl(186, 38%, 33%), hsl(186, 27%, 61%));
+    color: #fff;
+}
+
+tr.speed4:hover {
+    background-image: linear-gradient(230deg, hsl(25, 83%, 43%), hsl(25, 49%, 61%));
+    color: #fff;
+}
+
+tr.speed5:hover {
+    background-image: linear-gradient(230deg, hsl(0, 54%, 43%), hsl(5, 49%, 61%));
+    color: #fff;
+}

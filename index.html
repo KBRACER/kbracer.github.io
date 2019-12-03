@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
         <link rel="stylesheet" href="./css/index.css?v=201911251354">
-
+        <link rel="stylesheet" href="./css/speed_lvls.css">
         <script src="https://code.jquery.com/jquery-1.12.4.min.js"
                 integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
         <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
@@ -64,6 +64,8 @@
                     <th>马力 (Ps)</th>
                     <th>动力总成</th>
                     <th>圈速</th>
+                    <th>尾速</th>
+                    <th>0-100kph</th>
                     <th>改装</th>
                     <th>轮胎</th>
                     <th>气温 (℃)</th>
@@ -83,7 +85,8 @@
                     <a href="https://www.weibo.com/u/5934299797" target="_blank"><img src="/img/weibo.png" alt="weibo" style="height: 1.5em;padding-bottom: 0.2em"> @键盘车神教教主</a>
                 </span>
                 <span style="float: right">
-                    查看源代码：<a href="https://github.com/nicholascw/kbracer_laptimes" target="_blank"><img src="/img/github.png" alt="github" style="height: 1.5em;padding-bottom: 0.2em"> GitHub</a>&nbsp;&nbsp;&nbsp;
+                    查看源代码：<img src="/img/github.png" alt="github" style="height: 1.5em;padding-bottom: 0.2em">&nbsp;
+                    <a href="https://github.com/nicholascw/kbracer_laptimes" target="_blank">GitHub</a>&nbsp;&nbsp;&nbsp;
                     <a href="https://github.com/nicholascw/kbracer_laptimes/issues/new?assignees=nicholascw&labels=content+update&template=-----.md&title=%E6%96%B0%E5%9C%88%E9%80%9F%E6%8F%90%E4%BA%A4">圈速不全? 由此提交</a>
                 </span>
             </div>
@@ -95,7 +98,9 @@
   {{each data as v i}}
   <tr 
   class="
-  {{if v.speed < 62}}
+  {{if v.speed < 60}}
+  speed0
+  {{else if v.speed < 62}}
   speed1
   {{else if v.speed < 64}}
   speed2
@@ -114,6 +119,8 @@
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
     <td>{{v.speed | timeFormat}}</td>
+    <td>{{v.limit}}</td>
+    <td>{{v.accelerate}}</td>
     <td>{{v.mods}}</td>
     <td>{{v.tyre}}</td>
     <td>{{v.temperature}}</td>

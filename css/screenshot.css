@@ -37,9 +37,7 @@ a:checked {
 }
 
 .index_banner {
-    padding: 2em 1em;
-    margin: 1em 2em 0em ;
-    border-radius: 20px;
+    padding: 2em;
     box-shadow: 1px 1px 10px #333;
     background-image: linear-gradient(200deg, #2980b9, #2c3e50);
     text-align: left;
@@ -50,11 +48,3 @@ a:checked {
     color: #fefeff
 }
 
-footer {
-    color:#fff;
-    background-image: linear-gradient(90deg, rgba(200,200,255,0.2), rgba(255,255,255,0.4));
-    box-shadow: -10px 0px 50px #333;
-    width: 100%;
-    padding: 2em;
-    margin-bottom: 0px;
-}

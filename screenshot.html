@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>键盘车神教锐思圈速榜</title>
+        <meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
+        <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
+        <link rel="stylesheet" href="./css/screenshot.css?v=201911251354">
+        <link rel="stylesheet" href="./css/speed_lvls.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+                integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="/lib/bootstrap/js/bootstrap-table.min.js"></script>
+        <script src="/lib/template.js"></script>
+        <script src="/js/index.js?v=201911251354"></script>
+    </head>
+
+    <body>
+        <div class="index_banner">
+            <table style="width: 100%">
+                <tr>
+                    <td style="width: 5%"><img src="/img/logo.png" style="padding-right: 1em"/></td>
+                    <td>
+                        <h1 class="title">键盘车神教锐思圈速榜</h1>
+                        <h5 class="title">传说中绝不充值的偶像派车评人教主的真实圈速榜单</h5>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="table-responsive" style="font-size: 150%">
+            <table id="tb_results" class="table table-hover">
+                <thead>
+                    <th>排名</th>
+                    <th>车型</th>
+                    <th>级别</th>
+                    <th>马力 (Ps)</th>
+                    <th>动力总成</th>
+                    <th>圈速</th>
+                    <th>尾速</th>
+                    <th>0-100kph</th>
+                    <th>改装</th>
+                    <th>轮胎</th>
+                    <th>气温 (℃)</th>
+                </thead>
+
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+        <div class="placeholding container" style="flex: 1; padding-bottom: 1em">
+            <td>
+                <div class="col-sm-6">
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">搜索车型</button>
+                        </span>
+                        <input type="text" class="form-control" placeholder="关键字" id="search">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">级别</button>
+                        </span>
+                        <select class="form-control" id="lv">
+                            <option value="all">所有</option>
+                            <option value="A0">A0</option>
+                            <option value="A">A</option>
+                            <option value="B">B</option>
+                            <option value="C">C</option>
+                        </select>
+                    </div>
+                </div>
+            </td>
+        </div>
+    </body>
+
+
+    <script type="text/template" id="tb">
+  {{each data as v i}}
+  <tr 
+  class="
+  {{if v.speed < 60}}
+  speed0
+  {{else if v.speed < 62}}
+  speed1
+  {{else if v.speed < 64}}
+  speed2
+  {{else if v.speed < 66}}
+  speed3
+  {{else if v.speed < 68}}
+  speed4
+  {{else if v.speed > 68}}
+  speed5
+  {{/if}}
+  "
+  >
+    <td>{{i + 1}}</td>
+    <td>{{v.car}}</td>
+    <td>{{v.lv}}</td>
+    <td>{{v.hp_content}}</td>
+    <td>{{v.Powertrain}}</td>
+    <td>{{v.speed | timeFormat}}</td>
+    <td>{{v.limit}}</td>
+    <td>{{v.accelerate}}</td>
+    <td>{{v.mods}}</td>
+    <td>{{v.tyre}}</td>
+    <td>{{v.temperature}}</td>
+    </tr>
+  {{/each}}
+    </script>
+
+</html>
