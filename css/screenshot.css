@@ -37,7 +37,7 @@ a:checked {
 }
 
 .index_banner {
-    padding: 2em;
+    padding: 3em;
     box-shadow: 1px 1px 10px #333;
     background-image: linear-gradient(200deg, #2980b9, #2c3e50);
     text-align: left;

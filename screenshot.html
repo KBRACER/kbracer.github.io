@@ -31,24 +31,38 @@
                 </tr>
             </table>
         </div>
-        <div class="table-responsive" style="font-size: 150%">
-            <table id="tb_results" class="table table-hover">
-                <thead>
-                    <th>排名</th>
-                    <th>车型</th>
-                    <th>级别</th>
-                    <th>马力 (Ps)</th>
-                    <th>动力总成</th>
-                    <th>圈速</th>
-                    <th>改装</th>
-                    <th>轮胎</th>
-                    <th>气温 (℃)</th>
-                </thead>
+        <div>
+            <div class="table-responsive" style="font-size: 150%; float:left">
+                <table id="tb_results" class="table table-hover">
+                    <thead>
+                        <th>排名</th>
+                        <th>车型</th>
+                        <th>级别</th>
+                        <th>马力 (Ps)</th>
+                        <th>动力总成</th>
+                        <th>圈速</th>
+                        <th>改装</th>
+                        <th>轮胎</th>
+                        <th>气温 (℃)</th>
+                    </thead>
 
-                <tbody>
+                    <tbody>
 
-                </tbody>
-            </table>
+                    </tbody>
+                </table>
+            </div>
+            <div class="table-responsive" style="font-size: 150%;text-align: center">
+                <table id="tb_drg_results" class="table table-hover">
+                    <thead>
+                        <th>尾速</th>
+                        <th>0-100kph</th>
+                    </thead>
+
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
         </div>
         <div class="placeholding container" style="flex: 1; padding-bottom: 1em">
             <td>
@@ -109,6 +123,32 @@
     <td>{{v.temperature}}</td>
         </tr>
   {{/each}}
+    </script>
+    <script type="text/template" id="tb_drag">
+
+  {{each data as v i}}
+  <tr 
+  class="
+  {{if v.speed < 60}}
+  speed0
+  {{else if v.speed < 62}}
+  speed1
+  {{else if v.speed < 64}}
+  speed2
+  {{else if v.speed < 66}}
+  speed3
+  {{else if v.speed < 68}}
+  speed4
+  {{else if v.speed > 68}}
+  speed5
+  {{/if}}
+  "
+  >
+    <td>{{v.limit}}</td>
+    <td>{{v.accelerate}}</td>
+        </tr>
+  {{/each}}
+
     </script>
 
 </html>
