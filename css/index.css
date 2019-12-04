@@ -13,6 +13,10 @@ thead {
 	color: #e5e5e5;
 }
 
+tr.speed0 {
+	background-image: linear-gradient(230deg, hsl(335, 58%, 48%), hsl(335, 47%, 60%));
+}
+
 tr.speed1 {
 	background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
 }
@@ -31,6 +35,11 @@ tr.speed4 {
 
 tr.speed5 {
 	background-image: linear-gradient(230deg, hsl(0, 54%, 38%), hsl(10, 49%, 56%));
+}
+
+tr.speed0:hover {
+	background-image: linear-gradient(230deg, hsl(335, 58%, 53%), hsl(335, 47%, 65%));
+	color: #fff;
 }
 
 tr.speed1:hover {
