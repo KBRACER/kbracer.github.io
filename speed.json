@@ -1,8 +1,8 @@
 [
 	{
 		"car": "福克斯RS（2016）",
-		"BID": "",
-		"Btitle": "",
+		"BID": "N/A",
+		"Btitle": "N/A",
 		"hp": "350",
 		"hp_content": "350",
 		"Powertrain": "2.3T/6MT",
@@ -11,14 +11,14 @@
 		"tyre": "原厂",
 		"temperature": "32",
 		"lv": "A",
-		"time": "",
+		"time": "N/A",
 		"accelerate": "5.0",
-		"limit": ""
+		"limit": "N/A"
 	},
 	{
 		"car": "Model3（2019）",
-		"BID": "",
-		"Btitle": "",
+		"BID": "N/A",
+		"Btitle": "N/A",
 		"hp": "462",
 		"hp_content": "462",
 		"Powertrain": "E",
@@ -27,9 +27,9 @@
 		"tyre": "原厂韩泰",
 		"temperature": "32",
 		"lv": "B",
-		"time": "",
-		"accelerate": "",
-		"limit": ""
+		"time": "N/A",
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "奔驰A45 AMG",
@@ -44,8 +44,8 @@
 		"temperature": "3",
 		"lv": "A",
 		"time": "234",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "飞度（2014）",
@@ -60,7 +60,7 @@
 		"temperature": "15",
 		"lv": "A0",
 		"time": "360",
-		"accelerate": "",
+		"accelerate": "N/A",
 		"limit": "128"
 	},
 	{
@@ -93,7 +93,7 @@
 		"lv": "B",
 		"time": "1364",
 		"accelerate": "7.8",
-		"limit": ""
+		"limit": "N/A"
 	},
 	{
 		"car": "领克03（2019）",
@@ -108,7 +108,7 @@
 		"temperature": "6",
 		"lv": "A",
 		"time": "18",
-		"accelerate": "",
+		"accelerate": "N/A",
 		"limit": "127"
 	},
 	{
@@ -156,8 +156,8 @@
 		"temperature": "6",
 		"lv": "A0",
 		"time": "753",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "高尔夫GTI（2012）",
@@ -188,8 +188,8 @@
 		"temperature": "23",
 		"lv": "A",
 		"time": "1407",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "菱帅（2005）",
@@ -220,8 +220,8 @@
 		"temperature": "6",
 		"lv": "B",
 		"time": "185",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "宝马118i（2013）",
@@ -237,7 +237,7 @@
 		"lv": "A",
 		"time": "537",
 		"accelerate": "7.2",
-		"limit": ""
+		"limit": "N/A"
 	},
 	{
 		"car": "名爵MG6（2019）",
@@ -252,7 +252,7 @@
 		"temperature": "23",
 		"lv": "A",
 		"time": "384",
-		"accelerate": "",
+		"accelerate": "N/A",
 		"limit": "120"
 	},
 	{
@@ -268,8 +268,8 @@
 		"temperature": "28",
 		"lv": "A",
 		"time": "1401",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "昂克塞拉（2016）",
@@ -284,8 +284,8 @@
 		"temperature": "31",
 		"lv": "A",
 		"time": "537",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "凯美瑞（2019）",
@@ -301,7 +301,7 @@
 		"lv": "B",
 		"time": "252",
 		"accelerate": "8.8",
-		"limit": ""
+		"limit": "N/A"
 	},
 	{
 		"car": "POLO（2014）",
@@ -316,8 +316,8 @@
 		"temperature": "6",
 		"lv": "A0",
 		"time": "753",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "思铂睿（2009）",
@@ -332,8 +332,8 @@
 		"temperature": "18",
 		"lv": "B",
 		"time": "313",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "威朗（2018）",
@@ -348,8 +348,8 @@
 		"temperature": "26",
 		"lv": "A",
 		"time": "985",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "菱帅（2005）",
@@ -381,7 +381,7 @@
 		"lv": "B",
 		"time": "377",
 		"accelerate": "8.1",
-		"limit": ""
+		"limit": "N/A"
 	},
 	{
 		"car": "福克斯（2012）",
@@ -396,8 +396,8 @@
 		"temperature": "18",
 		"lv": "A",
 		"time": "357",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "POLO（2008）",
@@ -412,8 +412,8 @@
 		"temperature": "18",
 		"lv": "A0",
 		"time": "622",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "菱悦",
@@ -428,8 +428,8 @@
 		"temperature": "28",
 		"lv": "A",
 		"time": "35",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	},
 	{
 		"car": "甲壳虫（2006）",
@@ -444,7 +444,7 @@
 		"temperature": "21",
 		"lv": "A",
 		"time": "531",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "N/A",
+		"limit": "N/A"
 	}
 ]
