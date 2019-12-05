@@ -45,6 +45,7 @@ a:checked {
 }
 
 .title {
-    color: #fefeff
+    color: #fefeff;
+    letter-spacing: 0.05em;
+    text-shadow: 0px 10px 5px #000;
 }
-
