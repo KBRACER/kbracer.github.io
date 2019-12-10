@@ -12,7 +12,9 @@ tbody {
 thead {
 	color: #e5e5e5;
 }
-
+.mini_banner {
+	display: none;
+}
 .txtcenter{
 	text-align: center;
 }
@@ -130,4 +132,21 @@ footer {
 	width: 100%;
 	padding: 2em;
 	margin-bottom: 0px;
+}
+
+/* 移动端适配 */
+@media (max-width: 550px) {
+	.index_banner {
+		display: none;
+	}
+
+	.mini_banner {
+		display: block;
+    padding-left: 20px;
+    padding-top: 20px;
+	}
+
+	.input_ctrl {
+		margin-top: 20px;
+	}
 }
