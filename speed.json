@@ -11,7 +11,7 @@
 		"tyre": "米其林热熔胎",
 		"temperature": "18",
 		"lv": "A",
-		"time": "",
+		"time": "144",
 		"accelerate": "5.0",
 		"limit": ""
 	},
@@ -27,7 +27,7 @@
 		"tyre": "原厂PPS",
 		"temperature": "32",
 		"lv": "A",
-		"time": "",
+		"time": "138",
 		"accelerate": "5.0",
 		"limit": ""
 	},
