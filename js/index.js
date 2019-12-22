@@ -18,7 +18,7 @@ $(function () {
   }
   //获取json数据
   $.ajax({
-    url: './speed.json?v=20191241341',
+    url: './speed.json?v=201912101735',
     async: false,
     success: function (res) {
       // console.log(res);
@@ -28,7 +28,7 @@ $(function () {
   setTable(jsonData)
 
   //选择级别
-  $('#lv').on('change',function(){
+  $('.lv').on('change',function(){
     var lv = $(this).val(),
     arr
 
@@ -44,7 +44,7 @@ $(function () {
   })
 
   //搜索车型
-  $('#search').on('input',function(){
+  $('.search').on('input',function(){
     var val = $(this).val().toLowerCase()
     var arr = jsonData.filter( v => {
       return v.car.toLowerCase().indexOf(val) != -1

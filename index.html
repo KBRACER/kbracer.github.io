@@ -9,17 +9,18 @@
 	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-	<link rel="stylesheet" href="./css/index.css?v=20191241341">
+	<link rel="stylesheet" href="./css/index.css?v=201912101735">
 
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 	<script src="./lib/bootstrap/js/bootstrap.min.js"></script>
 	<script src="./lib/bootstrap/js/bootstrap-table.min.js"></script>
+	<script src="./lib/bootstrap/js/bootstrap-table-zh-CN.min.js"></script>
 	<script src="./lib/template.js"></script>
 	<script src="./lib/canvas-bg/TweenLite.min.js"></script>
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
 	<script src="./lib/canvas-bg/rAF.js"></script>
-	<script src="./js/index.js?v=20191241341"></script>
+	<script src="./js/index.js?v=201912101735"></script>
 </head>
 
 <body>
@@ -41,7 +42,7 @@
 							<span class="input-group-btn">
 								<button class="btn btn-default" type="button">搜索车型</button>
 							</span>
-							<input type="text" class="form-control" placeholder="关键字" id="search">
+							<input type="text" class="form-control search" placeholder="关键字">
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -49,7 +50,7 @@
 							<span class="input-group-btn">
 								<button class="btn btn-default" type="button">级别</button>
 							</span>
-							<select class="form-control" id="lv">
+							<select class="form-control lv">
 								<option value="all">所有</option>
 								<option value="A0">A0</option>
 								<option value="A">A</option>
@@ -61,6 +62,37 @@
 				</td>
 			</tr>
 		</table>
+	</div>
+	<div class="mini_banner">
+		<div class="row">
+			<div class="col-xs-5">
+				<img src="./img/logo.png" />
+			</div>
+
+			<div class="col-xs-6 input_ctrl">
+
+				<div class="input-group">
+					<span class="input-group-btn">
+						<button class="btn btn-default" type="button">搜索车型</button>
+					</span>
+					<input type="text" class="form-control search" placeholder="关键字">
+				</div>
+
+				<br>
+				<div class="input-group">
+					<span class="input-group-btn">
+						<button class="btn btn-default" type="button">级别</button>
+					</span>
+					<select class="form-control lv">
+						<option value="all">所有</option>
+						<option value="A0">A0</option>
+						<option value="A">A</option>
+						<option value="B">B</option>
+						<option value="C">C</option>
+					</select>
+				</div>
+			</div>
+		</div>
 	</div>
 	<div class="table-responsive">
 		<table id="tb_results" class="table table-hover">
