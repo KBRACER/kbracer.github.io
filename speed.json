@@ -368,6 +368,22 @@
 		"limit": "112"
 	},
 	{
+		"car": "标致206",
+		"BID": "N/A",
+		"Btitle": "N/A",
+		"hp": "120",
+		"hp_content": "106+14",
+		"Powertrain": "1.6NA/5MT",
+		"speed": "67.5",
+		"mods": "1",
+		"tyre": "原厂",
+		"temperature": "28",
+		"lv": "A0",
+		"time": "0",
+		"accelerate": "9.7",
+		"limit": "N/A"
+	},
+	{
 		"car": "雅阁（2018）",
 		"BID": "av58322205",
 		"Btitle": "【赛道周末Vlog12】“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
