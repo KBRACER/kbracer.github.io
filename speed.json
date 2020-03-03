@@ -385,8 +385,8 @@
 	},
 	{
 		"car": "标致206",
-		"BID": "N/A",
-		"Btitle": "N/A",
+		"BID": "av93058550",
+		"Btitle": "【206进化二】万元驾驶之王？“标致206” vs “东南菱帅”",
 		"hp": "120",
 		"hp_content": "106+14",
 		"Powertrain": "1.6NA/5MT",
@@ -395,7 +395,7 @@
 		"tyre": "原厂",
 		"temperature": "28",
 		"lv": "A0",
-		"time": "0",
+		"time": "46",
 		"accelerate": "9.7",
 		"limit": "N/A"
 	},
