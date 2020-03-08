@@ -98,11 +98,11 @@
 		<table id="tb_results" class="table table-hover">
 			<thead>
 				<th>排名</th>
+				<th>圈速</th>
 				<th>车型</th>
 				<th>级别</th>
 				<th>马力 (Ps)</th>
 				<th>动力总成</th>
-				<th>圈速</th>
 				<th>改装程度</th>
 				<th>轮胎</th>
 				<th>气温 (℃)</th>
@@ -247,10 +247,10 @@
   >
     <td>{{i + 1}}</td>
     <td>{{v.car}}</td>
+    <td>{{v.speed | timeFormat}}</td>
     <td>{{v.lv}}</td>
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
-    <td>{{v.speed | timeFormat}}</td>
     <td class="txtcenter">{{v.mods}}</td>
     <td>{{v.tyre}}</td>
     <td class="txtcenter">{{v.temperature}}</td>
