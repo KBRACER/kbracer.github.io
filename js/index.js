@@ -18,7 +18,7 @@ $(function () {
   }
   //获取json数据
   $.ajax({
-    url: './speed.json?v=202003171703',
+    url: './speed.json?v=202003171929',
     async: false,
     success: function (res) {
       // console.log(res);
