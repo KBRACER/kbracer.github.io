@@ -208,7 +208,7 @@
 		"limit": ""
 	},
 	{
-		"car": "高尔夫R line（2019）",
+		"car": "高尔夫 R-line（2019）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "150",
@@ -216,7 +216,7 @@
 		"Powertrain": "1.4T/7DCT",
 		"speed": "64.1",
 		"mods": "0",
-		"tyre": "K117",
+		"tyre": "原厂K117",
 		"temperature": "9",
 		"lv": "A",
 		"time": "",
@@ -224,7 +224,7 @@
 		"limit": "124"
 	},
 	{
-		"car": "福克斯ST line（2019）",
+		"car": "福克斯 ST-line（2019）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "184",
@@ -232,7 +232,7 @@
 		"Powertrain": "1.5T/8AT",
 		"speed": "64.3",
 		"mods": "0",
-		"tyre": "PS4",
+		"tyre": "原厂PS4",
 		"temperature": "9",
 		"lv": "A",
 		"time": "",
