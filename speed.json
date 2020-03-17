@@ -208,6 +208,38 @@
 		"limit": ""
 	},
 	{
+		"car": "高尔夫R line（2019）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "150",
+		"hp_content": "150",
+		"Powertrain": "1.4T/7DCT",
+		"speed": "64.1",
+		"mods": "0",
+		"tyre": "K117",
+		"temperature": "9",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.2",
+		"limit": "124"
+	},
+	{
+		"car": "福克斯ST line（2019）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "184",
+		"hp_content": "184",
+		"Powertrain": "1.5T/8AT",
+		"speed": "64.3",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "9",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.9",
+		"limit": "121"
+	},
+	{
 		"car": "菱帅（2005）",
 		"BID": "av31676244",
 		"Btitle": "键盘车神教第3期-6000多块钱改装一台车，你不撞车谁撞车？",
@@ -284,7 +316,7 @@
 		"temperature": "28",
 		"lv": "A",
 		"time": "1401",
-		"accelerate": "",
+		"accelerate": "8.4",
 		"limit": ""
 	},
 	{
