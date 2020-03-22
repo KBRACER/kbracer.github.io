@@ -542,5 +542,21 @@
 		"time": "531",
 		"accelerate": "",
 		"limit": ""
+	},
+	{
+		"car": "奥拓（2013）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "71",
+		"hp_content": "71",
+		"Powertrain": "1.0N/5MT",
+		"speed": "71.3",
+		"mods": "0",
+		"tyre": "原厂",
+		"temperature": "30",
+		"lv": "A00",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
 	}
 ]
