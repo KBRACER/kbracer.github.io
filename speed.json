@@ -1,8 +1,8 @@
 [
 	{
 		"car": "福克斯RS（2016）",
-		"BID": "av78690283",
-		"Btitle": "【赛道周末Vlog16】特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
+		"BID": "BV1vJ411n7TY",
+		"Btitle": "【干货】如何用“4550块”爆改一台福克斯RS，赛道锤爆A45/EVO/S3/领克03+/GTI/思域/飞度？【赛道周末VLOG20】",
 		"hp": "350",
 		"hp_content": "350",
 		"Powertrain": "2.3T/6MT",
@@ -13,12 +13,12 @@
 		"lv": "A",
 		"time": "144",
 		"accelerate": "5.0",
-		"limit": ""
+		"limit": "144"
 	},
 	{
 		"car": "福克斯RS（2016）",
-		"BID": "",
-		"Btitle": "",
+		"BID": "av78690283",
+		"Btitle": "【赛道周末Vlog16】特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
 		"hp": "350",
 		"hp_content": "350",
 		"Powertrain": "2.3T/6MT",
@@ -29,7 +29,7 @@
 		"lv": "A",
 		"time": "138",
 		"accelerate": "5.0",
-		"limit": ""
+		"limit": "138"
 	},
 	{
 		"car": "Model3（2019）",
@@ -44,7 +44,7 @@
 		"temperature": "32",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "3.5",
 		"limit": "148"
 	},
 	{
@@ -60,7 +60,7 @@
 		"temperature": "3",
 		"lv": "A",
 		"time": "234",
-		"accelerate": "",
+		"accelerate": "4.6",
 		"limit": ""
 	},
 	{
@@ -76,7 +76,7 @@
 		"temperature": "15",
 		"lv": "A0",
 		"time": "360",
-		"accelerate": "",
+		"accelerate": "8.0",
 		"limit": "128"
 	},
 	{
