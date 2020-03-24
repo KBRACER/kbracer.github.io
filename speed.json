@@ -80,6 +80,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "宝马330Li（2018）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "252",
+		"hp_content": "252",
+		"Powertrain": "2.0T/8AT",
+		"speed": "62.1",
+		"mods": "1",
+		"tyre": "原厂防爆P7",
+		"temperature": "34",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.2",
+		"limit": "132"
+	},
+	{
 		"car": "速腾GLI（2016）",
 		"BID": "av76939481",
 		"Btitle": "【赛道周末Vlog15】GTI vs GLI -- 大众“推头王”之间的对决？",
