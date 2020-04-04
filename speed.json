@@ -48,6 +48,22 @@
 		"limit": "148"
 	},
 	{
+		"car": "奥迪S4（2018）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "354",
+		"hp_content": "354",
+		"Powertrain": "3T/8AT",
+		"speed": "59.3",
+		"mods": "0",
+		"tyre": "原厂P0",
+		"temperature": "12",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.5",
+		"limit": "141"
+	},
+	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
 		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
