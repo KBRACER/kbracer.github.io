@@ -225,8 +225,8 @@
 	},
 	{
 		"car": "高尔夫 R-Line（2018）",
-		"BID": "",
-		"Btitle": "N/A",
+		"BID": "BV1DK4y1C7vt",
+		"Btitle": "【误】高尔夫R vs 福克斯ST？--赛道周末Vlog23",
 		"hp": "150",
 		"hp_content": "150",
 		"Powertrain": "1.4T/7DCT",
@@ -235,14 +235,14 @@
 		"tyre": "原厂K117",
 		"temperature": "9",
 		"lv": "A",
-		"time": "",
+		"time": "226",
 		"accelerate": "8.2",
 		"limit": "124"
 	},
 	{
 		"car": "福克斯 ST-Line（2019）",
-		"BID": "",
-		"Btitle": "N/A",
+		"BID": "BV1DK4y1C7vt",
+		"Btitle": "【误】高尔夫R vs 福克斯ST？--赛道周末Vlog23",
 		"hp": "184",
 		"hp_content": "184",
 		"Powertrain": "1.5T/8AT",
@@ -251,7 +251,7 @@
 		"tyre": "原厂PS4",
 		"temperature": "9",
 		"lv": "A",
-		"time": "",
+		"time": "300",
 		"accelerate": "8.9",
 		"limit": "121"
 	},
