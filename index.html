@@ -15,11 +15,11 @@
                 integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
         <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
         <script src="/lib/bootstrap/js/bootstrap-table.min.js"></script>
-        <script src="/lib/template.js"></script>
-        <script src="/js/index.js"></script>
     </head>
 
     <body>
+        <script src="/lib/template.js"></script>
+        <script src="/js/index.js"></script>
         <div class="index_banner">
             <table style="width: 100%">
                 <tr>
@@ -29,15 +29,15 @@
                         <h5 class="title">偶像派车评人教主的真实圈速榜单</h5>
                     </td>
                     <td>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <div class="input-group">
                                 <span class="input-group-btn">
-                                    <button class="btn btn-default" type="button">搜索车型</button>
+                                    <button class="btn btn-default" type="button">车型</button>
                                 </span>
                                 <input type="text" class="form-control" placeholder="关键字" id="search">
                             </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <div class="input-group">
                                 <span class="input-group-btn">
                                     <button class="btn btn-default" type="button">级别</button>
@@ -48,6 +48,20 @@
                                     <option value="A">A</option>
                                     <option value="B">B</option>
                                     <option value="C">C</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="input-group">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" type="button">改装</button>
+                                </span>
+                                <select class="form-control" id="mods">
+                                    <option value="all">所有</option>
+                                    <option value="-1">-1</option>
+                                    <option value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
                                 </select>
                             </div>
                         </div>

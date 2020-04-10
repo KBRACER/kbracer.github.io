@@ -6,10 +6,12 @@ $(function () {
             data: arr
         })
         $("#tb_results > tbody").html(htmlStr)
-        var htmlStr2 = template('tb_drag', {
-            data: arr
-        })
-        $("#tb_drg_results > tbody").html(htmlStr2)
+        if($('#tb_drag').length){
+            var htmlStr2 = template('tb_drag', {
+                data: arr
+            })
+            $("#tb_drg_results > tbody").html(htmlStr2)   
+        }
     }
 
     template.defaults.imports.timeFormat = function (date) {
@@ -45,6 +47,22 @@ $(function () {
             setTable(arr)
         }
 
+    }) 
+    
+    //选择改装程度
+    $('#mods').on('change',function(){
+        var mods = $(this).val(),
+            arr
+
+        if(mods == 'all'){
+            setTable(jsonData)
+        }else{
+            arr = jsonData.filter(function(v){
+                return v.mods == mods
+            })
+            setTable(arr)
+        }
+
     })
 
     //搜索车型
@@ -56,5 +74,4 @@ $(function () {
         setTable(arr)
     })
 
-    console.log('%c键盘车神教', "text-shadow:0 1px 0 #ccc,0 2px 0 #c9c9c9,0 3px 0 #bbb, 0 4px 0 #b9b9b9,0 5px 0 #aaa,0 6px 1px rgba(0,0,0,0.1),0 0 5px rgba(0,0,0,0.25),0 10px 10px rgba(0,0,0,0.2),0 20px 20px rgba(0,0,0,0.15);font-size:100px");
 })
