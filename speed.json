@@ -96,6 +96,38 @@
 		"limit": "128"
 	},
 	{
+		"car": "福克斯ST（2013）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "275",
+		"hp_content": "250+25",
+		"Powertrain": "2.0T/6MT",
+		"speed": "60.8",
+		"mods": "1",
+		"tyre": "888R + F1",
+		"temperature": "3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.5",
+		"limit": ""
+	},
+	{
+		"car": "福克斯ST（2013）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "250",
+		"hp_content": "250",
+		"Powertrain": "2.0T/6MT",
+		"speed": "61.3",
+		"mods": "1",
+		"tyre": "888R + F1",
+		"temperature": "13",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.7",
+		"limit": ""
+	},
+	{
 		"car": "宝马330Li（2018）",
 		"BID": "",
 		"Btitle": "",
