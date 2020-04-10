@@ -66,15 +66,15 @@
         </div>
         <div class="placeholding container" style="flex: 1; padding-bottom: 1em">
             <td>
-                <div class="col-sm-6">
+                <div class="col-sm-4">
                     <div class="input-group">
                         <span class="input-group-btn">
-                            <button class="btn btn-default" type="button">搜索车型</button>
+                            <button class="btn btn-default" type="button">车型</button>
                         </span>
                         <input type="text" class="form-control" placeholder="关键字" id="search">
                     </div>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-4">
                     <div class="input-group">
                         <span class="input-group-btn">
                             <button class="btn btn-default" type="button">级别</button>
@@ -85,6 +85,20 @@
                             <option value="A">A</option>
                             <option value="B">B</option>
                             <option value="C">C</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">改装</button>
+                        </span>
+                        <select class="form-control" id="mods">
+                            <option value="all">所有</option>
+                            <option value="-1">-1</option>
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
                         </select>
                     </div>
                 </div>
