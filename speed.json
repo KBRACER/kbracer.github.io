@@ -48,6 +48,22 @@
 		"limit": "148"
 	},
 	{
+		"car": "奥迪 S4（2018）",
+		"BID": "BV1KC4y1x7bk",
+		"Btitle": "V6+四驱=神，你想打几台86？",
+		"hp": "354",
+		"hp_content": "354",
+		"Powertrain": "3.0T/8AT",
+		"speed": "59.3",
+		"mods": "0",
+		"tyre": "原厂 P Zero",
+		"temperature": "12",
+		"lv": "B",
+		"time": "215",
+		"accelerate": "4.5",
+		"limit": "141"
+	},
+	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
 		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
