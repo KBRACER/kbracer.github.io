@@ -43,6 +43,27 @@ $(function () {
 
   })
 
+  //改装原厂
+  $('.mods').on('change',function(){
+    var mods = $(this).val(),
+    arr
+
+    if(mods == 'all'){
+      setTable(jsonData)
+    }else if (mods == 0){
+      arr = jsonData.filter(function(v){
+        return v.mods <= 0
+      })
+      setTable(arr)
+    }else{
+      arr = jsonData.filter(function(v){
+        return v.mods > 0
+      })
+      setTable(arr)
+    }
+
+  })
+
   //搜索车型
   $('.search').on('input',function(){
     var val = $(this).val().toLowerCase()
