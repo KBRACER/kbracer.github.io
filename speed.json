@@ -71,7 +71,7 @@
 		"hp_content": "381",
 		"Powertrain": "2.0T/7DCT",
 		"speed": "60.2",
-		"mods": "0",
+		"mods": "-1",
 		"tyre": "PS4 + RE003",
 		"temperature": "3",
 		"lv": "A",
@@ -109,7 +109,7 @@
 		"lv": "A",
 		"time": "",
 		"accelerate": "6.5",
-		"limit": ""
+		"limit": "134"
 	},
 	{
 		"car": "福克斯ST（2013）",
@@ -125,7 +125,7 @@
 		"lv": "A",
 		"time": "",
 		"accelerate": "6.7",
-		"limit": ""
+		"limit": "135"
 	},
 	{
 		"car": "宝马330Li（2018）",
@@ -188,7 +188,7 @@
 		"temperature": "6",
 		"lv": "A",
 		"time": "18",
-		"accelerate": "",
+		"accelerate": "7.3",
 		"limit": "127"
 	},
 	{
@@ -236,7 +236,7 @@
 		"temperature": "6",
 		"lv": "A0",
 		"time": "753",
-		"accelerate": "",
+		"accelerate": "8.7",
 		"limit": ""
 	},
 	{
