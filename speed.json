@@ -96,6 +96,38 @@
 		"limit": "128"
 	},
 	{
+		"car": "福克斯ST（2013）",
+		"BID": "BV12g4y1z7WV",
+		"Btitle": "10万块买的“低配”梅甘娜RS有多香？",
+		"hp": "275",
+		"hp_content": "250+25",
+		"Powertrain": "2.0T/6MT",
+		"speed": "60.8",
+		"mods": "1",
+		"tyre": "前R888R/后原厂Eagle F1",
+		"temperature": "3",
+		"lv": "A",
+		"time": "85",
+		"accelerate": "6.5",
+		"limit": "134"
+	},
+	{
+		"car": "福克斯ST（2013）",
+		"BID": "BV12g4y1z7WV",
+		"Btitle": "10万块买的“低配”梅甘娜RS有多香？",
+		"hp": "250",
+		"hp_content": "250",
+		"Powertrain": "2.0T/6MT",
+		"speed": "61.3",
+		"mods": "0",
+		"tyre": "原厂 Eagle F1",
+		"temperature": "13",
+		"lv": "A",
+		"time": "170",
+		"accelerate": "6.7",
+		"limit": "135"
+	},
+	{
 		"car": "宝马330Li（2018）",
 		"BID": "BV1R7411D72A",
 		"Btitle": "【送命挑战】普通人开“宝马”能赢赛车手开“奥拓”？-- 赛道周末VLOG21",
