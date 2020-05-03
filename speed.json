@@ -96,6 +96,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "宝马540i(2018)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.0T/8AT",
+		"speed": "60.8",
+		"mods": "0",
+		"tyre": "原厂Eagle F1",
+		"temperature": "7",
+		"lv": "C",
+		"time": "",
+		"accelerate": "5.2",
+		"limit": "139"
+	},
+	{
 		"car": "福克斯ST（2013）",
 		"BID": "",
 		"Btitle": "",
@@ -190,6 +206,22 @@
 		"time": "18",
 		"accelerate": "7.3",
 		"limit": "127"
+	},
+	{
+		"car": "捷豹XF(2014)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.0T/8AT",
+		"speed": "63.2",
+		"mods": "0",
+		"tyre": "原厂P0",
+		"temperature": "7",
+		"lv": "C",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "133"
 	},
 	{
 		"car": "天籁（2019）",
