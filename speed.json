@@ -96,6 +96,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "Giulia（2017）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "330",
+		"hp_content": "280+50",
+		"Powertrain": "2.0T/8AT",
+		"speed": "60.4",
+		"mods": "1",
+		"tyre": "PS4S",
+		"temperature": "30",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.7",
+		"limit": "135"
+	},
+	{
 		"car": "宝马540i(2018)",
 		"BID": "",
 		"Btitle": "",
