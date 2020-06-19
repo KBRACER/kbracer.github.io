@@ -128,6 +128,22 @@
 		"limit": "139"
 	},
 	{
+		"car": "凯迪拉克CT5(2020)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "241",
+		"hp_content": "241",
+		"Powertrain": "2.0T/10AT",
+		"speed": "60.9",
+		"mods": "0",
+		"tyre": "原厂PS4S",
+		"temperature": "32",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
 		"car": "福克斯ST（2013）",
 		"BID": "",
 		"Btitle": "",
