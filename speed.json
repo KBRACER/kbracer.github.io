@@ -176,6 +176,22 @@
 		"limit": "135"
 	},
 	{
+		"car": "领克03+（2019）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "254",
+		"hp_content": "254",
+		"Powertrain": "2.0T/8AT",
+		"speed": "61.4",
+		"mods": "0",
+		"tyre": "原厂MC6",
+		"temperature": "34",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.5",
+		"limit": "129"
+	},
+	{
 		"car": "奥迪A4L（2020）",
 		"BID": "",
 		"Btitle": "",
@@ -190,6 +206,22 @@
 		"time": "",
 		"accelerate": "6.6",
 		"limit": "129"
+	},
+	{
+		"car": "奥迪S3（2017）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "62.0",
+		"mods": "0",
+		"tyre": "AD08R",
+		"temperature": "34",
+		"lv": "A",
+		"time": "",
+		"accelerate": "4.8",
+		"limit": ""
 	},
 	{
 		"car": "宝马330Li（2018）",
@@ -287,6 +319,22 @@
 		"accelerate": "6.9",
 		"limit": "131"
 	},
+	{
+		"car": "高尔夫GTI（2017）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "63.6",
+		"mods": "0",
+		"tyre": "原厂S001",
+		"temperature": "34",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.0",
+		"limit": ""
+	}, 
 	{
 		"car": "菲斯塔（2019）",
 		"BID": "av60306282",
