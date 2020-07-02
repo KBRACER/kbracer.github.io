@@ -9,7 +9,7 @@
 	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-	<link rel="stylesheet" href="./css/index.css?v=201912101735">
+	<link rel="stylesheet" href="./css/index.css?v=202007022224">
 
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
 	<script src="./lib/canvas-bg/TweenLite.min.js"></script>
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
 	<script src="./lib/canvas-bg/rAF.js"></script>
-	<script src="./js/index.js?v=20200423"></script>
+	<script src="./js/index.js?v=202007022224"></script>
 </head>
 
 <body>
@@ -113,7 +113,6 @@
 				<th>排名</th>
 				<th>车型</th>
 				<th>圈速</th>
-				<th>级别</th>
 				<th>马力 (Ps)</th>
 				<th>动力总成</th>
 				<th>改装程度</th>
@@ -121,6 +120,7 @@
 				<th>气温 (℃)</th>
 				<th class="black">尾速</th>
 				<th class="black">0-100</th>
+				<th class="black">级别</th>
 				<th>链接</th>
 			</thead>
 
@@ -261,7 +261,6 @@
     <td>{{i + 1}}</td>
     <td>{{v.car}}</td>
     <td>{{v.speed | timeFormat}}</td>
-    <td>{{v.lv}}</td>
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
     <td class="txtcenter">{{v.mods}}</td>
@@ -269,6 +268,7 @@
     <td class="txtcenter">{{v.temperature}}</td>
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
+    <td class="black center">{{v.lv}}</td>
     <td>
       <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
         </td>
