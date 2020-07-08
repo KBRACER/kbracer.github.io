@@ -416,6 +416,22 @@
 		"limit": "124"
 	},
 	{
+		"car": "菱帅（2005）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "100",
+		"hp_content": "100",
+		"Powertrain": "1.6/5MT",
+		"speed": "64.2",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "30",
+		"lv": "A",
+		"time": "",
+		"accelerate": "10.5",
+		"limit": "116"
+	},
+	{
 		"car": "福克斯 ST-line（2019）",
 		"BID": "",
 		"Btitle": "",
