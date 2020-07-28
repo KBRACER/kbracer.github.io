@@ -27,42 +27,73 @@ $(function () {
   })
   setTable(jsonData)
 
-  //选择级别
-  $('.lv').on('change',function(){
-    var lv = $(this).val(),
+  // //选择级别
+  // $('.lv').on('change',function(){
+  //   var lv = $(this).val(),
+  //   arr
+
+  //   if(lv == 'all'){
+  //     setTable(jsonData)
+  //   }else{
+  //     arr = jsonData.filter(function(v){
+  //       return v.lv == lv
+  //     })
+  //     setTable(arr)
+  //   }
+
+  // })
+
+  // //改装原厂
+  // $('.mods').on('change',function(){
+  //   var mods = $(this).val(),
+  //   arr
+
+  //   if(mods == 'all'){
+  //     setTable(jsonData)
+  //   }else if (mods == 0){
+  //     arr = jsonData.filter(function(v){
+  //       return v.mods <= 0
+  //     })
+  //     setTable(arr)
+  //   }else{
+  //     arr = jsonData.filter(function(v){
+  //       return v.mods > 0
+  //     })
+  //     setTable(arr)
+  //   }
+
+  // })
+
+  
+  $('.mods,.lv').on('change',function(){
+    screen()
+  })
+  // 筛选
+  function screen() {
+    var lv = $('.lv').val(),
+    mods = $('.mods').val(),
     arr
 
-    if(lv == 'all'){
-      setTable(jsonData)
-    }else{
+    if(lv !== 'all'){
       arr = jsonData.filter(function(v){
         return v.lv == lv
       })
-      setTable(arr)
     }
-
-  })
-
-  //改装原厂
-  $('.mods').on('change',function(){
-    var mods = $(this).val(),
-    arr
-
+    
     if(mods == 'all'){
-      setTable(jsonData)
+      // setTable(jsonData)
     }else if (mods == 0){
-      arr = jsonData.filter(function(v){
+      arr = arr.filter(function(v){
         return v.mods <= 0
       })
-      setTable(arr)
     }else{
-      arr = jsonData.filter(function(v){
+      arr = arr.filter(function(v){
         return v.mods > 0
       })
-      setTable(arr)
     }
 
-  })
+    setTable(arr)
+  }
 
   //搜索车型
   $('.search').on('input',function(){
