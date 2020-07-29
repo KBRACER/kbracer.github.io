@@ -69,31 +69,36 @@ $(function () {
     screen()
   })
   // 筛选
-  function screen() {
+  function screen() 
+  {
     var lv = $('.lv').val(),
     mods = $('.mods').val(),
-    arr
+    arr = jsonData
 
-    if(lv !== 'all'){
-      arr = jsonData.filter(function(v){
-        return v.lv == lv
-      })
+    if(lv !== 'all'|| lv !== '')
+    {
+      arr = filterLevel(arr,lv);
+    }
+    if (mods !== 'all'|| mods !== '') 
+    {
+      arr = filterMods(arr,mods);
     }
     
-    if(mods == 'all'){
-      // setTable(jsonData)
-    }else if (mods == 0){
-      arr = arr.filter(function(v){
-        return v.mods <= 0
-      })
-    }else{
-      arr = arr.filter(function(v){
-        return v.mods > 0
-      })
-    }
-
     setTable(arr)
   }
+
+  //过滤级别
+  function filterLevel(data,level)
+  {
+    return res = data.filter(v => v.lv == level)
+  }
+  //过滤改装
+  function filterMods(data,vmod)
+  {
+    if(vmod == 0) return res = data.filter(v => v.mods <= 0 )
+    else return res = data.filter(v => v.mods > 0 )
+  }
+  
 
   //搜索车型
   $('.search').on('input',function(){
