@@ -72,7 +72,7 @@ $(function () {
   function screen() {
     var lv = $('.lv').val(),
     mods = $('.mods').val(),
-    arr
+    arr = jsonData
 
     if(lv !== 'all'){
       arr = jsonData.filter(function(v){
