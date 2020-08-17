@@ -576,6 +576,22 @@
 		"limit": ""
 	},
 	{
+		"car": "CX-4（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "196",
+		"hp_content": "196",
+		"Powertrain": "2.5/6AT",
+		"speed": "66.0",
+		"mods": "0",
+		"tyre": "原厂",
+		"temperature": "36",
+		"lv": "A",
+		"time": "",
+		"accelerate": "9.4",
+		"limit": "121"
+	},
+	{
 		"car": "凯美瑞（2019）",
 		"BID": "av58322205",
 		"Btitle": "【赛道周末Vlog12】“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
