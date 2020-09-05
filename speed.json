@@ -112,6 +112,22 @@
 		"limit": "135"
 	},
 	{
+		"car": "小鹏P7（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "429",
+		"hp_content": "429",
+		"Powertrain": "E",
+		"speed": "60.6",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "31",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.3",
+		"limit": "145"
+	},
+	{
 		"car": "宝马540i(2018)",
 		"BID": "BV1Ya4y1i7mL",
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评 -- 赛道周末Vlog25",
