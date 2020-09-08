@@ -640,6 +640,22 @@
 		"limit": ""
 	},
 	{
+		"car": "飞度（2018）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "131",
+		"hp_content": "131",
+		"Powertrain": "1.5/5MT",
+		"speed": "66.8",
+		"mods": "-1",
+		"tyre": "固铂",
+		"temperature": "29",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
 		"car": "POLO（2014）",
 		"BID": "av45970606",
 		"Btitle": "【教主的赛道周末Vlog04】低配版“飞驰人生”！大众POLO vs 本田飞度，赛道PK谁会赢？",
@@ -655,6 +671,7 @@
 		"accelerate": "",
 		"limit": ""
 	},
+
 	{
 		"car": "思铂睿（2009）",
 		"BID": "av50120061",
