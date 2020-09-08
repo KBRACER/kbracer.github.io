@@ -652,8 +652,8 @@
 		"temperature": "29",
 		"lv": "A0",
 		"time": "",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "8.8",
+		"limit": "120"
 	},
 	{
 		"car": "POLO（2014）",
