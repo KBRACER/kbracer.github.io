@@ -66,11 +66,11 @@ $(function () {
 
   
   $('.mods,.lv').on('change',function(){
-    screen()
+    screen($(this).val())
   })
   // 筛选
-  function screen() {
-    var lv = $('.lv').val(),
+  function screen(lv) {
+    // var lv = $('.lv').val(),
     mods = $('.mods').val(),
     arr = jsonData
 
