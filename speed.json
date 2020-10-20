@@ -1,4 +1,20 @@
-[
+[	
+	{
+		"car": "宝马M4（2019）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "450",
+		"hp_content": "450",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "57.2",
+		"mods": "0",
+		"tyre": "PSS",
+		"temperature": "32",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.5",
+		"limit": "150"
+	},
 	{
 		"car": "福克斯RS（2016）",
 		"BID": "BV1vJ411n7TY",
@@ -14,6 +30,22 @@
 		"time": "144",
 		"accelerate": "5.0",
 		"limit": "144"
+	},
+	{
+		"car": "宝马M2C（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "410",
+		"hp_content": "410",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "57.9",
+		"mods": "0",
+		"tyre": "PSS",
+		"temperature": "32",
+		"lv": "A",
+		"time": "",
+		"accelerate": "4.5",
+		"limit": "148"
 	},
 	{
 		"car": "福克斯RS（2016）",
