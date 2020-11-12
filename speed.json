@@ -1,6 +1,6 @@
 [	
 	{
-		"car": "保时捷911 GTS（2017）",
+		"car": "911 GTS（2017）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "450",
@@ -10,7 +10,7 @@
 		"mods": "0",
 		"tyre": "P0",
 		"temperature": "24",
-		"lv": "",
+		"lv": "跑",
 		"time": "",
 		"accelerate": "3.6",
 		"limit": "157"
