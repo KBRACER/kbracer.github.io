@@ -127,6 +127,11 @@
 		"accelerate": "4.5",
 		"limit": "141"
 	},
+	////////////////////////////////////////////////////  
+	///
+	///                     1min										
+	///
+	////////////////////////////////////////////////////
 	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
@@ -288,6 +293,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "迈锐宝XL（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/9AT",
+		"speed": "61.8",
+		"mods": "0",
+		"tyre": "MC5",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.78",
+		"limit": "131"
+	},
+	{
 		"car": "奥迪S3（2017）",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
@@ -318,6 +339,22 @@
 		"time": "",
 		"accelerate": "6.2",
 		"limit": "132"
+	},
+	{
+		"car": "君威GS（2021）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/9AT",
+		"speed": "62.3",
+		"mods": "0",
+		"tyre": "MC5",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.98",
+		"limit": "129"
 	},
 	{
 		"car": "速腾GLI（2016）",
@@ -366,6 +403,22 @@
 		"time": "18",
 		"accelerate": "7.3",
 		"limit": "127"
+	},
+	{
+		"car": "奔驰A220L（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "190",
+		"hp_content": "190",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "63.3",
+		"mods": "0",
+		"tyre": "泰然者",
+		"temperature": "13",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.1",
+		"limit": "128"
 	},
 	{
 		"car": "捷豹XF(2014)",
@@ -560,6 +613,22 @@
 		"limit": "113"
 	},
 	{
+		"car": "508L（2019）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "211",
+		"hp_content": "211",
+		"Powertrain": "1.8T/8AT",
+		"speed": "64.6",
+		"mods": "0",
+		"tyre": "固特异",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "8.11",
+		"limit": "125"
+	},
+	{
 		"car": "Giulia 200（2017）",
 		"BID": "av43028847",
 		"Btitle": "【教主的赛道周末Vlog02】百万级底盘居然赢不了教主二手菱帅？--Giulia赛道测试",
@@ -568,7 +637,7 @@
 		"Powertrain": "2.0T/8AT",
 		"speed": "64.7",
 		"mods": "0",
-		"tyre": "原厂四季P7",
+		"tyre": "四季P7",
 		"temperature": "6",
 		"lv": "B",
 		"time": "185",
@@ -584,12 +653,28 @@
 		"Powertrain": "1.6T/8AT",
 		"speed": "64.8",
 		"mods": "0",
-		"tyre": "原厂防爆P7",
+		"tyre": "防爆P7",
 		"temperature": "31",
 		"lv": "A",
 		"time": "537",
 		"accelerate": "7.2",
 		"limit": ""
+	},
+	{
+		"car": "K5（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "240",
+		"hp_content": "240",
+		"Powertrain": "2.0T/8AT",
+		"speed": "65.1",
+		"mods": "0",
+		"tyre": "NEXEN",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.48",
+		"limit": "127"
 	},
 	{
 		"car": "名爵MG6（2019）",
@@ -608,6 +693,22 @@
 		"limit": "120"
 	},
 	{
+		"car": "阿特兹（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "192",
+		"hp_content": "192",
+		"Powertrain": "2.5/6AT",
+		"speed": "65.4",
+		"mods": "0",
+		"tyre": "advan DB",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "8.51",
+		"limit": "124"
+	},
+	{
 		"car": "奥迪A3（2016）",
 		"BID": "av57499131",
 		"Btitle": "【键盘测评7】“键盘车神”批判性的买了一台奥迪A3，开起来香么？-- 奥迪A3全面测评",
@@ -616,12 +717,28 @@
 		"Powertrain": "1.4T/7DCT",
 		"speed": "65.5",
 		"mods": "0",
-		"tyre": "原厂",
+		"tyre": "K115",
 		"temperature": "28",
 		"lv": "A",
 		"time": "1401",
 		"accelerate": "8.4",
 		"limit": ""
+	},
+	{
+		"car": "索纳塔（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "240",
+		"hp_content": "240",
+		"Powertrain": "2.0T/8AT",
+		"speed": "65.6",
+		"mods": "0",
+		"tyre": "米其林",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.28",
+		"limit": "129"
 	},
 	{
 		"car": "领克02（2019）",
