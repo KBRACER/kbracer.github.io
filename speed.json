@@ -32,7 +32,23 @@
 		"limit": "157"
 	},
 	{
-		"car": "宝马M4（2019）",
+		"car": "BMW M3（2011）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "420",
+		"hp_content": "420",
+		"Powertrain": "4.0/7DCT",
+		"speed": "55.8",
+		"mods": "0",
+		"tyre": "DH",
+		"temperature": "11",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.24",
+		"limit": "152"
+	},
+	{
+		"car": "BMW M4（2019）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "450",
@@ -48,7 +64,7 @@
 		"limit": "150"
 	},
 	{
-		"car": "福克斯RS（2016）",
+		"car": "Focus RS（2016）",
 		"BID": "BV1vJ411n7TY",
 		"Btitle": "【干货】如何用“4550块”爆改一台福克斯RS，赛道锤爆A45/EVO/S3/领克03+/GTI/思域/飞度？【赛道周末VLOG20】",
 		"hp": "350",
@@ -56,7 +72,7 @@
 		"Powertrain": "2.3T/6MT",
 		"speed": "57.4",
 		"mods": "2",
-		"tyre": "米其林热熔胎",
+		"tyre": "米其林Slick",
 		"temperature": "18",
 		"lv": "A",
 		"time": "144",
@@ -64,7 +80,7 @@
 		"limit": "144"
 	},
 	{
-		"car": "宝马M2C（2020）",
+		"car": "BMW M2C（2020）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "410",
@@ -80,7 +96,7 @@
 		"limit": "148"
 	},
 	{
-		"car": "福克斯RS（2016）",
+		"car": "Focus RS（2016）",
 		"BID": "av78690283",
 		"Btitle": "【赛道周末Vlog16】特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
 		"hp": "350",
