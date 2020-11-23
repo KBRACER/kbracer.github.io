@@ -27,50 +27,13 @@ $(function () {
   })
   setTable(jsonData)
 
-  // //选择级别
-  // $('.lv').on('change',function(){
-  //   var lv = $(this).val(),
-  //   arr
-
-  //   if(lv == 'all'){
-  //     setTable(jsonData)
-  //   }else{
-  //     arr = jsonData.filter(function(v){
-  //       return v.lv == lv
-  //     })
-  //     setTable(arr)
-  //   }
-
-  // })
-
-  // //改装原厂
-  // $('.mods').on('change',function(){
-  //   var mods = $(this).val(),
-  //   arr
-
-  //   if(mods == 'all'){
-  //     setTable(jsonData)
-  //   }else if (mods == 0){
-  //     arr = jsonData.filter(function(v){
-  //       return v.mods <= 0
-  //     })
-  //     setTable(arr)
-  //   }else{
-  //     arr = jsonData.filter(function(v){
-  //       return v.mods > 0
-  //     })
-  //     setTable(arr)
-  //   }
-
-  // })
-
-  
   $('.mods,.lv').on('change',function(){
-    screen($(this).val())
+    // screen($(this).val())
+    screen()
   })
   // 筛选
-  function screen(lv) {
-    // var lv = $('.lv').val(),
+  function screen() {
+    var lv = $('.lv').val(),
     mods = $('.mods').val(),
     arr = jsonData
 

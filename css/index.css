@@ -134,23 +134,30 @@ footer {
 	margin-bottom: 0px;
 }
 
+
+.center {
+	text-align: center;
+}
 /* 移动端适配 */
 @media (max-width: 550px) {
-	.index_banner {
+	.hid {
+		display: none;
+	}
+
+	.options > div {
+		margin-bottom: 5px;
+	}
+	/* .index_banner {
 		display: none;
 	}
 
 	.mini_banner {
 		display: block;
-    padding-left: 20px;
-    padding-top: 20px;
+		padding-left: 20px;
+		padding-top: 20px;
 	}
 
 	.input_ctrl {
 		margin-top: 20px;
-	}
-}
-
-.center {
-	text-align: center;
+	} */
 }
