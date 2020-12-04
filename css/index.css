@@ -3,6 +3,8 @@ body {
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
+
+	overflow-x: hidden;
 }
 
 tbody {
@@ -12,10 +14,12 @@ tbody {
 thead {
 	color: #e5e5e5;
 }
+
 .mini_banner {
 	display: none;
 }
-.txtcenter{
+
+.txtcenter {
 	text-align: center;
 }
 
@@ -82,7 +86,7 @@ tr.speed5:hover {
 }
 
 .black {
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0, 0, 0, 0.3);
 }
 
 .table {
@@ -134,19 +138,53 @@ footer {
 	margin-bottom: 0px;
 }
 
+/* layer */
+.tips-content {
+	padding: 20px;
+	background-color: #000;
+	color: #fff;
+}
+
 
 .center {
 	text-align: center;
 }
+
+#tb_results .icon {
+	width: 15px;
+	cursor: pointer;
+}
+
+#tb_results .ranking,
+#tb_results .limit,
+#tb_results .accelerate,
+#tb_results .speed {
+	min-width: 65px;
+}
+
+#tb_results .mods {
+	min-width: 100px;
+}
+
+#tb_results .lv {
+	min-width: 50px;
+}
+
+#tb_results .temperature {
+	min-width: 90px;
+}
+
+
 /* 移动端适配 */
 @media (max-width: 550px) {
 	.hid {
 		display: none;
 	}
 
-	.options > div {
+	.options>div {
 		margin-bottom: 5px;
 	}
+
 	/* .index_banner {
 		display: none;
 	}

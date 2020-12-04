@@ -9,8 +9,7 @@
 	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
-	<link rel="stylesheet" href="./css/index.css?v=202010091048">
-
+	<link rel="stylesheet" href="./css/index.css?v=202012041306">
 	<!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
 	<script src="https://cdn.bootcdn.net/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -21,7 +20,8 @@
 	<script src="./lib/canvas-bg/TweenLite.min.js"></script>
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
 	<script src="./lib/canvas-bg/rAF.js"></script>
-	<script src="./js/index.js?v=202010091048"></script>
+	<script src="./lib/layer/layer.js"></script>
+	<script src="./js/index.js?v=202012041306"></script>
 </head>
 
 <body>
@@ -117,17 +117,35 @@
 	<div class="table-responsive">
 		<table id="tb_results" class="table table-hover">
 			<thead>
-				<th>排名</th>
-				<th>车型</th>
-				<th>圈速</th>
-				<th class="center">马力 (Ps)</th>
-				<th>动力总成</th>
-				<th class="center">改装程度</th>
-				<th>轮胎</th>
-				<th class="center">气温 (℃)</th>
-				<th class="black">尾速</th>
-				<th class="black">0-100</th>
-				<th class="black">级别</th>
+				<th class="ranking">
+					排名
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="car">车型</th>
+				<th class="speed">
+					圈速
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="hp center">马力 (Ps)</th>
+				<th class="powertrain">动力总成</th>
+				<th class="mods center">
+					改装程度
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="tyre">
+					轮胎
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="temperature center">
+					气温 (℃)
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="limit black">
+					尾速
+					<img src="./img/tips_alarm.png" alt="" class="icon">
+				</th>
+				<th class="accelerate black">0-100</th>
+				<th class="lv black">级别</th>
 				<th>链接</th>
 			</thead>
 
@@ -283,5 +301,46 @@
   {{/each}}
 
 </script>
+
+
+<div class="tips-content tips-content-mods" style="display: none;">
+	<h3>改装程度</h3>
+	<p>改装程度分【0】【1】【2】【3】【-1】</p>
+	<p>【0】纯原厂，包括轮胎，心情件不算。</p>
+	<p>【1】轻度改装，轮胎，轮毂，避震，刹车，进排气，ECU等，不能改装引擎和波箱内部结构，不能使用R胎。这是绝大部分改装车最常见的入门改装。</p>
+	<p>【2】中度改装，引擎改装，如腹内锻造，大涡轮，扩缸或移植非性能引擎。传动系统改装，如LSD+大尾牙。可以使用热熔胎。</p>
+	<p>【3】赛化改装。无限制，专业赛车，移植性能机，序列式，改变悬挂结构等。</p>
+	<p>【-1】一般指使用了比原厂规格更低的轮胎，如A45，或者副驾带人（额外负重）。</p>
+</div>
+
+<div class="tips-content tips-content-temperature" style="display: none;">
+	<h3>气温</h3>
+	<p>最出圈速的气温是轮胎能够起温，且进气温度低。我会尽量选在10-25℃进行测试。</p>
+	<p>气温过高：空气密度低。马力小于200ps的自然吸气引擎，或者高温衰减严重的涡轮买菜车，圈速会变慢。30℃以上区间会非常明显，相比10℃，这些车圈速在锐思会有0.X秒的差距。甚至有些极端车型有超过1s的差距，请大家自行脑补修正。</p>
+	<p>气温过低：如果使用热熔胎在低温环境中测试，会因为轮胎无法进入工作温度而大幅影响圈速。而普通运动轮胎普遍可以在0℃的情况下正常工作。</p>
+	<p>相对而言，散热较好且马力较大的宝马S55车型，保时捷911车型，受到高温影响较小。而搭载四驱的高性能车，如奥迪RS系列，对轮胎起温的要求较低，受到低温影响较小，0℃以下依然能发挥威力。</p>
+</div>
+
+<div class="tips-content tips-content-tyre" style="display: none;">
+	<h3>轮胎磨损</h3>
+	<p>我的测试车辆大多数来自白嫖。有的车借来时轮胎已经有严重磨损或者年份过久，会影响圈速，我都会在节目中说明。（如S3轮胎已经石化）</p>
+</div>
+
+<div class="tips-content tips-content-limit" style="display: none;">
+	<h3>尾速</h3>
+	<p>赛道尾速是指一条赛道中能达到的最高速度，一般在赛道最长的直线中诞生。尾速和01加速一样是动力水准的重要指标，但又有所不同。</p>
+	<p>01加速不仅是对动力的检验，还需要考虑起步时的驱动效率，以及弹射程序的聪明与否。影响尾速的最大因素的仍然是动力水准，如我100ps的原厂菱帅只有112的尾速。但是450ps的911s（992）则是163的尾速。第二影响因素是弯道性能，也就是操控，因为直线上一个弯道出的快不快，直接影响直线部分的起始速度。</p>
+</div>
+
+<div class="tips-content tips-content-ranking" style="display: none;">
+	<h3>为什么我要动态起步</h3>
+	<p>Hot lap，一般被称为飞行圈或者飞驰圈（我喜欢叫飞行圈，因为比较中二）。指得是非静止起步的全力最快圈，也是大家约定俗称进行圈速测试的方式。</p>
+	<p>有人可能会有疑问，因为每台车起始速度不同，但这由车辆性能差异导致，本就应该对圈速产生影响。</p>
+	<p>而静态起步圈速测试和驱动形式关系较大，意义不大，一般并采用。</p>
+</div>
+
+<div class="tips-content tips-content-speed" style="display: none;">
+	<p>圈速是一台车动力，操控性，制动和主动安全性的全面体现。</p>
+</div>
 
 </html>
