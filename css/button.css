@@ -1,7 +1,7 @@
 .button {
   position: relative;
   appearance: none;
-  background: #f72359;
+  background: #337ab7;
   padding: 10px 20px;
   border: none;
   color: white;
@@ -14,8 +14,8 @@
   height: 40px;
   line-height: 20px;
   box-sizing: border-box;
-  float: left;
-  margin-left: 50px;
+  box-shadow: inset 0 -4px 0 #23527c;
+  margin: 0 auto 20px;
 }
 .button span {
   position: relative;
