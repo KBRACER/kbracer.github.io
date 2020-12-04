@@ -67,61 +67,83 @@ $(function () {
     setTable(arr)
   })
 
-  // 各项说明
-  // 改装程度
-  $('.mods .icon').click(function () {
+  // button动效
+  document.querySelector('.button').onmousemove = (e) => {
+    const x = e.pageX - e.target.offsetLeft
+    const y = e.pageY - e.target.offsetTop
+    e.target.style.setProperty('--x', `${x}px`)
+    e.target.style.setProperty('--y', `${y}px`)
+  }
+
+  // // 榜单说明
+
+  $('.button').on('click',function(){
+    
     layer.open({
       type: 1,
+      area: ['820px', '640px'],
+      title:'test',
       shade: false,
-      title: false, 
-      content: $('.tips-content-mods'),
+      content: $('.tips')
     });
   })
-  // 气温
-  $('.temperature .icon').click(function () {
-    layer.open({
-      type: 1,
-      shade: false,
-      title: false, 
-      content: $('.tips-content-temperature'),
-    });
-  })
-  // 轮胎
-  $('.tyre .icon').click(function () {
-    layer.open({
-      type: 1,
-      shade: false,
-      title: false, 
-      content: $('.tips-content-tyre'),
-    });
-  })
-  // 尾速
-  $('.limit .icon').click(function () {
-    layer.open({
-      type: 1,
-      shade: false,
-      title: false, 
-      content: $('.tips-content-limit'),
-    });
-  })
-  // 排名 飞行圈说明
-  $('.ranking .icon').click(function () {
-    layer.open({
-      type: 1,
-      shade: false,
-      title: false, 
-      content: $('.tips-content-ranking'),
-    });
-  })
-  // 圈速
-  $('.speed .icon').click(function () {
-    layer.open({
-      type: 1,
-      shade: false,
-      title: false, 
-      content: $('.tips-content-speed'),
-    });
-  })
+
+
+
+    // // 改装程度
+    // $('.mods .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-mods'),
+    //   });
+    // })
+    // // 气温
+    // $('.temperature .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-temperature'),
+    //   });
+    // })
+    // // 轮胎
+    // $('.tyre .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-tyre'),
+    //   });
+    // })
+    // // 尾速
+    // $('.limit .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-limit'),
+    //   });
+    // })
+    // // 排名 飞行圈说明
+    // $('.ranking .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-ranking'),
+    //   });
+    // })
+    // // 圈速
+    // $('.speed .icon').click(function () {
+    //   layer.open({
+    //     type: 1,
+    //     shade: false,
+    //     title: false, 
+    //     content: $('.tips-content-speed'),
+    //   });
+    // })
 
     ; (function () {
       var width,

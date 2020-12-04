@@ -1,0 +1,45 @@
+.button {
+  position: relative;
+  appearance: none;
+  background: #f72359;
+  // padding: 1em 2em;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  // font-size: 1.2em;
+  cursor: pointer;
+  outline: none;
+  overflow: hidden;
+  border-radius: 100px;
+ 
+  text-align: center;
+  width: 180px;
+  height: 40px;
+  line-height: 20px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 50px;
+  span {
+    position: relative;
+
+    letter-spacing:8px
+  }
+ 
+  &::before {
+    --size: 0;  
+ 
+    content: '';
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    width: var(--size);
+    height: var(--size);
+    background: radial-gradient(circle closest-side, #4405f7, transparent);
+    transform: translate(-50%, -50%);
+    transition: width .2s ease, height .2s ease;
+  }
+ 
+  &:hover::before {
+    --size: 400px;
+  }
+}

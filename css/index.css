@@ -136,6 +136,8 @@ footer {
 	width: 100%;
 	padding: 2em;
 	margin-bottom: 0px;
+
+	line-height: 40px;
 }
 
 /* layer */
@@ -199,3 +201,5 @@ footer {
 		margin-top: 20px;
 	} */
 }
+
+/* button动效 */
