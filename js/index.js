@@ -82,7 +82,7 @@ $(function () {
     layer.open({
       type: 1,
       area: ['820px', '640px'],
-      title:'test',
+      title:null,
       shade: false,
       content: $('.tips')
     });
