@@ -352,6 +352,22 @@
 		"limit": "132"
 	},
 	{
+		"car": "凯迪拉克CT4（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/8AT",
+		"speed": "62.2",
+		"mods": "1",
+		"tyre": "RE003",
+		"temperature": "1",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.0",
+		"limit": "135"
+	},
+	{
 		"car": "君威GS（2021）",
 		"BID": "",
 		"Btitle": "",
@@ -366,6 +382,22 @@
 		"time": "",
 		"accelerate": "6.98",
 		"limit": "129"
+	},
+	{
+		"car": "凯迪拉克CT4（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/8AT",
+		"speed": "62.5",
+		"mods": "0",
+		"tyre": "原厂",
+		"temperature": "1",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.67",
+		"limit": "135"
 	},
 	{
 		"car": "速腾GLI（2016）",
