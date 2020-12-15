@@ -364,7 +364,7 @@
 		"temperature": "1",
 		"lv": "B",
 		"time": "",
-		"accelerate": "7.0",
+		"accelerate": "6.67",
 		"limit": "135"
 	},
 	{
@@ -396,7 +396,7 @@
 		"temperature": "1",
 		"lv": "B",
 		"time": "",
-		"accelerate": "6.67",
+		"accelerate": "7.0",
 		"limit": "135"
 	},
 	{
