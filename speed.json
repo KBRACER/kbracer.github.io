@@ -256,6 +256,22 @@
 		"limit": ""
 	},
 	{
+		"car": "菱帅（2003）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "100",
+		"hp_content": "100",
+		"Powertrain": "1.6/5MT",
+		"speed": "61.0",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "27",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "124"
+	},
+	{
 		"car": "福克斯ST（2013）",
 		"BID": "BV12g4y1z7WV",
 		"Btitle": "10万块买的“低配”梅甘娜RS有多香？--福克斯ST",
@@ -302,6 +318,22 @@
 		"time": "",
 		"accelerate": "6.6",
 		"limit": "129"
+	},
+	{
+		"car": "宝马M6（2006）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "507",
+		"hp_content": "507",
+		"Powertrain": "5.0/7SMG",
+		"speed": "61.5",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "5",
+		"lv": "C",
+		"time": "",
+		"accelerate": "5.2",
+		"limit": "149"
 	},
 	{
 		"car": "迈锐宝XL（2020）",
