@@ -816,6 +816,22 @@
 		"limit": ""
 	},
 	{
+		"car": "零跑S01（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "180",
+		"hp_content": "180",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "65.5",
+		"mods": "0",
+		"tyre": "原厂御乘",
+		"temperature": "26",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.8",
+		"limit": "121"
+	},
+	{
 		"car": "索纳塔（2020）",
 		"BID": "",
 		"Btitle": "",
