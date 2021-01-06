@@ -1135,5 +1135,21 @@
 		"time": "",
 		"accelerate": "",
 		"limit": ""
+	},
+	{
+		"car": "五菱EV（2020）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "27",
+		"hp_content": "27",
+		"Powertrain": "E",
+		"speed": "97.3",
+		"mods": "0",
+		"tyre": "原厂",
+		"temperature": "10",
+		"lv": "A00",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
 	}
 ]
