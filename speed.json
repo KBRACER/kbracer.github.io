@@ -1149,7 +1149,7 @@
 		"temperature": "10",
 		"lv": "A00",
 		"time": "",
-		"accelerate": "",
-		"limit": ""
+		"accelerate": "∞",
+		"limit": "70"
 	}
 ]
