@@ -400,12 +400,12 @@
 		"limit": "135"
 	},
 	{
-		"car": "君威GS（2021）",
+		"car": "君威GS（21）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "237",
 		"hp_content": "237",
-		"Powertrain": "2.0T/9AT",
+		"Powertrain": "2.0T/8AT",
 		"speed": "62.3",
 		"mods": "0",
 		"tyre": "MC5",
@@ -416,7 +416,23 @@
 		"limit": "129"
 	},
 	{
-		"car": "CT4（2020）",
+		"car": "ATS-L（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "279",
+		"hp_content": "279",
+		"Powertrain": "2.0T/9AT",
+		"speed": "62.4",
+		"mods": "0",
+		"tyre": "泰然者",
+		"temperature": "30",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.2",
+		"limit": "131"
+	},
+	{
+		"car": "CT4（20）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "237",
