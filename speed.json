@@ -208,6 +208,22 @@
 		"limit": "145"
 	},
 	{
+		"car": "BMW 330i（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "258",
+		"hp_content": "258",
+		"Powertrain": "2.0T/8AT",
+		"speed": "60.7",
+		"mods": "1",
+		"tyre": "MC6",
+		"temperature": "26",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.8",
+		"limit": "136"
+	},
+	{
 		"car": "宝马540i(18)",
 		"BID": "BV1Ya4y1i7mL",
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评 -- 赛道周末Vlog25",
