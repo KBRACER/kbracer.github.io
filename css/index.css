@@ -176,6 +176,10 @@ footer {
 	min-width: 90px;
 }
 
+#tb_results .car {
+	min-width: 135px;
+}
+
 
 /* 移动端适配 */
 @media (max-width: 550px) {
