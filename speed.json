@@ -144,6 +144,22 @@
 		"limit": "141"
 	},
 	{
+		"car": "CT5(20)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "241",
+		"hp_content": "241",
+		"Powertrain": "2.0T/10AT",
+		"speed": "59.5",
+		"mods": "1",
+		"tyre": "CUP2",
+		"temperature": "26",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": "129"
+	},
+	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
 		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
@@ -268,7 +284,7 @@
 		"temperature": "32",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "8.0",
 		"limit": ""
 	},
 	{
