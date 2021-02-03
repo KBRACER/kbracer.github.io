@@ -816,6 +816,22 @@
 		"limit": "127"
 	},
 	{
+		"car": "UNI-T（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "180",
+		"hp_content": "180",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "65.1",
+		"mods": "0",
+		"tyre": "MC6",
+		"temperature": "-3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "9.95",
+		"limit": "118"
+	},
+	{
 		"car": "名爵MG6（19）",
 		"BID": "av60306282",
 		"Btitle": "“现代菲斯塔”打爆“名爵MG6”，教主再次冲出赛道~",
@@ -880,6 +896,22 @@
 		"limit": "119"
 	},
 	{
+		"car": "领克06（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "177",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "65.5",
+		"mods": "0",
+		"tyre": "UC6",
+		"temperature": "-3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.59",
+		"limit": "122"
+	},
+	{
 		"car": "索纳塔（20）",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
@@ -926,6 +958,22 @@
 		"time": "537",
 		"accelerate": "",
 		"limit": ""
+	},
+	{
+		"car": "吉利ICON（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "177",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "65.8",
+		"mods": "0",
+		"tyre": "UC6",
+		"temperature": "-3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "9.38",
+		"limit": "121"
 	},
 	{
 		"car": "CX-4（20）",
@@ -1071,6 +1119,22 @@
 		"time": "377",
 		"accelerate": "8.1",
 		"limit": ""
+	},
+	{
+		"car": "捷达VS5（19）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "150",
+		"hp_content": "150",
+		"Powertrain": "1.4T/6AT",
+		"speed": "67.7",
+		"mods": "0",
+		"tyre": "玲珑GREEN",
+		"temperature": "-3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "9.02",
+		"limit": "117"
 	},
 	{
 		"car": "福克斯（12）",
