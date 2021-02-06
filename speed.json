@@ -576,6 +576,22 @@
 		"limit": "131"
 	},
 	{
+		"car": "CIVIC（16）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "177",
+		"Powertrain": "1.5T/6MT",
+		"speed": "63.5",
+		"mods": "1",
+		"tyre": "MC5+原厂",
+		"temperature": "6",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.0",
+		"limit": "130"
+	},
+	{
 		"car": "高尔夫GTI（17）",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
