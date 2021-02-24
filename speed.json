@@ -48,6 +48,38 @@
 		"limit": "152"
 	},
 	{
+		"car": "BMW M2（16）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "410",
+		"hp_content": "370+40",
+		"Powertrain": "3.0/7DCT",
+		"speed": "56.6",
+		"mods": "2",
+		"tyre": "AR-1",
+		"temperature": "32",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
+		"car": "BMW M3（18）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "550",
+		"hp_content": "450+100",
+		"Powertrain": "3.0/7DCT",
+		"speed": "56.9",
+		"mods": "1",
+		"tyre": "PS4S",
+		"temperature": "32",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
 		"car": "BMW M4（19）",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
