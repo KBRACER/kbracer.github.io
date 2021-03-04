@@ -192,6 +192,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "Lotus GT410(19)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "410",
+		"hp_content": "410",
+		"Powertrain": "3.5SC/6AT",
+		"speed": "60",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "6",
+		"lv": "S",
+		"time": "",
+		"accelerate": "",
+		"limit": "147"
+	},
+	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
 		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
@@ -581,7 +597,7 @@
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
 		"hp": "340",
 		"hp_content": "340",
-		"Powertrain": "3.0T/8AT",
+		"Powertrain": "3.0SC/8AT",
 		"speed": "63.2",
 		"mods": "0",
 		"tyre": "原厂P0",
