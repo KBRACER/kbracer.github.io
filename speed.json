@@ -198,7 +198,7 @@
 		"hp": "410",
 		"hp_content": "410",
 		"Powertrain": "3.5SC/6AT",
-		"speed": "60",
+		"speed": "60.0",
 		"mods": "0",
 		"tyre": "PS4S",
 		"temperature": "6",
