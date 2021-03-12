@@ -64,6 +64,22 @@
 		"limit": ""
 	},
 	{
+		"car": "BMW M2C（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "410",
+		"hp_content": "410",
+		"Powertrain": "3.0/7DCT",
+		"speed": "56.8",
+		"mods": "1",
+		"tyre": "CUP2",
+		"temperature": "12",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "154"
+	},
+	{
 		"car": "BMW M3（18）",
 		"BID": "",
 		"Btitle": "",
