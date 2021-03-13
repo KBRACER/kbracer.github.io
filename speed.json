@@ -144,6 +144,38 @@
 		"limit": "148"
 	},
 	{
+		"car": "718（18）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "250",
+		"hp_content": "250",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.6",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "31",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "140"
+	},
+	{
+		"car": "Cayman 981(13)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "275",
+		"hp_content": "275",
+		"Powertrain": "2.7/7DCT",
+		"speed": "58.7",
+		"mods": "1",
+		"tyre": "",
+		"temperature": "32",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "139"
+	},
+	{
 		"car": "Focus RS（16）",
 		"BID": "av78690283",
 		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
