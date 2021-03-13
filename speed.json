@@ -143,7 +143,22 @@
 		"accelerate": "4.5",
 		"limit": "148"
 	},
-
+	{
+		"car": "718（18）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "250",
+		"hp_content": "250",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.6",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "31",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "140"
+	},
 	{
 		"car": "Cayman 981(13)",
 		"BID": "",
