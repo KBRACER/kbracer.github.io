@@ -96,6 +96,22 @@
 		"limit": ""
 	},
 	{
+		"car": "GTR（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "555",
+		"hp_content": "555",
+		"Powertrain": "3.8T/6DCT",
+		"speed": "56.9",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "5",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.5",
+		"limit": "159"
+	},
+	{
 		"car": "BMW M4（19）",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
@@ -238,22 +254,6 @@
 		"time": "",
 		"accelerate": "",
 		"limit": "129"
-	},
-	{
-		"car": "GTR（17）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "555",
-		"hp_content": "555",
-		"Powertrain": "3.8T/6DCT",
-		"speed": "59.7",
-		"mods": "-1",
-		"tyre": "嘉仕途",
-		"temperature": "5",
-		"lv": "S",
-		"time": "",
-		"accelerate": "3.5",
-		"limit": "145"
 	},
 	{
 		"car": "Lotus GT410(19)",
