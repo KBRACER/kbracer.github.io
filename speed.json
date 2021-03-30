@@ -80,22 +80,6 @@
 		"limit": "154"
 	},
 	{
-		"car": "GTR（17）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "555",
-		"hp_content": "555",
-		"Powertrain": "3.8T/6DCT",
-		"speed": "59.7",
-		"mods": "-1",
-		"tyre": "嘉仕途",
-		"temperature": "5",
-		"lv": "S",
-		"time": "",
-		"accelerate": "3.5",
-		"limit": "145"
-	},
-	{
 		"car": "BMW M3（18）",
 		"BID": "",
 		"Btitle": "",
@@ -254,6 +238,22 @@
 		"time": "",
 		"accelerate": "",
 		"limit": "129"
+	},
+	{
+		"car": "GTR（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "555",
+		"hp_content": "555",
+		"Powertrain": "3.8T/6DCT",
+		"speed": "59.7",
+		"mods": "-1",
+		"tyre": "嘉仕途",
+		"temperature": "5",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.5",
+		"limit": "145"
 	},
 	{
 		"car": "Lotus GT410(19)",
