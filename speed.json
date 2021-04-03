@@ -72,7 +72,7 @@
 		"Powertrain": "3.0/7DCT",
 		"speed": "56.8",
 		"mods": "1",
-		"tyre": "CUP2",
+		"tyre": "Cup 2",
 		"temperature": "12",
 		"lv": "A",
 		"time": "",
@@ -96,7 +96,7 @@
 		"limit": ""
 	},
 	{
-		"car": "GTR（17）",
+		"car": "GT-R（17）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "555",
@@ -248,7 +248,7 @@
 		"Powertrain": "2.0T/10AT",
 		"speed": "59.5",
 		"mods": "1",
-		"tyre": "CUP2",
+		"tyre": "Cup 2",
 		"temperature": "26",
 		"lv": "B",
 		"time": "",
@@ -256,7 +256,7 @@
 		"limit": "129"
 	},
 	{
-		"car": "Lotus GT410(19)",
+		"car": "LOTUS GT410(19)",
 		"BID": "",
 		"Btitle": "",
 		"hp": "410",
