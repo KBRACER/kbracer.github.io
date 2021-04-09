@@ -304,6 +304,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "梅甘娜RS（14）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "275",
+		"hp_content": "275",
+		"Powertrain": "2.0T/6MT",
+		"speed": "60.35",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "8",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.71",
+		"limit": "139.4"
+	},
+	{
 		"car": "Giulia 280（17）",
 		"BID": "BV1mK411p7rK",
 		"Btitle": "Giulia是B级运动车最强？他能打爆CT5/宝马3/奥迪A4么?",
@@ -478,6 +494,22 @@
 		"time": "",
 		"accelerate": "5.2",
 		"limit": "149"
+	},
+	{
+		"car": "嘉年华ST（13）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "182",
+		"hp_content": "182",
+		"Powertrain": "1.6T/6MT",
+		"speed": "61.56",
+		"mods": "2",
+		"tyre": "AR-1",
+		"temperature": "8",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "7.78",
+		"limit": "131.3"
 	},
 	{
 		"car": "迈锐宝XL（20）",
