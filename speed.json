@@ -160,6 +160,22 @@
 		"limit": "148"
 	},
 	{
+		"car": "思域（16）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "225",
+		"hp_content": "177+48",
+		"Powertrain": "1.5T/6mt",
+		"speed": "58.26",
+		"mods": "2",
+		"tyre": "AR-1/MC6",
+		"temperature": "15",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.8",
+		"limit": "139.34"
+	},
+	{
 		"car": "718（18）",
 		"BID": "",
 		"Btitle": "",
@@ -302,6 +318,22 @@
 		"time": "360",
 		"accelerate": "8.0",
 		"limit": "128"
+	},
+	{
+		"car": "领克03+（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "254",
+		"hp_content": "254",
+		"Powertrain": "2.0T/8at",
+		"speed": "60.21",
+		"mods": "1",
+		"tyre": "原厂MC6",
+		"temperature": "15",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.3",
+		"limit": "133.08"
 	},
 	{
 		"car": "梅甘娜RS（14）",
@@ -1200,7 +1232,7 @@
 		"limit": "121"
 	},
 	{
-		"car": "奔驰A200（20）",
+		"car": "奔驰A200L（20）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "163",
