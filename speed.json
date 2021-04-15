@@ -272,6 +272,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "领克03+（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "254",
+		"hp_content": "254",
+		"Powertrain": "2.0T/8at",
+		"speed": "59.61",
+		"mods": "2",
+		"tyre": "AR-1/MC6",
+		"temperature": "15",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.1",
+		"limit": "133.08"
+	},
+	{
 		"car": "LOTUS GT410(19)",
 		"BID": "",
 		"Btitle": "",
