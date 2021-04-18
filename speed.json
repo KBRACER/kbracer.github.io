@@ -224,7 +224,7 @@
 		"limit": "138"
 	},
 	{
-		"car": "Model 3（19）",
+		"car": "Model 3P（19）",
 		"BID": "av78690283",
 		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
 		"hp": "462",
@@ -880,22 +880,6 @@
 		"limit": "126.41"
 	},
 	{
-		"car": "高尔夫（21）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "150",
-		"hp_content": "150",
-		"Powertrain": "1.4T/7DCT",
-		"speed": "64.12",
-		"mods": "0",
-		"tyre": "邓禄普sp",
-		"temperature": "7",
-		"lv": "A",
-		"time": "",
-		"accelerate": "8.08",
-		"limit": "125.95"
-	},
-	{
 		"car": "福克斯（15）",
 		"BID": "av53756099",
 		"Btitle": "改装福克斯有福克斯RS几分功力？",
@@ -926,6 +910,22 @@
 		"time": "",
 		"accelerate": "8.2",
 		"limit": "124"
+	},
+	{
+		"car": "folf 8（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "150",
+		"hp_content": "150",
+		"Powertrain": "1.4T/7DCT",
+		"speed": "64.12",
+		"mods": "0",
+		"tyre": "邓禄普sp",
+		"temperature": "7",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.08",
+		"limit": "125.95"
 	},
 	{
 		"car": "菱帅（05）",
