@@ -176,6 +176,22 @@
 		"limit": "139.34"
 	},
 	{
+		"car": "Golf GTI（18）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "340",
+		"hp_content": "220+120",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.35",
+		"mods": "2",
+		"tyre": "AR-1",
+		"temperature": "18",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.8",
+		"limit": "140.45"
+	},
+	{
 		"car": "718（18）",
 		"BID": "",
 		"Btitle": "",
@@ -912,7 +928,7 @@
 		"limit": "124"
 	},
 	{
-		"car": "folf 8（21）",
+		"car": "Golf 8（21）",
 		"BID": "",
 		"Btitle": "",
 		"hp": "150",
