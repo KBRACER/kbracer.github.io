@@ -256,6 +256,22 @@
 		"limit": "148"
 	},
 	{
+		"car": "小鹏P7（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "430",
+		"hp_content": "430",
+		"Powertrain": "E",
+		"speed": "59.0",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.3",
+		"limit": "148.20"
+	},
+	{
 		"car": "奥迪S4（18）",
 		"BID": "BV1KC4y1x7bk",
 		"Btitle": "V6+四驱=神，你想打几台86？--奥迪S4",
