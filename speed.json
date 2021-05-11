@@ -720,6 +720,22 @@
 		"limit": ""
 	},
 	{
+		"car": "宝马430i（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "258",
+		"hp_content": "258",
+		"Powertrain": "2.0T/8AT",
+		"speed": "62.94",
+		"mods": "0",
+		"tyre": "泰然者+S001",
+		"temperature": "15",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.8",
+		"limit": "136.10"
+	},
+	{
 		"car": "领克03（19）",
 		"BID": "av76609493",
 		"Btitle": "领克03四缸版,教主愿称他为“A级最速买菜王”",
