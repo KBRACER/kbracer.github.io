@@ -1,5 +1,21 @@
 [	
 	{
+		"car": "911 GT3RS（18）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "570",
+		"hp_content": "521+49",
+		"Powertrain": "4.0/7DCT",
+		"speed": "52.34",
+		"mods": "1",
+		"tyre": "Cup2R",
+		"temperature": "26",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.29",
+		"limit": "164.96"
+	},
+	{
 		"car": "911 S（20）",
 		"BID": "BV16y4y167AL",
 		"Btitle": "911=赛场上的爸爸？",
