@@ -256,22 +256,6 @@
 		"limit": "138"
 	},
 	{
-		"car": "Model 3P（19）",
-		"BID": "av78690283",
-		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
-		"hp": "462",
-		"hp_content": "462",
-		"Powertrain": "E",
-		"speed": "59.2",
-		"mods": "0",
-		"tyre": "原厂韩泰",
-		"temperature": "32",
-		"lv": "B",
-		"time": "",
-		"accelerate": "3.5",
-		"limit": "148"
-	},
-	{
 		"car": "小鹏P7（20）",
 		"BID": "",
 		"Btitle": "",
@@ -286,6 +270,38 @@
 		"time": "",
 		"accelerate": "4.3",
 		"limit": "148.20"
+	},
+	{
+		"car": "CT4（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "270",
+		"hp_content": "237+33",
+		"Powertrain": "2.0T/8AT",
+		"speed": "59.10",
+		"mods": "2",
+		"tyre": "Cup 2",
+		"temperature": "21",
+		"lv": "B",
+		"time": "",
+		"accelerate": "6.22",
+		"limit": "140.24"
+	},
+	{
+		"car": "Model 3P（19）",
+		"BID": "av78690283",
+		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
+		"hp": "462",
+		"hp_content": "462",
+		"Powertrain": "E",
+		"speed": "59.2",
+		"mods": "0",
+		"tyre": "原厂韩泰",
+		"temperature": "32",
+		"lv": "B",
+		"time": "",
+		"accelerate": "3.5",
+		"limit": "148"
 	},
 	{
 		"car": "奥迪S4（18）",
