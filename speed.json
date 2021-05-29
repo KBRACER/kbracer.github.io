@@ -368,6 +368,22 @@
 		"limit": "147"
 	},
 	{
+		"car": "Model Y(21)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "432",
+		"hp_content": "432",
+		"Powertrain": "E",
+		"speed": "60.08",
+		"mods": "0",
+		"tyre": "韩泰K127",
+		"temperature": "21",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.95",
+		"limit": "145.751"
+	},
+	{
 		"car": "奔驰A45 AMG",
 		"BID": "av76328769",
 		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
@@ -830,6 +846,22 @@
 		"time": "",
 		"accelerate": "5.6",
 		"limit": "133"
+	},
+	{
+		"car": "E320L(15)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "272",
+		"hp_content": "272",
+		"Powertrain": "3.0T/7AT",
+		"speed": "63.4",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "30",
+		"lv": "C",
+		"time": "",
+		"accelerate": "7.0",
+		"limit": ""
 	},
 	{
 		"car": "天籁（19）",
