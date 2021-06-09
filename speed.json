@@ -192,6 +192,22 @@
 		"limit": "139.34"
 	},
 	{
+		"car": "C63（10）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "487",
+		"hp_content": "487",
+		"Powertrain": "6.2/7AT",
+		"speed": "58.34",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "5",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.4",
+		"limit": ""
+	},
+	{
 		"car": "Golf GTI（18）",
 		"BID": "",
 		"Btitle": "",
