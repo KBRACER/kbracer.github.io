@@ -784,6 +784,22 @@
 		"limit": "134"
 	},
 	{
+		"car": "C63 507（14）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "507",
+		"hp_content": "507",
+		"Powertrain": "6.2/7AT",
+		"speed": "62.54",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "31",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.2",
+		"limit": ""
+	},
+	{
 		"car": "捷豹XEL（19）",
 		"BID": "av40240801",
 		"Btitle": "你以为宝马3系同级别操控秒天秒地？试试捷豹XEL吧",
