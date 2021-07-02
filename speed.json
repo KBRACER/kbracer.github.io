@@ -144,22 +144,6 @@
 		"limit": "147.375"
 	},
 	{
-		"car": "BMW M4（17）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "431",
-		"hp_content": "431",
-		"Powertrain": "3.0T/7DCT",
-		"speed": "57.3",
-		"mods": "0",
-		"tyre": "PSS",
-		"temperature": "26",
-		"lv": "B",
-		"time": "",
-		"accelerate": "4.3",
-		"limit": "150"
-	},
-	{
 		"car": "BMW M4 ZCP（19）",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
@@ -173,6 +157,22 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.5",
+		"limit": "150"
+	},
+	{
+		"car": "BMW M4（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "431",
+		"hp_content": "431",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "57.3",
+		"mods": "0",
+		"tyre": "PSS",
+		"temperature": "26",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.3",
 		"limit": "150"
 	},
 	{
