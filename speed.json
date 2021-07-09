@@ -288,6 +288,22 @@
 		"limit": "139"
 	},
 	{
+		"car": "Benz A45(16)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "381",
+		"hp_content": "381",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.86",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "6",
+		"lv": "A",
+		"time": "",
+		"accelerate": "4.28S",
+		"limit": "146.72"
+	},
+	{
 		"car": "Focus RS（16）",
 		"BID": "av78690283",
 		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
