@@ -150,14 +150,14 @@
 		"hp": "450",
 		"hp_content": "450",
 		"Powertrain": "3.0T/7DCT",
-		"speed": "57.2",
+		"speed": "57.24",
 		"mods": "0",
 		"tyre": "PSS",
 		"temperature": "32",
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.5",
-		"limit": "150"
+		"limit": "150.42"
 	},
 	{
 		"car": "BMW M4（17）",
@@ -166,14 +166,30 @@
 		"hp": "431",
 		"hp_content": "431",
 		"Powertrain": "3.0T/7DCT",
-		"speed": "57.3",
+		"speed": "57.33",
 		"mods": "0",
 		"tyre": "PSS",
 		"temperature": "26",
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.3",
-		"limit": "150"
+		"limit": "153.79"
+	},
+	{
+		"car": "A45s（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "421",
+		"hp_content": "421",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "57.36",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "24",
+		"lv": "A",
+		"time": "",
+		"accelerate": "3.99",
+		"limit": "150.29"
 	},
 	{
 		"car": "Focus RS（16）",
@@ -198,14 +214,14 @@
 		"hp": "410",
 		"hp_content": "410",
 		"Powertrain": "3.0T/7DCT",
-		"speed": "57.9",
+		"speed": "57.95",
 		"mods": "0",
 		"tyre": "PSS",
 		"temperature": "32",
 		"lv": "A",
 		"time": "",
 		"accelerate": "4.5",
-		"limit": "148"
+		"limit": "148.42"
 	},
 	{
 		"car": "思域（16）",
@@ -270,6 +286,22 @@
 		"time": "",
 		"accelerate": "5.6",
 		"limit": "140"
+	},
+	{
+		"car": "A35（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "306",
+		"hp_content": "306",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.61",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "24",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.22",
+		"limit": "142.67"
 	},
 	{
 		"car": "Cayman 981(13)",
