@@ -64,6 +64,22 @@
 		"limit": "152"
 	},
 	{
+		"car": "G82 M4（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "510",
+		"hp_content": "510",
+		"Powertrain": "3.0T/8AT",
+		"speed": "56.38",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "31",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.34",
+		"limit": "154.03"
+	},
+	{
 		"car": "BMW M2（18）",
 		"BID": "",
 		"Btitle": "",
