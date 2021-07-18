@@ -80,6 +80,22 @@
 		"limit": "154.03"
 	},
 	{
+		"car": "BMW M4（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "431",
+		"hp_content": "431",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "56.45",
+		"mods": "1",
+		"tyre": "PS4S",
+		"temperature": "31",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.49",
+		"limit": "152.19"
+	},
+	{
 		"car": "BMW M2（18）",
 		"BID": "",
 		"Btitle": "",
