@@ -848,6 +848,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "菱帅 进化3（05）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "100",
+		"hp_content": "100",
+		"Powertrain": "1.6/5MT",
+		"speed": "62.35",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "16",
+		"lv": "A",
+		"time": "",
+		"accelerate": "10.5",
+		"limit": ""
+	},
+	{
 		"car": "ATS-L（17）",
 		"BID": "",
 		"Btitle": "",
@@ -925,22 +941,6 @@
 		"lv": "B",
 		"time": "1364",
 		"accelerate": "7.8",
-		"limit": ""
-	},
-	{
-		"car": "菱帅 进化3（05）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "100",
-		"hp_content": "100",
-		"Powertrain": "1.6/5MT",
-		"speed": "62.35",
-		"mods": "1",
-		"tyre": "AD08R",
-		"temperature": "16",
-		"lv": "A",
-		"time": "",
-		"accelerate": "10.5",
 		"limit": ""
 	},
 	{
