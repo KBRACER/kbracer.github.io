@@ -928,6 +928,22 @@
 		"limit": ""
 	},
 	{
+		"car": "菱帅 进化3（05）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "100",
+		"hp_content": "100",
+		"Powertrain": "1.6/5MT",
+		"speed": "62.35",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "16",
+		"lv": "A",
+		"time": "",
+		"accelerate": "10.5",
+		"limit": ""
+	},
+	{
 		"car": "宝马430i（21）",
 		"BID": "",
 		"Btitle": "",
@@ -1118,22 +1134,6 @@
 		"time": "374",
 		"accelerate": "7.3",
 		"limit": "126"
-	},
-	{
-		"car": "菱帅 进化3（05）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "100",
-		"hp_content": "100",
-		"Powertrain": "1.6/5MT",
-		"speed": "63.83",
-		"mods": "1",
-		"tyre": "AD08R",
-		"temperature": "29",
-		"lv": "A",
-		"time": "",
-		"accelerate": "10.5",
-		"limit": ""
 	},
 	{
 		"car": "奥迪A3（21）",
