@@ -784,6 +784,22 @@
 		"limit": "131"
 	},
 	{
+		"car": "菱帅 进化4（05）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "100",
+		"hp_content": "100",
+		"Powertrain": "1.6/5MT",
+		"speed": "61.81",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "5",
+		"lv": "A",
+		"time": "",
+		"accelerate": "10.5",
+		"limit": ""
+	},
+	{
 		"car": "奥迪S3（17）",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
