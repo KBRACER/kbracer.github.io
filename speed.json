@@ -32,6 +32,22 @@
 		"limit": "163"
 	},
 	{
+		"car": "BMW M4（17）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "431",
+		"hp_content": "431",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "55.43",
+		"mods": "1",
+		"tyre": "Cup 2C",
+		"temperature": "32",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.49",
+		"limit": "155.49"
+	},
+	{
 		"car": "911 GTS（17）",
 		"BID": "BV1qi4y1c7kK",
 		"Btitle": "保时捷911，推头还是甩尾？",
