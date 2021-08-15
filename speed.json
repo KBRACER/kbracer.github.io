@@ -624,6 +624,22 @@
 		"limit": "145"
 	},
 	{
+		"car": "迈锐宝XL（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/9AT",
+		"speed": "60.67",
+		"mods": "0",
+		"tyre": "Cup2C",
+		"temperature": "33",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": "125.01"
+	},
+	{
 		"car": "BMW 330i（20）",
 		"BID": "",
 		"Btitle": "",
