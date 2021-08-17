@@ -232,7 +232,7 @@
 		"Powertrain": "2.0T/8DCT",
 		"speed": "57.36",
 		"mods": "0",
-		"tyre": "P0",
+		"tyre": "PS4S",
 		"temperature": "24",
 		"lv": "A",
 		"time": "",
@@ -254,6 +254,22 @@
 		"time": "144",
 		"accelerate": "5.0",
 		"limit": "144"
+	},
+	{
+		"car": "BMW 1M（11）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "400",
+		"hp_content": "340+60",
+		"Powertrain": "3.0T/6MT",
+		"speed": "57.63",
+		"mods": "1",
+		"tyre": "Cup 2",
+		"temperature": "29",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.65",
+		"limit": "148.56"
 	},
 	{
 		"car": "BMW M2C（20）",
