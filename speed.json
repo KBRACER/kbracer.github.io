@@ -576,6 +576,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "CT5 尊贵型(21)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/10AT",
+		"speed": "60.26",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "29",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.73",
+		"limit": "130.22"
+	},
+	{
 		"car": "领克03+（20）",
 		"BID": "",
 		"Btitle": "",
@@ -1038,6 +1054,22 @@
 		"time": "18",
 		"accelerate": "7.3",
 		"limit": "127"
+	},
+	{
+		"car": "BMW 325Li（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "184",
+		"hp_content": "184",
+		"Powertrain": "2.0T/8AT",
+		"speed": "63.28",
+		"mods": "",
+		"tyre": "P7",
+		"temperature": "29",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.90",
+		"limit": "125.26"
 	},
 	{
 		"car": "A220L（20）",
