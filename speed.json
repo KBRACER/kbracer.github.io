@@ -272,6 +272,22 @@
 		"limit": "148.56"
 	},
 	{
+		"car": "迈锐宝XL（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "257",
+		"hp_content": "237+20",
+		"Powertrain": "2.0T/9AT",
+		"speed": "57.77",
+		"mods": "2",
+		"tyre": "Cup2C",
+		"temperature": "26",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": "141.06"
+	},
+	{
 		"car": "BMW M2C（20）",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
