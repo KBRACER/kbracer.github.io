@@ -576,22 +576,6 @@
 		"limit": "128"
 	},
 	{
-		"car": "CT5 尊贵型(21)",
-		"BID": "",
-		"Btitle": "",
-		"hp": "237",
-		"hp_content": "237",
-		"Powertrain": "2.0T/10AT",
-		"speed": "60.26",
-		"mods": "0",
-		"tyre": "PS4S",
-		"temperature": "29",
-		"lv": "B",
-		"time": "",
-		"accelerate": "7.73",
-		"limit": "130.22"
-	},
-	{
 		"car": "领克03+（20）",
 		"BID": "",
 		"Btitle": "",
@@ -606,6 +590,22 @@
 		"time": "",
 		"accelerate": "6.3",
 		"limit": "133.08"
+	},
+		{
+		"car": "CT5 尊贵型(21)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "237",
+		"hp_content": "237",
+		"Powertrain": "2.0T/10AT",
+		"speed": "60.26",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "29",
+		"lv": "B",
+		"time": "",
+		"accelerate": "7.73",
+		"limit": "130.22"
 	},
 	{
 		"car": "梅甘娜RS（14）",
