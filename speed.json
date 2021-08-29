@@ -768,6 +768,22 @@
 		"limit": "125"
 	},
 	{
+		"car": "GTI 8（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "61.25",
+		"mods": "0",
+		"tyre": "MC6",
+		"temperature": "26",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.54",
+		"limit": "135.10"
+	},
+	{
 		"car": "福克斯ST（13）",
 		"BID": "BV12g4y1z7WV",
 		"Btitle": "10万块买的“低配”梅甘娜RS有多香？",
@@ -1022,6 +1038,22 @@
 		"time": "",
 		"accelerate": "4.2",
 		"limit": ""
+	},
+	{
+		"car": "GTI 8（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "62.69",
+		"mods": "0",
+		"tyre": "邓禄普050",
+		"temperature": "26",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.92",
+		"limit": "132.71"
 	},
 	{
 		"car": "捷豹XEL（19）",
