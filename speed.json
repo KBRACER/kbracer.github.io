@@ -80,22 +80,6 @@
 		"limit": "152"
                 },
 	{
-		"car": "迈锐宝XL（20）",
-		"BID": "",
-		"Btitle": "",
-		"hp": "257",
-		"hp_content": "237+20",
-		"Powertrain": "2.0T/9AT",
-		"speed": "56.29",
-		"mods": "2",
-		"tyre": "DM",
-		"temperature": "27",
-		"lv": "B",
-		"time": "",
-		"accelerate": "6.21",
-		"limit": "141.09"
-                },
-	{
  		"car": "G82 M4（21）",
 		"BID": "BV1pP4y1x7dg",
 		"Btitle": "大80马力，新M4动力却输给老M4？",
