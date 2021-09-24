@@ -22,7 +22,7 @@
 		"hp": "450",
 		"hp_content": "450",
 		"Powertrain": "3.0T/8DCT",
-		"speed": "54.8",
+		"speed": "54.83",
 		"mods": "0",
 		"tyre": "P0 PZ4",
 		"temperature": "13",
@@ -46,6 +46,22 @@
 		"time": "",
 		"accelerate": "4.49",
 		"limit": "155.49"
+	},
+	{
+		"car": "F8 Tributo（219）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "720",
+		"hp_content": "720",
+		"Powertrain": "3.9T/7DCT",
+		"speed": "55.49",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "31",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.72",
+		"limit": "166.44"
 	},
 	{
 		"car": "911 GTS（17）",
