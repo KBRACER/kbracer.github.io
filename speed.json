@@ -768,6 +768,22 @@
 		"limit": "134"
 	},
 	{
+		"car": "野马(20)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "350",
+		"hp_content": "299+51",
+		"Powertrain": "2.3T/10AT",
+		"speed": "60.84",
+		"mods": "1",
+		"tyre": "P0",
+		"temperature": "5",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.58",
+		"limit": "134.31"
+	},
+	{
 		"car": "CT5(20)",
 		"BID": "BV1ci4y1V7Ko",
 		"Btitle": "“洗浴城”的运动之王！--凯迪拉克CT5",
@@ -942,6 +958,22 @@
 		"time": "",
 		"accelerate": "4.8",
 		"limit": ""
+	},
+	{
+		"car": "野马(15)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "350",
+		"hp_content": "314+36",
+		"Powertrain": "2.3T/6AT",
+		"speed": "62.00",
+		"mods": "1",
+		"tyre": "PSS",
+		"temperature": "5",
+		"lv": "S",
+		"time": "",
+		"accelerate": "6.45",
+		"limit": "134.63"
 	},
 	{
 		"car": "宝马330Li（18）",
