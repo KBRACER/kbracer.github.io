@@ -1,4 +1,4 @@
-﻿[	
+[	
 	{
 		"car": "911 GT3RS（18）",
 		"BID": "BV1fA411g7RK",
@@ -560,6 +560,22 @@
 		"limit": "135.49"
 	},
 	{
+		"car": "野马（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "299",
+		"hp_content": "299",
+		"Powertrain": "2.3T/10at",
+		"speed": "59.89",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "3",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.57",
+		"limit": "135.16"
+	},
+	{
 		"car": "LOTUS GT410(19)",
 		"BID": "BV1hZ4y1P7Br",
 		"Btitle": "路特斯GT410，比保时捷911更硬？",
@@ -590,22 +606,6 @@
 		"time": "",
 		"accelerate": "4.95",
 		"limit": "145.751"
-	},
-	{
-		"car": "奔驰A45 AMG",
-		"BID": "av76328769",
-		"Btitle": "工匠派口吐芬芳？教主A45圈速实锤！",
-		"hp": "381",
-		"hp_content": "381",
-		"Powertrain": "2.0T/7DCT",
-		"speed": "60.2",
-		"mods": "-1",
-		"tyre": "PS4 + RE003",
-		"temperature": "3",
-		"lv": "A",
-		"time": "234",
-		"accelerate": "4.6",
-		"limit": ""
 	},
 	{
 		"car": "飞度（14）",
@@ -772,7 +772,6 @@
 		"BID": "",
 		"Btitle": "",
 		"hp": "350",
-		"hp_content": "299+51",
 		"Powertrain": "2.3T/10AT",
 		"speed": "60.84",
 		"mods": "1",
