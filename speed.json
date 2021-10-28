@@ -272,6 +272,22 @@
 		"limit": "150.29"
 	},
 	{
+		"car": "CT5 2.7（20）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "325",
+		"hp_content": "325",
+		"Powertrain": "2.7T/10AT",
+		"speed": "57.38",
+		"mods": "2",
+		"tyre": "CUP2R",
+		"temperature": "19",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.40",
+		"limit": "145.06"
+	},
+	{
 		"car": "Focus RS（16）",
 		"BID": "BV1vJ411n7TY",
 		"Btitle": "【干货】如何用“4550块”爆改一台福克斯RS，赛道锤爆A45/EVO/S3...",
