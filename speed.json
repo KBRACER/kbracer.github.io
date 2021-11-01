@@ -608,6 +608,22 @@
 		"limit": "135.16"
 	},
 	{
+		"car": "MINI JCW（13",
+		"BID": "",
+		"Btitle": "",
+		"hp": "211",
+		"hp_content": "211",
+		"Powertrain": "1.6T/6AT",
+		"speed": "59.96",
+		"mods": "2",
+		"tyre": "TD",
+		"temperature": "9",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "6.08",
+		"limit": "136.57"
+	},
+	{
 		"car": "LOTUS GT410(19)",
 		"BID": "BV1hZ4y1P7Br",
 		"Btitle": "路特斯GT410，比保时捷911更硬？",
@@ -734,6 +750,22 @@
 		"time": "",
 		"accelerate": "4.3",
 		"limit": "145"
+	},
+	{
+		"car": "MINI JCW（13",
+		"BID": "",
+		"Btitle": "",
+		"hp": "211",
+		"hp_content": "211",
+		"Powertrain": "1.6T/6AT",
+		"speed": "60.63",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "9",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "6.08",
+		"limit": "138.19"
 	},
 	{
 		"car": "迈锐宝XL（20）",
