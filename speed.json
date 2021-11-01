@@ -224,6 +224,22 @@
 		"limit": "147.37"
 	},
 	{
+		"car": "X4M（21）",
+		"BID": "",
+		"Btitle": "",
+		"hp": "510",
+		"hp_content": "510",
+		"Powertrain": "3.0T/8AT",
+		"speed": "57.19",
+		"mods": "0",
+		"tyre": "SC6",
+		"temperature": "9",
+		"lv": "B",
+		"time": "",
+		"accelerate": "3.9",
+		"limit": "151.967"
+	},
+	{
 		"car": "BMW M4 ZCP（19）",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
@@ -242,7 +258,7 @@
 	{
 		"car": "BMW M4（17）",
 		"BID": "BV1Eo4y1k7PD",
-		"Btitle": "教主卖车？F82 M4超长伪干货全面详解。（对比C63 GIULIA QV RS5 911 G82，普版与ZCP区别）",
+		"Btitle": "教主卖车？F82 M4超长伪干货全面详解。（对比C63 GIULIA QV RS5 911 G82）",
 		"hp": "431",
 		"hp_content": "431",
 		"Powertrain": "3.0T/7DCT",
@@ -752,7 +768,7 @@
 		"limit": "136"
 	},
 	{
-		"car": "宝马540i(18)",
+		"car": "BMW 540i(18)",
 		"BID": "BV1Ya4y1i7mL",
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
 		"hp": "340",
@@ -799,7 +815,7 @@
 		"limit": "134.31"
 	},
 	{
-		"car": "CT5(20)",
+		"car": "CT5 顶配(20)",
 		"BID": "BV1ci4y1V7Ko",
 		"Btitle": "“洗浴城”的运动之王！--凯迪拉克CT5",
 		"hp": "241",
@@ -807,7 +823,7 @@
 		"Powertrain": "2.0T/10AT",
 		"speed": "60.9",
 		"mods": "0",
-		"tyre": "原厂PS4S",
+		"tyre": "PS4S",
 		"temperature": "32",
 		"lv": "B",
 		"time": "",
@@ -895,7 +911,7 @@
 		"limit": "129"
 	},
 	{
-		"car": "宝马M6（06）",
+		"car": "BMW M6（06）",
 		"BID": "BV1Hy4y1Y7Jz",
 		"Btitle": "20多万，买F1的V10引擎~",
 		"hp": "507",
@@ -991,7 +1007,7 @@
 		"limit": "134.63"
 	},
 	{
-		"car": "宝马330Li（18）",
+		"car": "BMW 330Li（18）",
 		"BID": "BV1uk4y1o7NE",
 		"Btitle": "5W改装宝马330Li，还跑不过捷豹XEL嘛？",
 		"hp": "252",
@@ -1151,7 +1167,7 @@
 		"limit": ""
 	},
 	{
-		"car": "宝马430i（21）",
+		"car": "BMW 430i（21）",
 		"BID": "BV1kK4y1R7Lb",
 		"Btitle": "2.0T卖60W+？宝马430i性能让我很失望",
 		"hp": "258",
@@ -1519,7 +1535,7 @@
 		"limit": ""
 	},
 	{
-		"car": "宝马118i（13）",
+		"car": "BMW 118i（13）",
 		"BID": "av36925339",
 		"Btitle": "【键盘对决第1期】马自达昂克赛拉VS宝马118（下集）",
 		"hp": "170",
@@ -1759,7 +1775,7 @@
 		"limit": "124"
 	},
 	{
-		"car": "宝马120（21）",
+		"car": "BMW 120（21）",
 		"BID": "BV1Fb4y1Q7Fu",
 		"Btitle": "奔驰宝马被高尔夫吊打？凯特姐“进退两男”？",
 		"hp": "140",
