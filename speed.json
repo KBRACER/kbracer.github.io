@@ -736,6 +736,20 @@
 		"limit": "135"
 	},
 	{
+		"car": "Brz(15)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "200",
+		"hp_content": "200",
+		"Powertrain": "2.0/6MT",
+		"speed": "60.50",
+		"mods": "1",
+		"tyre": "PS4",
+		"temperature": "10",
+		"lv": "S",
+		"limit": "133.77"
+	},
+	{
 		"car": "小鹏P7（20",
 		"BID": "BV1Ra4y1L7p2",
 		"Btitle": "电动妖刀！小鹏P7！",
