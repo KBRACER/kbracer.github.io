@@ -911,7 +911,22 @@
 		"accelerate": "6.7",
 		"limit": "135"
 	},
-
+	{
+		"car": "Brz(15)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "200",
+		"hp_content": "200",
+		"Powertrain": "2.0/6MT",
+		"speed": "61.38",
+		"mods": "0",
+		"tyre": "Advan DB",
+		"temperature": "10",
+		"lv": "S",
+		"time": "",
+		"accelerate": "7.70",
+		"limit": "133.33"
+	},
 	{
 		"car": "领克03+（19",
 		"BID": "BV1ui4y137jA",
