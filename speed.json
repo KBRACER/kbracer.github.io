@@ -852,6 +852,7 @@
 		"BID": "",
 		"Btitle": "",
 		"hp": "350",
+		"hp_content": "250+25",
 		"Powertrain": "2.3T/10AT",
 		"speed": "60.84",
 		"mods": "1",
