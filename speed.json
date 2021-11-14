@@ -736,22 +736,6 @@
 		"limit": "135"
 	},
 	{
-		"car": "Brz(15)",
-		"BID": "",
-		"Btitle": "",
-		"hp": "200",
-		"hp_content": "200",
-		"Powertrain": "2.0/6MT",
-		"speed": "60.50",
-		"mods": "1",
-		"tyre": "PS4",
-		"temperature": "10",
-		"lv": "S",
-		"time": "",
-		"accelerate": "7.70",
-		"limit": "133.77"
-	},
-	{
 		"car": "小鹏P7（20",
 		"BID": "BV1Ra4y1L7p2",
 		"Btitle": "电动妖刀！小鹏P7！",
@@ -767,22 +751,7 @@
 		"accelerate": "4.3",
 		"limit": "145"
 	},
-	{
-		"car": "Brz(17)",
-		"BID": "",
-		"Btitle": "",
-		"hp": "200",
-		"hp_content": "200",
-		"Powertrain": "2.0/6AT",
-		"speed": "60.61",
-		"mods": "1",
-		"tyre": "PS4",
-		"temperature": "10",
-		"lv": "S",
-		"time": "",
-		"accelerate": "8.40",
-		"limit": "132.28"
-	},
+
 	{
 		"car": "MINI JCW（13",
 		"BID": "",
@@ -942,22 +911,7 @@
 		"accelerate": "6.7",
 		"limit": "135"
 	},
-	{
-		"car": "Brz(15)",
-		"BID": "",
-		"Btitle": "",
-		"hp": "200",
-		"hp_content": "200",
-		"Powertrain": "2.0/6MT",
-		"speed": "61.38",
-		"mods": "0",
-		"tyre": "Advan DB",
-		"temperature": "10",
-		"lv": "S",
-		"time": "",
-		"accelerate": "7.70",
-		"limit": "133.33"
-	},
+
 	{
 		"car": "领克03+（19",
 		"BID": "BV1ui4y137jA",
