@@ -608,6 +608,22 @@
 		"limit": "135.16"
 	},
 	{
+		"car": "极氪001（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "544",
+		"hp_content": "544",
+		"Powertrain": "E",
+		"speed": "59.91",
+		"mods": "0",
+		"tyre": "PC6",
+		"temperature": "10",
+		"lv": "C",
+		"time": "",
+		"accelerate": "3.88",
+		"limit": "149.39"
+	},
+	{
 		"car": "MINI JCW（13",
 		"BID": "",
 		"Btitle": "",
