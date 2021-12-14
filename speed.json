@@ -335,7 +335,22 @@
 		"accelerate": "5.65",
 		"limit": "148.56"
 	},
-
+	{
+		"car": "伊兰特N（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "280",
+		"hp_content": "280",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "57.68",
+		"mods": "-1",
+		"tyre": "原PS4S/PS4S",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.67",
+		"limit": "145.83"
+	},
 	{
 		"car": "迈锐宝XL（20",
 		"BID": "",
