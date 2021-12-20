@@ -208,6 +208,22 @@
 		"limit": "159"
 	},
 	{
+		"car": "伊兰特N（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "280",
+		"hp_content": "280",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "56.91",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "5",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.67",
+		"limit": "143.75"
+	},
+	{
 		"car": "Supra（21",
 		"BID": "BV1bU4y1V7Cf",
 		"Btitle": "SUPRA赛道吊打M-Power全系！",
