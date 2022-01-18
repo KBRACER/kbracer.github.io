@@ -110,7 +110,23 @@
 		"time": "",
 		"accelerate": "6.21",
 		"limit": "141.09"
-                },
+    },
+    {
+		"car": "奥迪RS4（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "450",
+		"hp_content": "450",
+		"Powertrain": "2.9T/8AT",
+		"speed": "56.30",
+		"mods": "0",
+		"tyre": "SC6",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "3.93",
+		"limit": "150.22"
+    },      
 	{
  		"car": "G82 M4（21",
 		"BID": "BV1pP4y1x7dg",
