@@ -1472,6 +1472,22 @@
 		"limit": "125.26"
 	},
 	{
+		"car": "捷豹XF(14",
+		"BID": "BV1Ya4y1i7mL",
+		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.0SC/8AT",
+		"speed": "63.2",
+		"mods": "0",
+		"tyre": "原厂P0",
+		"temperature": "7",
+		"lv": "C",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "133"
+	},
+	{
 		"car": "A220L（20",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
@@ -1488,20 +1504,20 @@
 		"limit": "128"
 	},
 	{
-		"car": "捷豹XF(14",
-		"BID": "BV1Ya4y1i7mL",
-		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
-		"hp": "340",
-		"hp_content": "340",
-		"Powertrain": "3.0SC/8AT",
-		"speed": "63.2",
+		"car": "思域HB（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "177",
+		"Powertrain": "1.5T/CVT",
+		"speed": "63.37",
 		"mods": "0",
-		"tyre": "原厂P0",
-		"temperature": "7",
-		"lv": "C",
+		"tyre": "",
+		"temperature": "13",
+		"lv": "A",
 		"time": "",
-		"accelerate": "5.6",
-		"limit": "133"
+		"accelerate": "7.98",
+		"limit": "127.82"
 	},
 	{
 		"car": "E320L(15",
@@ -1630,6 +1646,22 @@
 		"time": "374",
 		"accelerate": "7.3",
 		"limit": "126"
+	},
+	{
+		"car": "思域（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "182",
+		"Powertrain": "1.5T/CVT",
+		"speed": "63.91",
+		"mods": "0",
+		"tyre": "",
+		"temperature": "13",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.13",
+		"limit": "129.61"
 	},
 	{
 		"car": "奥迪A3（21",
