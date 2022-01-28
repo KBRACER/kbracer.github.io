@@ -528,6 +528,22 @@
 		"limit": "142.67"
 	},
 	{
+		"car": "GTI 8（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.61",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "2",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "139.40"
+	},
+	{
 		"car": "Cayman 981(13",
 		"BID": "BV1cX4y1G7EH",
 		"Btitle": "保时捷中置跑车内战，自然吸气6缸 vs 涡轮增压4缸~ | 新老Cayman谁更强？",
@@ -1140,7 +1156,7 @@
 		"BID": "",
 		"Btitle": "",
 		"hp": "190",
-		"hp_content": "190",
+		"hp_content": "117+73",
 		"Powertrain": "2.5/6MT",
 		"speed": "61.61",
 		"mods": "2",
