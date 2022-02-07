@@ -240,6 +240,22 @@
 		"limit": "143.75"
 	},
 	{
+		"car": "奥迪S3（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "56.98",
+		"mods": "2",
+		"tyre": "214",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.04",
+		"limit": "144.02"
+	},
+	{
 		"car": "Supra（21",
 		"BID": "BV1bU4y1V7Cf",
 		"Btitle": "SUPRA赛道吊打M-Power全系！",
