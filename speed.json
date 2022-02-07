@@ -352,6 +352,22 @@
 		"limit": "144"
 	},
 	{
+		"car": "奥迪S3（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "57.56",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.04",
+		"limit": "141.90"
+	},
+	{
 		"car": "BMW 1M（11",
 		"BID": "BV1Gg411L7cQ",
 		"Btitle": "开3000km来北京 改装1M赛道屠榜M全系？",
@@ -375,8 +391,8 @@
 		"hp_content": "280",
 		"Powertrain": "2.0T/8DCT",
 		"speed": "57.68",
-		"mods": "-1",
-		"tyre": "原PS4S/PS4S",
+		"mods": "0",
+		"tyre": "PS4S(HN)",
 		"temperature": "4",
 		"lv": "A",
 		"time": "",
