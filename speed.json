@@ -111,6 +111,22 @@
 		"accelerate": "6.21",
 		"limit": "141.09"
     },
+       {
+		"car": "奥迪RS3（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "530",
+		"hp_content": "400+130",
+		"Powertrain": "2.5T/7DCT",
+		"speed": "56.25",
+		"mods": "2",
+		"tyre": "Z214",
+		"temperature": "30",
+		"lv": "A",
+		"time": "",
+		"accelerate": "3.67",
+		"limit": "153.39"
+    },    
     {
 		"car": "奥迪RS4（22",
 		"BID": "",
