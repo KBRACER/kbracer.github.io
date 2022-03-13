@@ -769,6 +769,23 @@
 		"limit": "135.49"
 	},
 	{
+		"car": "飞度（14",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0/6MT",
+		"speed": "59.81",
+		"mods": "2",
+		"tyre": "NS2R",
+		"temperature": "30",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "",
+		"limit": "136.96"
+	},
+	
+	{
 		"car": "野马（20",
 		"BID": "",
 		"Btitle": "",
