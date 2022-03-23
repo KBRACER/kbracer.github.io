@@ -1170,6 +1170,22 @@
 		"limit": "135"
 	},
 	{
+		"car": "思域SI（14",
+		"BID": "",
+		"Btitle": "",
+		"hp": "207",
+		"hp_content": "207",
+		"Powertrain": "2.4/6MT",
+		"speed": "61.33",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.1",
+		"limit": "130.97"
+	},
+	{
 		"car": "Brz(15)",
 		"BID": "",
 		"Btitle": "",
@@ -1253,8 +1269,8 @@
 		"car": "马自达3(17)",
 		"BID": "",
 		"Btitle": "",
-		"hp": "190",
-		"hp_content": "117+73",
+		"hp": "192",
+		"hp_content": "192",
 		"Powertrain": "2.5/6MT",
 		"speed": "61.61",
 		"mods": "2",
@@ -1698,6 +1714,22 @@
 		"limit": "130"
 	},
 	{
+		"car": "翼神（13",
+		"BID": "",
+		"Btitle": "",
+		"hp": "170",
+		"hp_content": "170",
+		"Powertrain": "2.4/5MT",
+		"speed": "63.53",
+		"mods": "2",
+		"tyre": "P7",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.8",
+		"limit": "126.56"
+	},
+	{
 		"car": "高尔夫GTI（17",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
@@ -1952,6 +1984,22 @@
 		"time": "185",
 		"accelerate": "",
 		"limit": ""
+	},
+	{
+		"car": "马自达3（16",
+		"BID": "",
+		"Btitle": "",
+		"hp": "192",
+		"hp_content": "192",
+		"Powertrain": "2.5/6AT",
+		"speed": "64.73",
+		"mods": "2",
+		"tyre": "MXM4",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.5",
+		"limit": "119.7"
 	},
 	{
 		"car": "BMW 118i（13",
