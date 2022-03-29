@@ -127,6 +127,22 @@
 		"accelerate": "",
 		"limit": "155.127"
 	},
+	{
+		"car": "Huracan EVO（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "611",
+		"hp_content": "611",
+		"Powertrain": "5.2/7DCT",
+		"speed": "55.98",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "4",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.60",
+		"limit": "162.601"
+	},
     {
 		"car": "奥迪RS3（17",
 		"BID": "",
