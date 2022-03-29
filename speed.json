@@ -143,6 +143,22 @@
 		"accelerate": "3.60",
 		"limit": "162.601"
 	},
+	{
+		"car": "Cayman GTS（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.4/7DCT",
+		"speed": "56.14",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "11",
+		"lv": "S",
+		"time": "",
+		"accelerate": "4.45",
+		"limit": "150.08"
+	},
     {
 		"car": "奥迪RS3（17",
 		"BID": "",
