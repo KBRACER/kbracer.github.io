@@ -16,6 +16,22 @@
 		"limit": "164.96"
 	},
 	{
+		"car": "BMW M4（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "521",
+		"hp_content": "431+90",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "54.77",
+		"mods": "2",
+		"tyre": "TD",
+		"temperature": "0",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": "159.49"
+	},
+	{
 		"car": "911 S（20",
 		"BID": "BV16y4y167AL",
 		"Btitle": "911=赛场上的爸爸？",
@@ -94,7 +110,71 @@
 		"time": "",
 		"accelerate": "5.24",
 		"limit": "152"
-                },
+    },
+	{
+		"car": "BMW M2C（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "410",
+		"hp_content": "410",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "55.95",
+		"mods": "2",
+		"tyre": "TR",
+		"temperature": "7",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "155.127"
+	},
+	{
+		"car": "Huracan EVO（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "611",
+		"hp_content": "611",
+		"Powertrain": "5.2/7DCT",
+		"speed": "55.98",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "4",
+		"lv": "S",
+		"time": "",
+		"accelerate": "3.60",
+		"limit": "162.601"
+	},
+	{
+		"car": "Cayman GTS（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.4/7DCT",
+		"speed": "56.14",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "11",
+		"lv": "S",
+		"time": "",
+		"accelerate": "4.45",
+		"limit": "150.08"
+	},
+    {
+		"car": "奥迪RS3（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "530",
+		"hp_content": "400+130",
+		"Powertrain": "2.5T/7DCT",
+		"speed": "56.25",
+		"mods": "2",
+		"tyre": "Z214",
+		"temperature": "30",
+		"lv": "A",
+		"time": "",
+		"accelerate": "3.67",
+		"limit": "153.39"
+    },   
 	{
 		"car": "迈锐宝XL（20",
 		"BID": "",
@@ -110,7 +190,24 @@
 		"time": "",
 		"accelerate": "6.21",
 		"limit": "141.09"
-                },
+    },
+ 
+    {
+		"car": "奥迪RS4（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "450",
+		"hp_content": "450",
+		"Powertrain": "2.9T/8AT",
+		"speed": "56.30",
+		"mods": "0",
+		"tyre": "SC6",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "3.93",
+		"limit": "150.22"
+    },      
 	{
  		"car": "G82 M4（21",
 		"BID": "BV1pP4y1x7dg",
@@ -160,12 +257,28 @@
 		"limit": ""
 	},
 	{
+		"car": "C43（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "390",
+		"hp_content": "390",
+		"Powertrain": "3.0T/9AT",
+		"speed": "56.76",
+		"mods": "1",
+		"tyre": "CUP2C",
+		"temperature": "6",
+		"lv": "B",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
 		"car": "BMW M2C（20",
 		"BID": "BV1tA411N7",
 		"Btitle": "换胎快1秒？键盘车神の终极改装~",
 		"hp": "410",
 		"hp_content": "410",
-		"Powertrain": "3.0/7DCT",
+		"Powertrain": "3.0T/7DCT",
 		"speed": "56.8",
 		"mods": "1",
 		"tyre": "Cup 2",
@@ -181,7 +294,7 @@
 		"Btitle": "改装30W，宝马M2 vs M3 赛道大战~",
 		"hp": "550",
 		"hp_content": "450+100",
-		"Powertrain": "3.0/7DCT",
+		"Powertrain": "3.0T/7DCT",
 		"speed": "56.9",
 		"mods": "1",
 		"tyre": "PS4S",
@@ -199,13 +312,45 @@
 		"hp_content": "555",
 		"Powertrain": "3.8T/6DCT",
 		"speed": "56.9",
-		"mods": "0",
+		"mods": "-1",
 		"tyre": "PS4S",
 		"temperature": "5",
 		"lv": "S",
 		"time": "",
 		"accelerate": "3.5",
 		"limit": "159"
+	},
+	{
+		"car": "伊兰特N（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "280",
+		"hp_content": "280",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "56.91",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "5",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.67",
+		"limit": "143.75"
+	},
+	{
+		"car": "奥迪S3（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "56.98",
+		"mods": "2",
+		"tyre": "214",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.04",
+		"limit": "144.02"
 	},
 	{
 		"car": "Supra（21",
@@ -320,6 +465,22 @@
 		"limit": "144"
 	},
 	{
+		"car": "奥迪S3（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "57.56",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.04",
+		"limit": "141.90"
+	},
+	{
 		"car": "BMW 1M（11",
 		"BID": "BV1Gg411L7cQ",
 		"Btitle": "开3000km来北京 改装1M赛道屠榜M全系？",
@@ -334,6 +495,22 @@
 		"time": "",
 		"accelerate": "5.65",
 		"limit": "148.56"
+	},
+	{
+		"car": "伊兰特N（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "280",
+		"hp_content": "280",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "57.68",
+		"mods": "0",
+		"tyre": "PS4S(HN)",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.67",
+		"limit": "145.83"
 	},
 	{
 		"car": "迈锐宝XL（20",
@@ -352,6 +529,22 @@
 		"limit": "141.06"
 	},
 	{
+		"car": "奥迪S3（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "290",
+		"hp_content": "290",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "57.78",
+		"mods": "1",
+		"tyre": "卫途01",
+		"temperature": "4",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.04",
+		"limit": "141.02"
+	},
+	{
 		"car": "BMW M2C（20",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
@@ -366,6 +559,22 @@
 		"time": "",
 		"accelerate": "4.5",
 		"limit": "148.42"
+	},
+	{
+		"car": "Kona N（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "280",
+		"hp_content": "280",
+		"Powertrain": "2.0T/8DCT",
+		"speed": "58.25",
+		"mods": "-1",
+		"tyre": "P0 PZ4",
+		"temperature": "7",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.77",
+		"limit": "142.27"
 	},
 	{
 		"car": "思域（16",
@@ -446,6 +655,22 @@
 		"time": "",
 		"accelerate": "5.22",
 		"limit": "142.67"
+	},
+	{
+		"car": "GTI 8（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "58.61",
+		"mods": "1",
+		"tyre": "Cup2C",
+		"temperature": "2",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "139.40"
 	},
 	{
 		"car": "Cayman 981(13",
@@ -576,6 +801,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "03+Cyan（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "265",
+		"hp_content": "265",
+		"Powertrain": "2.0T/8at",
+		"speed": "59.54",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "2",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.10",
+		"limit": "134.06"
+	},
+	{
 		"car": "领克03+（20",
 		"BID": "BV1A84y1c7fR",
 		"Btitle": "京城最速03+有多快，手动思域追不上？【头文字D追走】",
@@ -592,6 +833,23 @@
 		"limit": "135.49"
 	},
 	{
+		"car": "飞度（14",
+		"BID": "",
+		"Btitle": "",
+		"hp": "220",
+		"hp_content": "220",
+		"Powertrain": "2.0/6MT",
+		"speed": "59.81",
+		"mods": "3",
+		"tyre": "NS2R",
+		"temperature": "30",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "",
+		"limit": "136.96"
+	},
+	
+	{
 		"car": "野马（20",
 		"BID": "",
 		"Btitle": "",
@@ -606,6 +864,22 @@
 		"time": "",
 		"accelerate": "5.57",
 		"limit": "135.16"
+	},
+	{
+		"car": "极氪001（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "544",
+		"hp_content": "544",
+		"Powertrain": "E",
+		"speed": "59.91",
+		"mods": "0",
+		"tyre": "PC6",
+		"temperature": "10",
+		"lv": "C",
+		"time": "",
+		"accelerate": "3.88",
+		"limit": "149.39"
 	},
 	{
 		"car": "MINI JCW（13",
@@ -868,6 +1142,7 @@
 		"BID": "",
 		"Btitle": "",
 		"hp": "350",
+		"hp_content": "250+25",
 		"Powertrain": "2.3T/10AT",
 		"speed": "60.84",
 		"mods": "1",
@@ -927,6 +1202,22 @@
 		"limit": "135.10"
 	},
 	{
+		"car": "02HB",
+		"BID": "",
+		"Btitle": "",
+		"hp": "254",
+		"hp_content": "254",
+		"Powertrain": "2.0T/8AT",
+		"speed": "61.27",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "15",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.84",
+		"limit": "129.15"
+	},
+	{
 		"car": "福克斯ST（13",
 		"BID": "BV12g4y1z7WV",
 		"Btitle": "10万块买的“低配”梅甘娜RS有多香？",
@@ -941,6 +1232,22 @@
 		"time": "",
 		"accelerate": "6.7",
 		"limit": "135"
+	},
+	{
+		"car": "思域SI（14",
+		"BID": "",
+		"Btitle": "",
+		"hp": "207",
+		"hp_content": "207",
+		"Powertrain": "2.4/6MT",
+		"speed": "61.33",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.1",
+		"limit": "130.97"
 	},
 	{
 		"car": "Brz(15)",
@@ -1023,6 +1330,22 @@
 		"limit": "131.3"
 	},
 	{
+		"car": "马自达3(17)",
+		"BID": "",
+		"Btitle": "",
+		"hp": "192",
+		"hp_content": "192",
+		"Powertrain": "2.5/6MT",
+		"speed": "61.61",
+		"mods": "2",
+		"tyre": "PS4S",
+		"temperature": "3",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.96",
+		"limit": "130.76"
+	},
+	{
 		"car": "Brz(17)",
 		"BID": "",
 		"Btitle": "",
@@ -1062,7 +1385,7 @@
 		"hp_content": "100",
 		"Powertrain": "1.6/5MT",
 		"speed": "61.81",
-		"mods": "1",
+		"mods": "2",
 		"tyre": "AD08R",
 		"temperature": "5",
 		"lv": "A",
@@ -1183,6 +1506,22 @@
 		"limit": "131"
 	},
 	{
+		"car": "思域（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "182",
+		"hp_content": "182",
+		"Powertrain": "1.5T/CVT",
+		"speed": "62.42",
+		"mods": "1",
+		"tyre": "PS5",
+		"temperature": "0",
+		"lv": "A",
+		"time": "",
+		"accelerate": "",
+		"limit": "131.46"
+	},
+	{
 		"car": "CT4（20",
 		"BID": "BV1wa4y1H72F",
 		"Btitle": "凯迪拉克CT4：美国的宝马E90～",
@@ -1228,6 +1567,38 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.2",
+		"limit": ""
+	},
+	{
+		"car": "星越L（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "238",
+		"hp_content": "238",
+		"Powertrain": "2.0T/8AT",
+		"speed": "62.61",
+		"mods": "0",
+		"tyre": "Eagle F1",
+		"temperature": "12",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.07",
+		"limit": ""
+	},
+	{
+		"car": "206 进化3（06",
+		"BID": "",
+		"Btitle": "",
+		"hp": "165",
+		"hp_content": "106+59",
+		"Powertrain": "1.8/5MT",
+		"speed": "62.68",
+		"mods": "2",
+		"tyre": "AD08R",
+		"temperature": "10",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "7.1",
 		"limit": ""
 	},
 	{
@@ -1311,6 +1682,22 @@
 		"limit": "125.26"
 	},
 	{
+		"car": "捷豹XF(14",
+		"BID": "BV1Ya4y1i7mL",
+		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
+		"hp": "340",
+		"hp_content": "340",
+		"Powertrain": "3.0SC/8AT",
+		"speed": "63.2",
+		"mods": "0",
+		"tyre": "原厂P0",
+		"temperature": "7",
+		"lv": "C",
+		"time": "",
+		"accelerate": "5.6",
+		"limit": "133"
+	},
+	{
 		"car": "A220L（20",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
@@ -1327,20 +1714,20 @@
 		"limit": "128"
 	},
 	{
-		"car": "捷豹XF(14",
-		"BID": "BV1Ya4y1i7mL",
-		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
-		"hp": "340",
-		"hp_content": "340",
-		"Powertrain": "3.0SC/8AT",
-		"speed": "63.2",
+		"car": "思域HB（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "177",
+		"hp_content": "177",
+		"Powertrain": "1.5T/CVT",
+		"speed": "63.37",
 		"mods": "0",
-		"tyre": "原厂P0",
-		"temperature": "7",
-		"lv": "C",
+		"tyre": "Advan DB",
+		"temperature": "13",
+		"lv": "A",
 		"time": "",
-		"accelerate": "5.6",
-		"limit": "133"
+		"accelerate": "7.98",
+		"limit": "127.82"
 	},
 	{
 		"car": "E320L(15",
@@ -1375,7 +1762,7 @@
 		"limit": "131"
 	},
 	{
-		"car": "CIVIC（16",
+		"car": "思域（16",
 		"BID": "BV1rp4y1H7Ce",
 		"Btitle": "思域比领克03强在哪？改装+原厂全面解析！",
 		"hp": "177",
@@ -1389,6 +1776,22 @@
 		"time": "",
 		"accelerate": "7.0",
 		"limit": "130"
+	},
+	{
+		"car": "翼神（13",
+		"BID": "",
+		"Btitle": "",
+		"hp": "170",
+		"hp_content": "170",
+		"Powertrain": "2.4/5MT",
+		"speed": "63.53",
+		"mods": "2",
+		"tyre": "P7",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.8",
+		"limit": "126.56"
 	},
 	{
 		"car": "高尔夫GTI（17",
@@ -1423,7 +1826,7 @@
 		"limit": "129"
 	},
 	{
-		"car": "C2（07",
+		"car": "C2 进化2（07",
 		"BID": "BV1yt4y1z7Mo",
 		"Btitle": "【206进化4】135马力，不怕飞度、速翼特！",
 		"hp": "135",
@@ -1469,6 +1872,22 @@
 		"time": "374",
 		"accelerate": "7.3",
 		"limit": "126"
+	},
+	{
+		"car": "思域（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "182",
+		"hp_content": "182",
+		"Powertrain": "1.5T/CVT",
+		"speed": "63.91",
+		"mods": "0",
+		"tyre": "玛吉斯510",
+		"temperature": "13",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.13",
+		"limit": "129.61"
 	},
 	{
 		"car": "奥迪A3（21",
@@ -1631,6 +2050,22 @@
 		"limit": ""
 	},
 	{
+		"car": "马自达3（16",
+		"BID": "",
+		"Btitle": "",
+		"hp": "192",
+		"hp_content": "192",
+		"Powertrain": "2.5/6AT",
+		"speed": "64.73",
+		"mods": "2",
+		"tyre": "MXM4",
+		"temperature": "33",
+		"lv": "A",
+		"time": "",
+		"accelerate": "8.5",
+		"limit": "119.7"
+	},
+	{
 		"car": "BMW 118i（13",
 		"BID": "av36925339",
 		"Btitle": "【键盘对决第1期】马自达昂克赛拉VS宝马118（下集）",
@@ -1791,6 +2226,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "凡尔赛（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "175",
+		"hp_content": "175",
+		"Powertrain": "1.6T/8AT",
+		"speed": "65.62",
+		"mods": "0",
+		"tyre": "固特异 御乘",
+		"temperature": "10",
+		"lv": "B",
+		"time": "",
+		"accelerate": "9.21",
+		"limit": "122.82"
+	},
+	{
 		"car": "领克02（19",
 		"BID": "BV1wh411d7X4",
 		"Btitle": "【B站】发了台“领克02”给我，SUV我就不去赛道了么？",
@@ -1903,7 +2354,7 @@
 		"limit": ""
 	},
 	{
-		"car": "标志206(06",
+		"car": "206 进化1(06",
 		"BID": "BV17E411u7hn",
 		"Btitle": "【206进化三】啥叫“新手改装4件套”？-- 8000块改一台标致206",
 		"hp": "130",
@@ -1935,6 +2386,22 @@
 		"limit": "120"
 	},
 	{
+		"car": "ES200（20",
+		"BID": "",
+		"Btitle": "",
+		"hp": "173",
+		"hp_content": "173",
+		"Powertrain": "2.0/CVT",
+		"speed": "66.89",
+		"mods": "0",
+		"tyre": "原厂",
+		"temperature": "9",
+		"lv": "C",
+		"time": "",
+		"accelerate": "",
+		"limit": ""
+	},
+	{
 		"car": "POLO（14",
 		"BID": "av45970606",
 		"Btitle": "低配版“飞驰人生”！大众POLO vs 本田飞度",
@@ -1950,7 +2417,6 @@
 		"accelerate": "",
 		"limit": ""
 	},
-
 	{
 		"car": "思铂睿（09",
 		"BID": "av50120061",
@@ -1967,6 +2433,7 @@
 		"accelerate": "",
 		"limit": ""
 	},
+
 	{
 		"car": "威朗（18",
 		"BID": "av38448486",
@@ -2048,7 +2515,7 @@
 		"limit": ""
 	},
 	{
-		"car": "标志206（06",
+		"car": "206（06",
 		"BID": "BV1oE411E7Q2",
 		"Btitle": "【206进化二】万元驾驶之王？“标致206”vs“东南菱帅”",
 		"hp": "120",
