@@ -1819,11 +1819,11 @@
 		"speed": "63.55",
 		"mods": "1",
 		"tyre": "AD08R",
-		"temperature": "33",
-		"lv": "A",
+		"temperature": "0",
+		"lv": "A0",
 		"time": "",
-		"accelerate": "7.8",
-		"limit": "126.56"
+		"accelerate": "",
+		"limit": ""
 	},
 	{
 		"car": "高尔夫GTI（17",
