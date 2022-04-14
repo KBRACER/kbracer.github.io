@@ -625,6 +625,22 @@
 		"limit": "140.45"
 	},
 	{
+		"car": "BRZ（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "200",
+		"hp_content": "200",
+		"Powertrain": "2.0/6MT",
+		"speed": "58.57",
+		"mods": "1",
+		"tyre": "卫途02",
+		"temperature": "15",
+		"lv": "S",
+		"time": "",
+		"accelerate": "7.63",
+		"limit": "134.892"
+	},
+	{
 		"car": "718（18",
 		"BID": "BV1cX4y1G7EH",
 		"Btitle": "保时捷中置跑车内战，自然吸气6缸 vs 涡轮增压4缸~ | 新老Cayman谁更强？",
@@ -831,6 +847,22 @@
 		"time": "",
 		"accelerate": "6.1",
 		"limit": "135.49"
+	},
+	{
+		"car": "86（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "200",
+		"hp_content": "200",
+		"Powertrain": "2.0/6MT",
+		"speed": "59.78",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "11",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.78",
+		"limit": "135.184"
 	},
 	{
 		"car": "飞度（14",
