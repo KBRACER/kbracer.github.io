@@ -853,7 +853,7 @@
 		"BID": "",
 		"Btitle": "",
 		"hp": "200",
-		"hp_content": "200",
+		"hp_content": "200+25",
 		"Powertrain": "2.0/6MT",
 		"speed": "59.78",
 		"mods": "1",
