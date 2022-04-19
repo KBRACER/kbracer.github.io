@@ -353,6 +353,22 @@
 		"limit": "144.02"
 	},
 	{
+		"car": "86（17",
+		"BID": "",
+		"Btitle": "",
+		"hp": "240",
+		"hp_content": "200+40",
+		"Powertrain": "2.0T/6MT",
+		"speed": "57.05",
+		"mods": "2",
+		"tyre": "A052",
+		"temperature": "4",
+		"lv": "S",
+		"time": "",
+		"accelerate": "6.62",
+		"limit": "143.748"
+	},
+	{
 		"car": "Supra（21",
 		"BID": "BV1bU4y1V7Cf",
 		"Btitle": "SUPRA赛道吊打M-Power全系！",
@@ -703,6 +719,22 @@
 		"time": "",
 		"accelerate": "5.6",
 		"limit": "139"
+	},
+	{
+		"car": "Supra（21",
+		"BID": "",
+		"Btitle": "",
+		"hp": "197",
+		"hp_content": "197",
+		"Powertrain": "2.0T/8AT",
+		"speed": "58.84",
+		"mods": "0",
+		"tyre": "PSS",
+		"temperature": "4",
+		"lv": "S",
+		"time": "",
+		"accelerate": "6.34",
+		"limit": "134.845"
 	},
 	{
 		"car": "Benz A45(16",
