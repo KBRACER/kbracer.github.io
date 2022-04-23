@@ -1026,6 +1026,22 @@
 		"limit": "133.08"
 	},
 	{
+		"car": "谢尔比GTE（19",
+		"BID": "",
+		"Btitle": "",
+		"hp": "368",
+		"hp_content": "368",
+		"Powertrain": "2.3T/10at",
+		"speed": "60.22",
+		"mods": "0",
+		"tyre": "P0",
+		"temperature": "13",
+		"lv": "S",
+		"time": "",
+		"accelerate": "6.77",
+		"limit": "135.371"
+	},
+	{
 		"car": "CT5 尊贵型(21",
 		"BID": "BV1P64y1v7f1",
 		"Btitle": "30万级最强底盘中型轿车 可能就是它！",
