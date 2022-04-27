@@ -497,6 +497,22 @@
 		"limit": "141.90"
 	},
 	{
+		"car": "Model 3P（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "486",
+		"hp_content": "486",
+		"Powertrain": "E",
+		"speed": "57.58",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "7",
+		"lv": "B",
+		"time": "",
+		"accelerate": "3.4",
+		"limit": "148.176"
+	},
+	{
 		"car": "BMW 1M（11",
 		"BID": "BV1Gg411L7cQ",
 		"Btitle": "开3000km来北京 改装1M赛道屠榜M全系？",
@@ -607,6 +623,22 @@
 		"time": "",
 		"accelerate": "6.8",
 		"limit": "139.34"
+	},
+	{
+		"car": "Model YP(22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "486",
+		"hp_content": "486",
+		"Powertrain": "E",
+		"speed": "58.30",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "6",
+		"lv": "B",
+		"time": "",
+		"accelerate": "4.02",
+		"limit": "147.40"
 	},
 	{
 		"car": "C63（10",
@@ -799,22 +831,6 @@
 		"time": "",
 		"accelerate": "6.22",
 		"limit": "140.24"
-	},
-	{
-		"car": "Model 3P（19",
-		"BID": "av78690283",
-		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
-		"hp": "462",
-		"hp_content": "462",
-		"Powertrain": "E",
-		"speed": "59.2",
-		"mods": "0",
-		"tyre": "原厂韩泰",
-		"temperature": "32",
-		"lv": "B",
-		"time": "",
-		"accelerate": "3.5",
-		"limit": "148"
 	},
 	{
 		"car": "奥迪S4（18",
