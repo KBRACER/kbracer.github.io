@@ -2754,6 +2754,23 @@
 		"accelerate": "",
 		"limit": ""
 	},
+
+	 {
+		  "car": "五菱EV（22",
+		  "BID": "",
+		  "Btitle": "",
+		  "hp": "41",
+		  "hp_content": "41",
+		  "Powertrain": "E",
+		  "speed": "76.03",
+		  "mods": "0",
+		  "tyre": "原厂",
+		  "temperature": "27",
+		  "lv": "A00",
+		  "time": "",
+		  "accelerate": "17.12",
+		  "limit": "98"
+		 }
 	{
 		"car": "五菱EV（20",
 		"BID": "BV1Rv411W7A7",
