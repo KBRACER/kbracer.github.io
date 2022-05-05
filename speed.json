@@ -80,6 +80,22 @@
 		"limit": "166.44"
 	},
 	{
+		"car": "718（18",
+		"BID": "",
+		"Btitle": "",
+		"hp": "370",
+		"hp_content": "250+150",
+		"Powertrain": "2.0T/7DCT",
+		"speed": "55.69",
+		"mods": "2",
+		"tyre": "CUP2R",
+		"temperature": "14",
+		"lv": "S",
+		"time": "",
+		"accelerate": "4.30",
+		"limit": "149.159"
+	},
+	{
 		"car": "911 GTS（17",
 		"BID": "BV1qi4y1c7kK",
 		"Btitle": "保时捷911，推头还是甩尾？",
@@ -1826,6 +1842,22 @@
 		"limit": "128"
 	},
 	{
+		"car": "MG6（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "181",
+		"hp_content": "181",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "63.34",
+		"mods": "0",
+		"tyre": "泰然者",
+		"temperature": "9",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.93",
+		"limit": "124.711"
+	},
+	{
 		"car": "思域HB（21",
 		"BID": "",
 		"Btitle": "",
@@ -2754,7 +2786,6 @@
 		"accelerate": "",
 		"limit": ""
 	},
-
 	{
 		  "car": "五菱EV（22",
 		  "BID": "",
@@ -2770,7 +2801,7 @@
 		  "time": "",
 		  "accelerate": "17.12",
 		  "limit": "98.18"
-		 },
+	},
 	{
 		"car": "五菱EV（20",
 		"BID": "BV1Rv411W7A7",
