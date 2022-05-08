@@ -749,8 +749,24 @@
 		"temperature": "2",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "6.5",
 		"limit": "139.40"
+	},
+	{
+		"car": "BRZ（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "234",
+		"hp_content": "234",
+		"Powertrain": "2.4/6MT",
+		"speed": "58.66",
+		"mods": "0",
+		"tyre": "PS4",
+		"temperature": "32",
+		"lv": "S",
+		"time": "",
+		"accelerate": "6.63",
+		"limit": "137.578"
 	},
 	{
 		"car": "Cayman 981(13",
