@@ -1538,22 +1538,6 @@
 		"limit": ""
 	},
 	{
-		"car": "奥迪S3（17",
-		"BID": "BV1ui4y137jA",
-		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
-		"hp": "290",
-		"hp_content": "290",
-		"Powertrain": "2.0T/7DCT",
-		"speed": "62.0",
-		"mods": "1",
-		"tyre": "AD08R",
-		"temperature": "34",
-		"lv": "A",
-		"time": "",
-		"accelerate": "4.8",
-		"limit": ""
-	},
-	{
 		"car": "野马(15",
 		"BID": "",
 		"Btitle": "",
@@ -1584,6 +1568,22 @@
 		"time": "",
 		"accelerate": "6.2",
 		"limit": "132"
+	},
+	{
+		"car": "G37（09",
+		"BID": "",
+		"Btitle": "",
+		"hp": "351",
+		"hp_content": "351",
+		"Powertrain": "3.7/7AT",
+		"speed": "62.16",
+		"mods": "1",
+		"tyre": "PS4S",
+		"temperature": "11",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.78",
+		"limit": "138.9"
 	},
 	{
 		"car": "CT4（20",
