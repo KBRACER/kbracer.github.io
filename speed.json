@@ -865,6 +865,22 @@
 		"limit": "140.24"
 	},
 	{
+		"car": "Z4（10",
+		"BID": "",
+		"Btitle": "",
+		"hp": "306",
+		"hp_content": "306",
+		"Powertrain": "3.0T/7DCT",
+		"speed": "59.19",
+		"mods": "1",
+		"tyre": "卫途02",
+		"temperature": "13",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.53",
+		"limit": "141.31"
+	},
+	{
 		"car": "奥迪S4（18",
 		"BID": "BV1KC4y1x7bk",
 		"Btitle": "V6+四驱=神，你想打几台86？--奥迪S4",
