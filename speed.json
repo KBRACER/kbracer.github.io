@@ -1138,6 +1138,22 @@
 		"limit": "139.4"
 	},
 	{
+		"car": "宝马328i（13",
+		"BID": "",
+		"Btitle": "",
+		"hp": "245",
+		"hp_content": "245",
+		"Powertrain": "2.0T/8AT",
+		"speed": "60.35",
+		"mods": "1",
+		"tyre": "PS4",
+		"temperature": "13",
+		"lv": "B",
+		"time": "",
+		"accelerate": "5.92",
+		"limit": "135.317"
+	},
+	{
 		"car": "Giulia 280（17",
 		"BID": "BV1mK411p7rK",
 		"Btitle": "Giulia是B级运动车最强？他能打爆CT5/宝马3/奥迪A4么?",
@@ -2208,22 +2224,6 @@
 		"time": "",
 		"accelerate": "8.11",
 		"limit": "125"
-	},
-	{
-		"car": "凌云S（22",
-		"BID": "",
-		"Btitle": "",
-		"hp": "261",
-		"hp_content": "261",
-		"Powertrain": "2.0T/7DCT",
-		"speed": "64.65",
-		"mods": "0",
-		"tyre": "UC6",
-		"temperature": "23",
-		"lv": "B",
-		"time": "",
-		"accelerate": "6.53",
-		"limit": "127.782"
 	},
 	{
 		"car": "菱帅 进化1（05",
