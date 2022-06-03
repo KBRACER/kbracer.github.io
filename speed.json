@@ -1474,6 +1474,22 @@
 		"limit": "129"
 	},
 	{
+		"car": "领克05+（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "265",
+		"hp_content": "265",
+		"Powertrain": "2.0T/8AT",
+		"speed": "61.46",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "22",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.86",
+		"limit": "130.86"
+	},
+	{
 		"car": "BMW M6（06",
 		"BID": "BV1Hy4y1Y7Jz",
 		"Btitle": "20多万，买F1的V10引擎~",
