@@ -2609,6 +2609,22 @@
 		"accelerate": "8.71",
 		"limit": "116"
 	},
+		{
+		"car": "创酷RS（22",
+		"BID": "",
+		"Btitle": "",
+		"hp": "184",
+		"hp_content": "184",
+		"Powertrain": "1.5T/CVT",
+		"speed": "66.17",
+		"mods": "0",
+		"tyre": "泰然者",
+		"temperature": "32",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.76",
+		"limit": "118.8"
+	},
 	{
 		"car": "凯美瑞（19",
 		"BID": "av58322205",
