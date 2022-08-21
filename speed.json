@@ -625,6 +625,22 @@
 		"limit": "148.42"
 	},
 	{
+		"car": "MX-5 ND（18",
+		"BID": "",
+		"Btitle": "",
+		"hp": "260",
+		"hp_content": "158+102",
+		"Powertrain": "2.0/6AT",
+		"speed": "57.95",
+		"mods": "2",
+		"tyre": "A052",
+		"temperature": "19",
+		"lv": "S",
+		"time": "",
+		"accelerate": "5.87",
+		"limit": "141.39"
+	},
+	{
 		"car": "Kona N（22",
 		"BID": "BV1Mb4y1H7xA",
 		"Btitle": "比伊兰特N更纯粹更好玩，Kona N赛道测试",
