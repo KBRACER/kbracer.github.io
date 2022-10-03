@@ -609,6 +609,22 @@
 		"limit": "141.02"
 	},
 	{
+	  "car": "Giulia QV（22",
+	  "BID": "",
+	  "Btitle": "",
+	  "hp": "510",
+	  "hp_content": "510",
+	  "Powertrain": "2.9T/8AT",
+	  "speed": "57.80",
+	  "mods": "1",
+	  "tyre": "CUP2 C",
+	  "temperature": "36",
+	  "lv": "B",
+	  "time": "",
+	  "accelerate": "4.33",
+	  "limit": "153.06"
+	 },
+	{
 		"car": "BMW M2C（20",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
