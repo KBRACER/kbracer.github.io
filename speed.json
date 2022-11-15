@@ -1681,6 +1681,7 @@
 		"accelerate": "6.78",
 		"limit": "131"
 	},
+
 	{
 		"car": "菱帅 进化4（05",
 		"BID": "BV1dh411474c",
@@ -1697,6 +1698,22 @@
 		"accelerate": "10.5",
 		"limit": ""
 	},
+	{
+		"car": "SLK（10",
+		"BID": "",
+		"Btitle": "",
+		"hp": "184",
+		"hp_content": "184",
+		"Powertrain": "1.8SC/5AT",
+		"speed": "61.85",
+		"mods": "1",
+		"tyre": "PS5",
+		"temperature": "18",
+		"lv": "S",
+		"time": "",
+		"accelerate": "8.06",
+		"limit": "124.55"
+ 	},
 	{
 		"car": "野马（15",
 		"BID": "BV1hQ4y1q7RW",
