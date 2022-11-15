@@ -577,6 +577,22 @@
 		"limit": "145.83"
 	},
 	{
+		"car": "菱帅 进化6（05",
+		"BID": "",
+		"Btitle": "",
+		"hp": "140",
+		"hp_content": "100+40",
+		"Powertrain": "1.6/5MT",
+		"speed": "57.71",
+		"mods": "2",
+		"tyre": "韩泰TD",
+		"temperature": "10",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.88",
+		"limit": "130.10"
+	},
+	{
 		"car": "迈锐宝XL（20",
 		"BID": "BV1VU4y1N7T8",
 		"Btitle": "【迈锐宝XL进化2.0】刷ECU，干掉宝马M2C！",
@@ -831,6 +847,22 @@
 		"time": "",
 		"accelerate": "5.6",
 		"limit": "139"
+	},
+	{
+		"car": "菱帅 进化6（05",
+		"BID": "",
+		"Btitle": "",
+		"hp": "140",
+		"hp_content": "100+40",
+		"Powertrain": "1.6/5MT",
+		"speed": "58.77",
+		"mods": "2",
+		"tyre": "卫途01",
+		"temperature": "15",
+		"lv": "A",
+		"time": "",
+		"accelerate": "7.88",
+		"limit": "126.41"
 	},
 	{
 		"car": "Supra（21",
@@ -1120,6 +1152,22 @@
 		"time": "",
 		"accelerate": "3.87",
 		"limit": "150.53"
+	},
+	{
+	  "car": "菱帅 进化5（05",
+	  "BID": "",
+	  "Btitle": "",
+	  "hp": "125",
+	  "hp_content": "100+25",
+	  "Powertrain": "1.6/5MT",
+	  "speed": "60.14",
+	  "mods": "2",
+	  "tyre": "卫途01",
+	  "temperature": "14",
+	  "lv": "A",
+	  "time": "",
+	  "accelerate": "8.96",
+	  "limit": "122.91"
 	},
 	{
 		"car": "飞度（14",
@@ -2578,6 +2626,22 @@
 		"limit": "121"
 	},
 	{
+	  "car": "拿铁DHT-PHEV（22",
+	  "BID": "",
+	  "Btitle": "",
+	  "hp": "437",
+	  "hp_content": "437",
+	  "Powertrain": "1.5T+E",
+	  "speed": "65.80",
+	  "mods": "0",
+	  "tyre": "浩悦4",
+	  "temperature": "17",
+	  "lv": "B",
+	  "time": "",
+	  "accelerate": "5.11",
+	  "limit": "126.50"
+	},
+	{
 		"car": "CX-4（20",
 		"BID": "",
 		"Btitle": "www.zhihu.com/zvideo/1279892141532749824",
@@ -2849,6 +2913,22 @@
 		"time": "",
 		"accelerate": "9.7",
 		"limit": ""
+	},
+	{
+		"car": "北汽魔方（22",
+		"BID": "BV1BP4y1m71E",
+		"Btitle": "9.99万买这么大个SUV？",
+		"hp": "188",
+		"hp_content": "188",
+		"Powertrain": "1.5T/7DCT",
+		"speed": "67.91",
+		"mods": "0",
+		"tyre": "UC6",
+		"temperature": "17",
+		"lv": "A",
+		"time": "",
+		"accelerate": "118.60",
+		"limit": "8.40"
 	},
 	{
 		"car": "雷凌（17",
