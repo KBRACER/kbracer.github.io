@@ -55,7 +55,7 @@
 								<span class="input-group-btn">
 									<button class="btn btn-default" type="button">级别</button>
 								</span>
-								<select class="form-control lv">
+								<!-- <select class="form-control lv">
 									<option value="all">所有</option>
 									<option value="A00">MPV</option>
 									<option value="A00">SUV</option>
@@ -66,6 +66,27 @@
 									<option value="B">B级</option>
 									<option value="C">C级</option>
 									<option value="S">跑车</option>
+								</select> -->
+								<select class="form-control lv">
+									<option value="all">所有</option>
+									<option value="MPV">MPV</option>
+									<option value="S">跑车</option>
+									<optgroup label="轿车">
+										<option value="0">所有轿车</option>
+										<option value="A00">A00级</option>
+										<option value="A0">A0级</option>
+										<option value="A">A级</option>
+										<option value="B">B级</option>
+										<option value="C">C级</option>
+									</optgroup>
+									<optgroup label="SUV">
+										<option value="SUV">所有SUV</option>
+										<option value="SUV1">小型</option>
+										<option value="SUV2">紧凑型</option>
+										<option value="SUV3">中型</option>
+										<option value="SUV4">中大型</option>
+										<option value="SUV5">大型</option>
+									</optgroup>
 								</select>
 							</div>
 						</div>
@@ -89,7 +110,7 @@
 								<span class="input-group-btn">
 									<button class="btn btn-default" type="button">动力</button>
 								</span>
-								<select class="form-control mods">
+								<select class="form-control powerType">
 									<option value="all">所有</option>
 									<option value="0">油</option>
 									<option value="1">电</option>
@@ -101,7 +122,7 @@
 								<span class="input-group-btn">
 									<button class="btn btn-default" type="button">产地</button>
 								</span>
-								<select class="form-control mods">
+								<select class="form-control producer">
 									<option value="all">所有</option>
 									<option value="0">国产</option>
 									<option value="1">合资</option>
@@ -156,11 +177,12 @@
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="car">车型</th>
+				<th class="price">售价</th>
 				<th class="speed">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="hp center">马力 (Ps)</th>
+				<!-- <th class="hp center">马力 (Ps)</th> -->
 				<th class="powertrain">动力总成</th>
 				<th class="mods center">
 					改装程度
@@ -179,7 +201,7 @@
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="accelerate black">0-100</th>
-				<th class="lv black">级别</th>
+				<!-- <th class="lv black">级别</th> -->
 				<th>链接</th>
 			</thead>
 
@@ -308,32 +330,38 @@
 	{{each data as v i}}
 <tr 
   class="
-  {{if v.speed < 60}}
+  {{if v.speed < 55}}
   speed0
-  {{else if v.speed < 62}}
+  {{else if v.speed < 60}}
   speed1
-  {{else if v.speed < 64}}
+  {{else if v.speed < 62}}
   speed2
-  {{else if v.speed < 66}}
+  {{else if v.speed < 64}}
   speed3
-  {{else if v.speed < 68}}
+  {{else if v.speed < 66}}
   speed4
-  {{else if v.speed > 68}}
+  {{else if v.speed < 68}}
   speed5
+  {{else if v.speed > 68}}
+  speed6
   {{/if}}
   "
   >
     <td>{{i + 1}}</td>
-    <td>{{v.car}}</td>
+    <td>
+		<div class="icon-flag {{v.nationality}}"></div>
+		{{v.car}}
+	</td>
+    <td>{{v.price}}</td>
     <td>{{v.speed | timeFormat}}</td>
-    <td class="center">{{v.hp_content}}</td>
-    <td>{{v.Powertrain}}</td>
+    <!-- <td class="center">{{v.hp_content}}</td> -->
+    <td>{{v.hp_content}} / {{v.Powertrain }}</td>
     <td class="txtcenter">{{v.mods}}</td>
     <td>{{v.tyre}}</td>
     <td class="txtcenter">{{v.temperature}}</td>
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
-    <td class="black center">{{v.lv}}</td>
+    <!-- <td class="black center">{{v.lv}}</td> -->
     <td>
       <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
         </td>

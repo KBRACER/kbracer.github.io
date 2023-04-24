@@ -23,27 +23,31 @@ thead {
 	text-align: center;
 }
 
+
 tr.speed0 {
 	background-image: linear-gradient(230deg, hsl(335, 58%, 48%), hsl(335, 47%, 60%));
 }
 
 tr.speed1 {
+	background-image: linear-gradient(230deg, hsl(8, 58%, 47%),hsl(8, 80%, 57%) );
+}
+tr.speed2 {
 	background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
 }
 
-tr.speed2 {
+tr.speed3 {
 	background-image: linear-gradient(230deg, hsl(238, 38%, 28%), hsl(206, 53%, 56%));
 }
 
-tr.speed3 {
+tr.speed4 {
 	background-image: linear-gradient(230deg, hsl(186, 38%, 28%), hsl(186, 27%, 56%));
 }
 
-tr.speed4 {
+tr.speed5 {
 	background-image: linear-gradient(230deg, hsl(30, 83%, 38%), hsl(30, 49%, 56%));
 }
 
-tr.speed5 {
+tr.speed6 {
 	background-image: linear-gradient(230deg, hsl(0, 54%, 38%), hsl(10, 49%, 56%));
 }
 
@@ -53,26 +57,31 @@ tr.speed0:hover {
 }
 
 tr.speed1:hover {
-	background-image: linear-gradient(230deg, hsl(282, 38%, 40%), hsl(282, 27%, 68%));
+	background-image: linear-gradient(230deg, hsl(8, 58%, 67%),hsl(8, 80%, 69%) );
 	color: #fff;
 }
 
 tr.speed2:hover {
-	background-image: linear-gradient(230deg, hsl(238, 38%, 40%), hsl(206, 53%, 68%));
+	background-image: linear-gradient(230deg, hsl(282, 38%, 40%), hsl(282, 27%, 68%));
 	color: #fff;
 }
 
 tr.speed3:hover {
-	background-image: linear-gradient(230deg, hsl(186, 38%, 40%), hsl(186, 27%, 68%));
+	background-image: linear-gradient(230deg, hsl(238, 38%, 40%), hsl(206, 53%, 68%));
 	color: #fff;
 }
 
 tr.speed4:hover {
-	background-image: linear-gradient(230deg, hsl(30, 83%, 50%), hsl(30, 49%, 68%));
+	background-image: linear-gradient(230deg, hsl(186, 38%, 40%), hsl(186, 27%, 68%));
 	color: #fff;
 }
 
 tr.speed5:hover {
+	background-image: linear-gradient(230deg, hsl(30, 83%, 50%), hsl(30, 49%, 68%));
+	color: #fff;
+}
+
+tr.speed6:hover {
 	background-image: linear-gradient(230deg, hsl(0, 54%, 50%), hsl(10, 49%, 68%));
 	color: #fff;
 }
@@ -207,3 +216,47 @@ footer {
 }
 
 /* button动效 */
+
+/* 国旗icon */
+.icon-flag  {
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.icon-flag.DE {
+	background-image: url(../img/flags/DE.png);	
+}
+.icon-flag.BR {
+	background-image: url(../img/flags/BR.png);	
+}
+.icon-flag.CN {
+	background-image: url(../img/flags/CN.png);	
+}
+.icon-flag.FR {
+	background-image: url(../img/flags/FR.png);	
+}
+.icon-flag.IT {
+	background-image: url(../img/flags/IT.png);	
+}
+.icon-flag.JP {
+	background-image: url(../img/flags/JP.png);	
+}
+.icon-flag.KR {
+	background-image: url(../img/flags/KR.png);	
+}
+.icon-flag.RU {
+	background-image: url(../img/flags/RU.png);	
+}
+.icon-flag.SE {
+	background-image: url(../img/flags/SE.png);	
+}
+.icon-flag.UK {
+	background-image: url(../img/flags/UK.png);	
+}
+.icon-flag.US {
+	background-image: url(../img/flags/US.png);	
+}
