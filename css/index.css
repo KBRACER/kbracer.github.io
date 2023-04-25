@@ -19,9 +19,6 @@ thead {
 	display: none;
 }
 
-.txtcenter {
-	text-align: center;
-}
 
 
 tr.speed0 {
@@ -160,8 +157,14 @@ footer {
 }
 
 
-.center {
+.t-left {
+	text-align: left;
+}
+.t-center {
 	text-align: center;
+}
+.t-right {
+	text-align: right;
 }
 
 #tb_results .icon {
