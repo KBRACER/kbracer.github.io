@@ -179,12 +179,11 @@
 				</th>
 				<th class="car">车型</th>
 				<th class="price" style="width:100px;">售价</th>
+				<th class="hp center">马力 (Ps)</th>
 				<th class="speed gray">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<!-- <th class="hp center">马力 (Ps)</th> -->
-				<th class="powertrain">动力总成(Ps)</th>
 				<th class="tyre"  style="width:80px;">
 					轮胎
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
@@ -197,6 +196,7 @@
 					气温 (℃)
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
+				<th class="powertrain black">动力总成</th>
 				<th class="limit black">
 					尾速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
@@ -354,12 +354,12 @@
 		{{v.car}}
 	</td>
     <td>{{v.price}}</td>
+    <td class="center">{{v.hp_content}}</td>
     <td class="gray">{{v.speed | timeFormat}}</td>
-    <!-- <td class="center">{{v.hp_content}}</td> -->
-    <td>{{v.Powertrain }}（{{v.hp_content}}）</td>
     <td>{{v.tyre}}</td>
     <td class="txtcenter">{{v.mods}}</td>
     <td class="txtcenter">{{v.temperature}}</td>
+    <td class="black">{{v.Powertrain }}</td>
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
     <!-- <td class="black center">{{v.lv}}</td> -->
