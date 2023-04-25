@@ -36,17 +36,18 @@ $(function () {
       mods = $(".mods").val(),
       powerType = $(".powerType").val(),
       producer = $(".producer").val(),
+      search = $('.search').val().toLowerCase();
       arr = jsonData;
 
     // 车型级别
     if (lv !== "all") {
       if (lv == "SUV") {
         arr = jsonData.filter(function (v) {
-          // return v.lv == "SUV1" || v.lv == "SUV2" || v.lv == "SUV3" || v.lv == "SUV4" || 
+          return ["SUV1", "SUV2", "SUV3", "SUV4"].includes(v.lv);
         });
       } else if (lv == "0") {
         arr = jsonData.filter(function (v) {
-          return v.lv == lv;
+          return ["A00", "A0", "A", "B", "C","D"].includes(v.lv);
         });
       } else {
         arr = jsonData.filter(function (v) {
@@ -70,16 +71,22 @@ $(function () {
 
     // 动力类型： 0 燃油 ， 1 电动
     if (powerType != "all") {
-      arr = jsonData.filter(function (v) {
+      arr = arr.filter(function (v) {
         return v.powerType == powerType;
       });
     }
 
     // 产地： 0 国产， 1 合资 ， 2 进口
     if (producer != "all") {
-      arr = jsonData.filter(function (v) {
-        return v.powerType == powerType;
+      arr = arr.filter(function (v) {
+        return v.producer == producer;
       });
+    }
+
+    if(search){
+      arr = arr.filter((v) => {
+        return v.car.toLowerCase().indexOf(search) != -1;
+      })
     }
 
     setTable(arr);
@@ -87,11 +94,12 @@ $(function () {
 
   //搜索车型
   $(".search").on("input", function () {
-    var val = $(this).val().toLowerCase();
-    var arr = jsonData.filter((v) => {
-      return v.car.toLowerCase().indexOf(val) != -1;
-    });
-    setTable(arr);
+    // var val = $(this).val().toLowerCase();
+    // var arr = jsonData.filter((v) => {
+    //   return v.car.toLowerCase().indexOf(val) != -1;
+    // });
+    // setTable(arr);
+    screen()
   });
 
   // button动效

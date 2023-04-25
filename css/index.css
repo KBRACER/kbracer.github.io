@@ -29,7 +29,7 @@ tr.speed0 {
 }
 
 tr.speed1 {
-	background-image: linear-gradient(230deg, hsl(8, 58%, 47%),hsl(8, 80%, 57%) );
+	background-image: linear-gradient(230deg, hsl(0, 65%, 60%),hsl(0, 79%, 63%) );
 }
 tr.speed2 {
 	background-image: linear-gradient(230deg, hsl(282, 38%, 28%), hsl(282, 27%, 56%));
@@ -96,6 +96,9 @@ tr.speed6:hover {
 
 .black {
 	background-color: rgba(0, 0, 0, 0.3);
+}
+.gray {
+	background-color: rgba(33,33,33, 0.1);
 }
 
 .table {
@@ -174,7 +177,7 @@ footer {
 }
 
 #tb_results .mods {
-	min-width: 100px;
+	min-width: 80px;
 }
 
 #tb_results .lv {
@@ -259,4 +262,7 @@ footer {
 }
 .icon-flag.US {
 	background-image: url(../img/flags/US.png);	
+}
+.icon-flag.CZ {
+	background-image: url(../img/flags/CZ.png);	
 }

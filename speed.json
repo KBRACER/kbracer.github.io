@@ -17,7 +17,7 @@
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
-		"price":"299.98"
+		"price":""
 	},
 	{
 		"car": "BMW M4（17",
@@ -1175,7 +1175,7 @@
 		"time": "",
 		"accelerate": "4.3",
 		"limit": "148.20",
-		"powerType":"",
+		"powerType":"1",
 		"producer":"",
 		"nationality":"CN",
 		"price":""
