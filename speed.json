@@ -1341,6 +1341,26 @@
 		"price":"22.88"
 	},
 	{
+		"car": "飞凡F7（20",
+		"BID": "BV1oc411N7qx",
+		"Btitle": "飞凡F7跑赛道，是一种什么体验？",
+		"hp": "544",
+		"hp_content": "544",
+		"Powertrain": "E",
+		"speed": "59.63",
+		"mods": "2",
+		"tyre": "PS EV",
+		"temperature": "12",
+		"lv": "C",
+		"time": "",
+		"accelerate": "3.83",
+		"limit": "149.24",
+		"powerType":"1",
+		"producer":"0",
+		"nationality":"CN",
+		"price":"30.19"
+	},
+	{
 		"car": "86（17",
 		"BID": "BV1L5411m7bj",
 		"Btitle": "我把丰田86开着火了...",
