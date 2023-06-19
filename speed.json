@@ -2803,6 +2803,26 @@
 		"price":"14.08"
 	},
 	{
+		"car": "影豹R（23",
+		"BID": "BV1LN411r7mt",
+		"Btitle": "影豹去纽北~！",
+		"hp": "265",
+		"hp_content": "265",
+		"Powertrain": "2.0T/8AT",
+		"speed": "63.75",
+		"mods": "0",
+		"tyre": "原厂PS4",
+		"temperature": "40",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.9",
+		"limit": "130",
+		"powerType":"0",
+		"producer":"0",
+		"nationality":"CN",
+		"price":"13.80"
+	},
+	{
 		"car": "C2 进化2（07",
 		"BID": "BV1yt4y1z7Mo",
 		"Btitle": "【206进化2.0】135马力，不怕飞度、速翼特！",
