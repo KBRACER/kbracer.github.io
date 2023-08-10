@@ -1400,7 +1400,26 @@
 		"nationality":"JP",
 		"price":"7.38"
 	},
-	
+	{
+		"car": "思域Type-R（23",
+		"BID": "BV1az4y1p7ct",
+		"Btitle": "本田TYPE-R没有领克快，是人性的扭曲还是被充值了...",
+		"hp": "300",
+		"hp_content": "300",
+		"Powertrain": "2.0T/6MT",
+		"speed": "59.86",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "36",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.72",
+		"limit": "140.49",
+		"powerType":"0",
+		"producer":"2",
+		"nationality":"JP",
+		"price":"42.00"
+	},
 	{
 		"car": "野马（20",
 		"BID": "BV15f4y1u79p",
@@ -3083,6 +3102,26 @@
 		"price":"18.97"
 	},
 	{
+		"car": "嘉年华（11",
+		"BID": "BV1qh4y1k7Aa",
+		"Btitle": "马自达2 vs 嘉年华，谁是2万钢炮王？",
+		"hp": "103",
+		"hp_content": "103",
+		"Powertrain": "1.5/5MT",
+		"speed": "64.68",
+		"mods": "1",
+		"tyre": "AD08R",
+		"temperature": "19",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "10.12",
+		"limit": "117.49",
+		"powerType":"0",
+		"producer":"1",
+		"nationality":"US",
+		"price":"10.19"
+	},
+	{
 		"car": "菱帅 进化1（05",
 		"BID": "av31676244",
 		"Btitle": "6000多块钱改装一台车，你不撞车谁撞车？",
@@ -3141,6 +3180,26 @@
 		"producer":"1",
 		"nationality":"JP",
 		"price":"11.49"
+	},
+	{
+		"car": "马自达2（11",
+		"BID": "BV1qh4y1k7Aa",
+		"Btitle": "马自达2 vs 嘉年华，谁是2万钢炮王？",
+		"hp": "102",
+		"hp_content": "102",
+		"Powertrain": "1.5/5MT",
+		"speed": "64.75",
+		"mods": "0",
+		"tyre": "PS3",
+		"temperature": "19",
+		"lv": "A0",
+		"time": "",
+		"accelerate": "9.76",
+		"limit": "118.24",
+		"powerType":"0",
+		"producer":"1",
+		"nationality":"JP",
+		"price":"8.88"
 	},
 	{
 		"car": "BMW 118i（13",
