@@ -1221,6 +1221,26 @@
 		"price":"49.80"
 	},
 	{
+		"car": "思域Type-R（23",
+		"BID": "BV1az4y1p7ct",
+		"Btitle": "本田TYPE-R没有领克快，是人性的扭曲还是被充值了...",
+		"hp": "300",
+		"hp_content": "300",
+		"Powertrain": "2.0T/6MT",
+		"speed": "58.95",
+		"mods": "0",
+		"tyre": "PS4S",
+		"temperature": "29",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.72",
+		"limit": "142.71",
+		"powerType":"0",
+		"producer":"2",
+		"nationality":"JP",
+		"price":"40.20"
+	},
+	{
 		"car": "Focus RS（16",
 		"BID": "av78690283",
 		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
@@ -1439,26 +1459,6 @@
 		"producer":"1",
 		"nationality":"JP",
 		"price":"7.38"
-	},
-	{
-		"car": "思域Type-R（23",
-		"BID": "BV1az4y1p7ct",
-		"Btitle": "本田TYPE-R没有领克快，是人性的扭曲还是被充值了...",
-		"hp": "300",
-		"hp_content": "300",
-		"Powertrain": "2.0T/6MT",
-		"speed": "58.95",
-		"mods": "0",
-		"tyre": "PS4S",
-		"temperature": "29",
-		"lv": "A",
-		"time": "",
-		"accelerate": "5.72",
-		"limit": "142.71",
-		"powerType":"0",
-		"producer":"2",
-		"nationality":"JP",
-		"price":"40.20"
 	},
 	{
 		"car": "野马（20",
