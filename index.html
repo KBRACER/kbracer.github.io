@@ -23,13 +23,14 @@
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
 	<script src="./lib/canvas-bg/rAF.js"></script>
 	<script src="./lib/layer/layer.js"></script>
-	<script src="./js/index.js?v=202012141445"></script>
+	<script src="./js/index.js?v=20240226"></script>
 </head>
 
 <body>
 	<div id="canvas_bg">
 		<canvas id="canvas1"></canvas>
 	</div>
+
 
 	<div class="index_banner">
 
@@ -169,9 +170,53 @@
 			</div>
 		</div>
 	</div> -->
+	<div class="box-tabs">
+		<div class="tab active">锐思圈速榜</div>
+		<div class="tab">易车金港圈速榜</div>
+		<!-- <div class="tab">大V榜</div> -->
+	</div>
 
 	<div class="table-responsive">
-		<table id="tb_results" class="table table-hover">
+		<table id="tb_results" class="table table-hover active">
+			<thead>
+				<th class="ranking">
+					排名
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="car">车型</th>
+				<th class="price t-right" style="width:100px;">售价</th>
+				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
+				<th class="speed gray t-left"  style="width:100px;">
+					圈速
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="tyre"  style="width:80px;">
+					轮胎
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="mods t-center"  style="width:40px;">
+					改装程度
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="temperature t-center">
+					气温 (℃)
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="powertrain black">动力总成</th>
+				<th class="limit black">
+					尾速
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
+				<th class="accelerate black">0-100</th>
+				<!-- <th class="lv black">级别</th> -->
+				<th>链接</th>
+			</thead>
+
+			<tbody>
+
+			</tbody>
+		</table>
+		<table id="tb_results2" class="table table-hover" >
 			<thead>
 				<th class="ranking">
 					排名
@@ -344,6 +389,50 @@
   {{else if v.speed < 68}}
   speed5
   {{else if v.speed > 68}}
+  speed6
+  {{/if}}
+  "
+  >
+    <td>{{i + 1}}</td>
+    <td>
+		<div class="icon-flag {{v.nationality}}"></div>
+		{{v.car}}
+	</td>
+    <td class="t-right">{{v.price}}</td>
+    <td class="t-center">{{v.hp_content}}</td>
+    <td class="gray t-left">{{v.speed | timeFormat}}</td>
+    <td>{{v.tyre}}</td>
+    <td class="t-center">{{v.mods}}</td>
+    <td class="t-center">{{v.temperature}}</td>
+    <td class="black">{{v.Powertrain }}</td>
+    <td class="black">{{v.limit}}</td>
+    <td class="black">{{v.accelerate}}</td>
+    <!-- <td class="black center">{{v.lv}}</td> -->
+    <td>
+      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
+        </td>
+  </tr>
+  {{/each}}
+
+</script>
+<script type="text/template" id="tb2">
+
+	{{each data as v i}}
+<tr 
+  class="
+  {{if v.speed < 69}}
+  speed0
+  {{else if v.speed < 72}}
+  speed1
+  {{else if v.speed < 74}}
+  speed2
+  {{else if v.speed < 77}}
+  speed3
+  {{else if v.speed < 80}}
+  speed4
+  {{else if v.speed < 85}}
+  speed5
+  {{else if v.speed > 90}}
   speed6
   {{/if}}
   "

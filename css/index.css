@@ -102,6 +102,10 @@ tr.speed6:hover {
 	margin-bottom: 0;
 
 	min-width: 1500px;
+	display: none;
+}
+.table.active {
+	display: block;
 }
 
 a {
@@ -222,6 +226,27 @@ footer {
 }
 
 /* button动效 */
+
+/* tab切换 */
+.box-tabs {
+	width:100%;
+	padding: 30px 0 0 30px;
+}
+.box-tabs .tab {
+	display:inline-block;
+	width:160px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	background-color: #fff;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+.box-tabs .tab.active {
+	background-color: #ff0080;
+	color:#fff;
+}
 
 /* 国旗icon */
 .icon-flag  {

@@ -1,10 +1,17 @@
 $(function () {
   var jsonData;
+  var goldData;
   function setTable(arr) {
     var htmlStr = template("tb", {
       data: arr,
     });
     $("#tb_results > tbody").html(htmlStr);
+  }
+  function setTableGold(arr) {
+    var htmlStr = template("tb2", {
+      data: arr,
+    });
+    $("#tb_results2 > tbody").html(htmlStr);
   }
 
   template.defaults.imports.timeFormat = function (date) {
@@ -17,27 +24,40 @@ $(function () {
   };
   //获取json数据
   $.ajax({
-    url: "./speed.json?v=202003191938",
-    async: false,
+    url: "./goldport.json?v=20240226",
+    // async: false,
     success: function (res) {
-      // console.log(res);
-      jsonData = res;
+      console.log('goldport',res);
+      goldData = res;
+      setTableGold(goldData);
     },
   });
-  setTable(jsonData);
+  $.ajax({
+    url: "./speed.json?v=20240226",
+    // async: false,
+    success: function (res) {
+      console.log('ruisi',res);
+      jsonData = res;
+      setTable(jsonData);
+    },
+  });
+  // setTable(jsonData);
+  // setTableGold(goldData);
 
   $(".mods,.lv,.powerType,.producer").on("change", function () {
     // screen($(this).val())
-    screen();
+    screen(jsonData,'ruisi');
+    screen(goldData,'gold');
   });
   // 筛选
-  function screen() {
+  function screen(arr,type) {
+    console.log(234);
     var lv = $(".lv").val(),
       mods = $(".mods").val(),
       powerType = $(".powerType").val(),
       producer = $(".producer").val(),
       search = $('.search').val().toLowerCase();
-      arr = jsonData;
+      // arr = jsonData;
 
     // 车型级别
     if (lv !== "all") {
@@ -88,8 +108,8 @@ $(function () {
         return v.car.toLowerCase().indexOf(search) != -1;
       })
     }
-
-    setTable(arr);
+    console.log(type,arr);
+    type == 'ruisi'?setTable(arr):setTableGold(arr);
   }
 
   //搜索车型
@@ -99,7 +119,10 @@ $(function () {
     //   return v.car.toLowerCase().indexOf(val) != -1;
     // });
     // setTable(arr);
-    screen()
+    
+    // screen()
+    screen(jsonData,'ruisi');
+    screen(goldData,'gold');
   });
 
   // button动效
@@ -110,8 +133,15 @@ $(function () {
     e.target.style.setProperty("--y", `${y}px`);
   };
 
-  // // 榜单说明
+  // 榜单切换
+  $('.box-tabs .tab').on('click',function(){
+    var index = $(this).index()
+    $(this).addClass('active').siblings().removeClass('active')
+    $('.table-hover').eq(index).addClass('active').siblings().removeClass('active')
+    // console.log($(this).addClass('active').siblings());
+  })
 
+  // // 榜单说明
   $(".button").on("click", function () {
     layer.open({
       type: 1,
