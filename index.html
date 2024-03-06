@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>键盘车神教锐思圈速榜</title>
-	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实锐思圈速榜单">
+	<meta name="description" content="传说中绝不充值的偶像派车评人教主的真实圈速榜单">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./lib/bootstrap/css/bootstrap-table.min.css">
 	<link rel="stylesheet" href="./css/index.css?v=202012141445">
@@ -38,7 +38,7 @@
 			<tr>
 				<td style="width: 5%"><img src="./img/logo.png" style="padding-right: 1em" /></td>
 				<td class="hid">
-					<h1 class="title">键盘车神教锐思圈速榜</h1>
+					<h1 class="title">键盘车神教圈速榜</h1>
 					<h5 class="title">传说中的偶像派车评人教主的真实圈速榜单</h5>
 				</td>
 				<td class="options">
@@ -186,16 +186,12 @@
 				<th class="car">车型</th>
 				<th class="price t-right" style="width:100px;">售价</th>
 				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
-				<th class="speed gray t-left"  style="width:100px;">
+				<th class="speed blue t-left"  style="width:100px;">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="tyre"  style="width:80px;">
 					轮胎
-					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
-				</th>
-				<th class="mods t-center"  style="width:40px;">
-					改装程度
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="temperature t-center">
@@ -208,6 +204,10 @@
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="accelerate black">0-100</th>
+				<th class="mods t-center black"  style="width:40px;">
+					改装程度
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
 				<!-- <th class="lv black">级别</th> -->
 				<th>链接</th>
 			</thead>
@@ -225,16 +225,12 @@
 				<th class="car">车型</th>
 				<th class="price t-right" style="width:100px;">售价</th>
 				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
-				<th class="speed gray t-left"  style="width:100px;">
+				<th class="speed blue t-left"  style="width:100px;">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="tyre"  style="width:80px;">
 					轮胎
-					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
-				</th>
-				<th class="mods t-center"  style="width:40px;">
-					改装程度
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="temperature t-center">
@@ -247,6 +243,10 @@
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="accelerate black">0-100</th>
+				<th class="mods t-center black"  style="width:40px;">
+					是否改装
+					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
+				</th>
 				<!-- <th class="lv black">级别</th> -->
 				<th>链接</th>
 			</thead>
@@ -400,13 +400,13 @@
 	</td>
     <td class="t-right">{{v.price}}</td>
     <td class="t-center">{{v.hp_content}}</td>
-    <td class="gray t-left">{{v.speed | timeFormat}}</td>
+    <td class="blue t-left">{{v.speed | timeFormat}}</td>
     <td>{{v.tyre}}</td>
-    <td class="t-center">{{v.mods}}</td>
     <td class="t-center">{{v.temperature}}</td>
     <td class="black">{{v.Powertrain }}</td>
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
+    <td class="t-center black">{{v.mods}}</td>
     <!-- <td class="black center">{{v.lv}}</td> -->
     <td>
       <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
@@ -444,13 +444,13 @@
 	</td>
     <td class="t-right">{{v.price}}</td>
     <td class="t-center">{{v.hp_content}}</td>
-    <td class="gray t-left">{{v.speed | timeFormat}}</td>
+    <td class="blue t-left">{{v.speed | timeFormat}}</td>
     <td>{{v.tyre}}</td>
-    <td class="t-center">{{v.mods}}</td>
     <td class="t-center">{{v.temperature}}</td>
     <td class="black">{{v.Powertrain }}</td>
     <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
+    <td class="t-center black">{{v.mods}}</td>
     <!-- <td class="black center">{{v.lv}}</td> -->
     <td>
       <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>

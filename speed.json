@@ -1,6 +1,7 @@
 [	
 	{
-		"car": "911 GT3RS（18",
+		"year":"2018",
+		"car": "911 GT3RS",
 		"BID": "BV1fA411g7RK",
 		"Btitle": "300万的911 开起来像“小马力前驱车”？-- 911 GT3RS",
 		"hp": "570",
@@ -20,7 +21,8 @@
 		"price":"226.80"
 	},
 	{
-		"car": "BMW M4（17",
+		"year":"2017",
+		"car": "BMW M4",
 		"BID": "BV1ES4y1z7yC",
 		"Btitle": "卖车前，复盘“国产魔王M4”的改装思路...",
 		"hp": "521",
@@ -32,7 +34,7 @@
 		"temperature": "13",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "163.465",
 		"powerType":"0",
 		"producer":"2",
@@ -40,7 +42,8 @@
 		"price":"90.68"
 	},
 	{
-		"car": "BMW M4（17",
+		"year":"2017",
+		"car": "BMW M4",
 		"BID": "BV1oU4y1d7PB",
 		"Btitle": "【国产魔王计划】圈速测试，我差点哭了...",
 		"hp": "521",
@@ -52,7 +55,7 @@
 		"temperature": "0",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "159.49",
 		"powerType":"0",
 		"producer":"2",
@@ -60,7 +63,8 @@
 		"price":"90.68"
 	},
 	{
-		"car": "911 S（20",
+		"year":"2020",
+		"car": "911 S",
 		"BID": "BV16y4y167AL",
 		"Btitle": "911=赛场上的爸爸？",
 		"hp": "450",
@@ -80,7 +84,8 @@
 		"price":"147.30"
 	},
 	{
-		"car": "BMW M4（17",
+		"year":"2017",
+		"car": "BMW M4",
 		"BID": "BV1kq4y1n7VB",
 		"Btitle": "M4换上CUP2能干911？-- 米其林全系运动胎指南",
 		"hp": "431",
@@ -100,7 +105,8 @@
 		"price":"90.68"
 	},
 	{
-		"car": "F8 Tributo（19",
+		"year":"2019",
+		"car": "F8 Tributo",
 		"BID": "BV1UQ4y1Q7CX",
 		"Btitle": "为了你们，我不能买法拉利了……",
 		"hp": "720",
@@ -120,7 +126,8 @@
 		"price":"305.70"
 	},
 	{
-		"car": "718（18",
+		"year":"2018",
+		"car": "718",
 		"BID": "BV1Ut4y1s7ZA",
 		"Btitle": "370马力丐版718，锤爆911？",
 		"hp": "370",
@@ -140,7 +147,8 @@
 		"price":"54.50"
 	},
 	{
-		"car": "911 GTS（17",
+		"year":"2017",
+		"car": "911 GTS",
 		"BID": "BV1qi4y1c7kK",
 		"Btitle": "保时捷911，推头还是甩尾？",
 		"hp": "450",
@@ -160,7 +168,8 @@
 		"price":"146.00"
 	},
 	{
-		"car": "E92 M3（11",
+		"year":"2011",
+		"car": "E92 M3",
 		"BID": "BV1JK4y177cW",
 		"Btitle": "自吸老宝马怎么改，能赢新款M4？",
 		"hp": "420",
@@ -180,7 +189,8 @@
 		"price":"110.50"
     },
     {
-		"car": "丰田86（13",
+		"year":"2013",
+		"car": "丰田86",
 		"BID": "BV13L411e7Kc",
 		"Btitle": "丰田，比兰博基尼快？",
 		"hp": "233",
@@ -200,7 +210,8 @@
 		"price":"26.90"
     },
 	{
-		"car": "BMW M2C（20",
+		"year":"2020",
+		"car": "BMW M2C",
 		"BID": "BV1UZ4y1y7qE",
 		"Btitle": "半热熔胎M2C跑不过街胎M4？",
 		"hp": "410",
@@ -212,7 +223,7 @@
 		"temperature": "7",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "155.127",
 		"powerType":"0",
 		"producer":"2",
@@ -220,7 +231,8 @@
 		"price":"64.38"
 	},
 	{
-		"car": "Huracan EVO（20",
+		"year":"2020",
+		"car": "Huracan EVO",
 		"BID": "BV1T44y1P7fP",
 		"Btitle": "喜欢本田的高转？不如买兰博基尼！",
 		"hp": "611",
@@ -240,7 +252,8 @@
 		"price":"254.00"
 	},
 	{
-		"car": "Cayman GTS（20",
+		"year":"2020",
+		"car": "Cayman GTS",
 		"BID": "BV1s44y1V7aS",
 		"Btitle": "40万，约等于超跑！",
 		"hp": "340",
@@ -260,7 +273,8 @@
 		"price":"87.5"
 	},
     {
-		"car": "奥迪RS3（17",
+		"year":"2017",
+		"car": "奥迪RS3",
 		"BID": "BV13L4y1g72v",
 		"Btitle": "500马力+热熔胎，奥迪RS3成为赛道新王？",
 		"hp": "530",
@@ -280,7 +294,8 @@
 		"price":"51.38"
     },   
 	{
-		"car": "迈锐宝XL（20",
+		"year":"2020",
+		"car": "迈锐宝XL",
 		"BID": "BV1R44y1b7sf",
 		"Btitle": "【迈锐宝XL进化3.0】15W我花完了，这TCR你就说要不要吧！",
 		"hp": "257",
@@ -299,9 +314,9 @@
 		"nationality":"US",
 		"price":"21.99"
     },
- 
     {
-		"car": "奥迪RS4（22",
+		"year":"2022",
+		"car": "奥迪RS4",
 		"BID": "BV1NL411F79s",
 		"Btitle": "四驱打爆一切？旅行车键盘值0分",
 		"hp": "450",
@@ -321,7 +336,8 @@
 		"price":"82.88"
     },      
 	{
- 		"car": "G82 M4（21",
+ 		"year":"2021",
+ 		"car": "G82 M4",
 		"BID": "BV1pP4y1x7dg",
 		"Btitle": "大80马力，新M4动力却输给老M4？",
 		"hp": "510",
@@ -341,7 +357,8 @@
 		"price":"87.99"
 	},
 	{
-		"car": "BMW M4（17",
+		"year":"2017",
+		"car": "BMW M4",
 		"BID": "BV1pP4y1x7dg？",
 		"Btitle": "大80马力，新M4动力却输给老M4？",
 		"hp": "431",
@@ -361,7 +378,8 @@
 		"price":"90.68"
 	},
 	{
-		"car": "BMW M2（18",
+		"year":"2018",
+		"car": "BMW M2",
 		"BID": "BV1zX4y137RJ",
 		"Btitle": "改装30W，宝马M2 vs M3 赛道大战~",
 		"hp": "410",
@@ -381,7 +399,8 @@
 		"price":"59.98"
 	},
 	{
-		"car": "C43（21",
+		"year":"2021",
+		"car": "C43",
 		"BID": "BV1e44y1V74o",
 		"Btitle": "四驱能让C43干翻C63么？",
 		"hp": "390",
@@ -401,7 +420,8 @@
 		"price":"57.38"
 	},
 	{
-		"car": "BMW M2C（20",
+		"year":"2020",
+		"car": "BMW M2C",
 		"BID": "BV1tA411N7ot",
 		"Btitle": "换胎快1秒？键盘车神の终极改装~",
 		"hp": "410",
@@ -421,7 +441,8 @@
 		"price":"63.38"
 	},
 	{
-	  "car": "718 GT4（23",
+	  "year":"2023",
+	  "car": "718 GT4",
 	  "BID": "BV19o4y1B7XG",
 	  "Btitle": "250万，买一台手动挡718？",
 	  "hp": "414",
@@ -433,7 +454,7 @@
 	  "temperature": "14",
 	  "lv": "S",
 	  "time": "",
-	  "accelerate": "",
+	  "accelerate": "-",
 	  "limit": "154.26",
 	  "powerType":"0",
 	  "producer":"2",
@@ -441,7 +462,8 @@
 	  "price":"250.00"
 	 },
 	{
-		"car": "BMW M3（18",
+	    "year":"2018",
+		"car": "BMW M3",
 		"BID": "BV1zX4y137RJ",
 		"Btitle": "改装30W，宝马M2 vs M3 赛道大战~",
 		"hp": "550",
@@ -454,14 +476,15 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.1",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
 		"price":"108.89"
 	},
 	{
-		"car": "GT-R（17",
+		"year":"2017",
+		"car": "GT-R",
 		"BID": "BV1nK4y1m7pg",
 		"Btitle": "虽然我的GTR车头很重，但是入弯却不推头～",
 		"hp": "555",
@@ -481,14 +504,15 @@
 		"price":"162.80"
 	},
 	{
-		"car": "伊兰特N（22",
+		"year":"2022",
+		"car": "伊兰特N",
 		"BID": "BV1MZ4y1D7w9",
 		"Btitle": "10000块四条胎，为了伊兰特N我尽力了！",
 		"hp": "280",
 		"hp_content": "280",
 		"Powertrain": "2.0T/8DCT",
 		"speed": "56.91",
-		"mods": "1",
+		"mods": "0",
 		"tyre": "Cup2C",
 		"temperature": "5",
 		"lv": "A",
@@ -501,7 +525,8 @@
 		"price":"--"
 	},
 	{
-		"car": "奥迪S3（19",
+		"year":"2019",
+		"car": "奥迪S3",
 		"BID": "BV1b34y1C7PY",
 		"Btitle": "米其林CUP2C，卫途01，韩泰Z214对比测评，奥迪S3不推头了？",
 		"hp": "290",
@@ -521,7 +546,8 @@
 		"price":"36.38"
 	},
 	{
-		"car": "86（17",
+		"year":"2017",
+		"car": "86",
 		"BID": "BV1zS4y1c7cL",
 		"Btitle": "2.0T内战，丰田SUPRA操控吊打丰田86？",
 		"hp": "240",
@@ -541,7 +567,29 @@
 		"price":"24.98"
 	},
 	{
-		"car": "Supra（21",
+		"year":"2023",
+		"car": "影豹R",
+		"BID": "BV1wu411g7bK",
+		"Btitle": "13000公里，我把影豹R带去了纽北~",
+		"hp": "265",
+		"hp_content": "265",
+		"Powertrain": "2.0T/8AT",
+		"speed": "57.13",
+		"mods": "2",
+		"tyre": "A052",
+		"temperature": "28",
+		"lv": "A",
+		"time": "144",
+		"accelerate": "-",
+		"limit": "141.13",
+		"powerType":"0",
+		"producer":"0",
+		"nationality":"CN",
+		"price":"13.80"
+	},
+	{
+		"year":"2021",
+		"car": "Supra",
 		"BID": "BV1bU4y1V7Cf",
 		"Btitle": "SUPRA赛道吊打M-Power全系！",
 		"hp": "340",
@@ -561,7 +609,8 @@
 		"price":"62.90"
 	},
 	{
-		"car": "X4M（21",
+		"year":"2021",
+		"car": "X4M",
 		"BID": "BV1GF411h7Xk",
 		"Btitle": "Jacky说这玩意能赢我M4？——X4 M赛道测评",
 		"hp": "510",
@@ -581,7 +630,8 @@
 		"price":"92.59"
 	},
 	{
-		"car": "BMW M4 ZCP（19",
+		"year":"2019",
+		"car": "BMW M4 ZCP",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
 		"hp": "450",
@@ -601,7 +651,8 @@
 		"price":"89.99"
 	},
 	{
-		"car": "BMW M4（17",
+		"year":"2017",
+		"car": "BMW M4",
 		"BID": "BV1Eo4y1k7PD",
 		"Btitle": "教主卖车？F82 M4超长伪干货全面详解。（对比C63 GIULIA QV RS5 911 G82）",
 		"hp": "431",
@@ -621,7 +672,8 @@
 		"price":"90.68"
 	},
 	{
-		"car": "A45s（20",
+		"year":"2020",
+		"car": "A45s",
 		"BID": "BV1d3411z7rd",
 		"Btitle": "A 45 S比A 35强多少，能值70W？",
 		"hp": "421",
@@ -641,7 +693,8 @@
 		"price":"57.98"
 	},
 	{
-		"car": "CT5 2.7（20",
+		"year":"2020",
+		"car": "CT5 2.7",
 		"BID": "BV1pf4y1u7ds",
 		"Btitle": "全国最强CT5，2.7T能打几台宝马3系？",
 		"hp": "325",
@@ -661,7 +714,8 @@
 		"price":"33.97"
 	},
 	{
-		"car": "Focus RS（16",
+		"year":"2016",
+		"car": "Focus RS",
 		"BID": "BV1vJ411n7TY",
 		"Btitle": "【干货】如何用“4550块”爆改一台福克斯RS，赛道锤爆A45/EVO/S3...",
 		"hp": "350",
@@ -669,7 +723,7 @@
 		"Powertrain": "2.3T/6MT",
 		"speed": "57.40",
 		"mods": "2",
-		"tyre": "米其林赛胎",
+		"tyre": "米其林Slick",
 		"temperature": "18",
 		"lv": "A",
 		"time": "144",
@@ -681,27 +735,8 @@
 		"price":"37.88"
 	},
 	{
-		"car": "影豹R（23",
-		"BID": "BV1Dw411i7yD",
-		"Btitle": "影豹R vs 思域Type-R，圈速对决！",
-		"hp": "265",
-		"hp_content": "265",
-		"Powertrain": "2.0T/8AT",
-		"speed": "57.46",
-		"mods": "2",
-		"tyre": "A052",
-		"temperature": "29",
-		"lv": "A",
-		"time": "144",
-		"accelerate": "",
-		"limit": "138.74",
-		"powerType":"0",
-		"producer":"0",
-		"nationality":"CN",
-		"price":"13.80"
-	},
-	{
-		"car": "奥迪S3（19",
+		"year":"2019",
+		"car": "奥迪S3",
 		"BID": "BV1b34y1C7PY",
 		"Btitle": "米其林CUP2C，卫途01，韩泰Z214对比测评，奥迪S3不推头了？",
 		"hp": "290",
@@ -721,7 +756,8 @@
 		"price":"36.38"
 	},
 	{
-		"car": "Model 3P（22",
+		"year":"2022",
+		"car": "Model 3P",
 		"BID": "BV1YF411u7HW",
 		"Btitle": "真正的M3，Model 3P到底强在哪？",
 		"hp": "486",
@@ -741,7 +777,8 @@
 		"price":"36.79"
 	},
 	{
-		"car": "BMW 1M（11",
+		"year":"2011",
+		"car": "BMW 1M",
 		"BID": "BV1Gg411L7cQ",
 		"Btitle": "开3000km来北京 改装1M赛道屠榜M全系？",
 		"hp": "400",
@@ -761,7 +798,8 @@
 		"price":"59.8"
 	},
 	{
-		"car": "伊兰特N（22",
+		"year":"2022",
+		"car": "伊兰特N",
 		"BID": "BV1TL411j7X5",
 		"Btitle": "M Power不行，N Power行！——伊兰特N赛道测试",
 		"hp": "280",
@@ -778,10 +816,11 @@
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"KR",
-		"price":"--"
+		"price":"-"
 	},
 	{
-		"car": "菱帅 进化6（05",
+		"year":"2005",
+		"car": "菱帅 进化6",
 		"BID": "BV1oM41127vJ",
 		"Btitle": "锻造菱帅王，杀爆新手村！",
 		"hp": "140",
@@ -801,7 +840,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "迈锐宝XL（20",
+		"year":"2020",
+		"car": "迈锐宝XL",
 		"BID": "BV1VU4y1N7T8",
 		"Btitle": "【迈锐宝XL进化2.0】刷ECU，干掉宝马M2C！",
 		"hp": "257",
@@ -821,7 +861,8 @@
 		"price":"20.49"
 	},
 	{
-		"car": "奥迪S3（19",
+		"year":"2019",
+		"car": "奥迪S3",
 		"BID": "BV1b34y1C7PY",
 		"Btitle": "米其林CUP2C，卫途01，韩泰Z214对比测评，奥迪S3不推头了？",
 		"hp": "290",
@@ -840,8 +881,51 @@
 		"nationality":"DE",
 		"price":"36.38"
 	},
+	{
+	  "year":"2022",
+	  "car": "Giulia QV",
+	  "BID": "BV15g411v7uF",
+	  "Btitle": "四叶草，在哪快？",
+	  "hp": "510",
+	  "hp_content": "510",
+	  "Powertrain": "2.9T/8AT",
+	  "speed": "57.80",
+	  "mods": "1",
+	  "tyre": "CUP2 C",
+	  "temperature": "36",
+	  "lv": "B",
+	  "time": "",
+	  "accelerate": "4.33",
+	  "limit": "153.06",
+	  "powerType":"0",
+	  "producer":"2",
+	  "nationality":"IT",
+	  "price":"90.28"
+	 },
 	 {
-		"car": "极氪001（23",
+		"year":"2022",
+		"car": "03+",
+		"BID": "BV1oH4y1S7zD",
+		"Btitle": "南北最强的领克03+，谁才是天下第一？",
+		"hp": "289",
+		"hp_content": "289",
+		"Powertrain": "2.0T/8AT",
+		"speed": "57.85",
+		"mods": "2",
+		"tyre": "TR",
+		"temperature": "40",
+		"lv": "A",
+		"time": "",
+		"accelerate": "5.91",
+		"limit": "139.89",
+		"powerType":"0",
+		"producer":"0",
+		"nationality":"CN",
+		"price":"22.28"
+	},
+	{
+		"year":"2023",
+		"car": "极氪001",
 		"BID": "BV1Zc411H7gx",
 		"Btitle": "国产电车，超越特斯拉？",
 		"hp": "544",
@@ -861,7 +945,29 @@
 		"price":"38.60"
 	},
 	{
-		"car": "BMW M2C（20",
+		"year":"2022",
+		"car": "03+Cyan",
+		"BID": "BV1oH4y1S7zD",
+		"Btitle": "南北最强的领克03+，谁才是天下第一？",
+		"hp": "289",
+		"hp_content": "289",
+		"Powertrain": "2.0T/8AT",
+		"speed": "57.93",
+		"mods": "2",
+		"tyre": "TR",
+		"temperature": "40",
+		"lv": "A",
+		"time": "",
+		"accelerate": "6.41",
+		"limit": "138.93",
+		"powerType":"0",
+		"producer":"0",
+		"nationality":"CN",
+		"price":"25.68"
+	},
+	{
+		"year":"2020",
+		"car": "BMW M2C",
 		"BID": "BV1mz4y1o7kP",
 		"Btitle": "千古谜题：宝马M4 vs M2C，谁厉害？",
 		"hp": "410",
@@ -881,7 +987,8 @@
 		"price":"64.38"
 	},
 	{
-		"car": "影豹R（23",
+		"year":"2023",
+		"car": "影豹R",
 		"BID": "BV1wN4y197AG",
 		"Btitle": "完全体影豹R，强无敌！",
 		"hp": "265",
@@ -893,7 +1000,7 @@
 		"temperature": "29",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "139.73",
 		"powerType":"0",
 		"producer":"0",
@@ -901,7 +1008,8 @@
 		"price":"15.80"
 	},
 	{
-		"car": "MX-5 ND（18",
+		"year":"2018",
+		"car": "MX-5 ND",
 		"BID": "BV1N14y1s7qE",
 		"Btitle": "超级MX5，BRZ杀手？",
 		"hp": "260",
@@ -921,7 +1029,8 @@
 		"price":"33.9"
 	},
 	{
-		"car": "Kona N（22",
+		"year":"2022",
+		"car": "Kona N",
 		"BID": "BV1Mb4y1H7xA",
 		"Btitle": "比伊兰特N更纯粹更好玩，Kona N赛道测试",
 		"hp": "280",
@@ -938,10 +1047,11 @@
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"KR",
-		"price":"--"
+		"price":"-"
 	},
 	{
-		"car": "思域（16",
+		"year":"2016",
+		"car": "思域",
 		"BID": "BV1NK4y1A7UW",
 		"Btitle": "国货之光领克03+被东瀛烂仔暴打？",
 		"hp": "225",
@@ -961,7 +1071,8 @@
 		"price":"12.99"
 	},
 	{
-		"car": "Model YP（22",
+		"year":"2022",
+		"car": "Model YP",
 		"BID": "BV17a411a76E",
 		"Btitle": "刷新SUV记录？Model YP赛道测试",
 		"hp": "486",
@@ -981,7 +1092,8 @@
 		"price":"41.79"
 	},
 	{
-		"car": "C63（10",
+		"year":"2010",
+		"car": "C63",
 		"BID": "BV1r44y167gi",
 		"Btitle": "30多万的老奔驰-AMG C 63，操控堪比宝马M2C",
 		"hp": "487",
@@ -994,14 +1106,15 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.4",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
 		"price":"133.80"
 	},
 	{
-		"car": "Golf GTI（18",
+		"year":"2018",
+		"car": "Golf GTI",
 		"BID": "BV1JA411G7WK",
 		"Btitle": "“GTI”吊打思域，成为键盘车神の前驱新神？",
 		"hp": "340",
@@ -1021,7 +1134,8 @@
 		"price":"23.99"
 	},
 	{
-		"car": "BRZ（17",
+		"year":"2017",
+		"car": "BRZ",
 		"BID": "BV1L5411m7bj",
 		"Btitle": "我把丰田86开着火了...",
 		"hp": "200",
@@ -1041,7 +1155,8 @@
 		"price":"26.98"
 	},
 	{
-		"car": "718（18",
+		"year":"2018",
+		"car": "718",
 		"BID": "BV1cX4y1G7EH",
 		"Btitle": "保时捷中置跑车内战，自然吸气6缸 vs 涡轮增压4缸~ | 新老Cayman谁更强？",
 		"hp": "250",
@@ -1061,7 +1176,8 @@
 		"price":"54.5"
 	},
 	{
-		"car": "A35（20",
+		"year":"2020",
+		"car": "A35",
 		"BID": "BV1rv411K7fD",
 		"Btitle": "35块买个签名，A 35就是AMG！",
 		"hp": "306",
@@ -1081,7 +1197,8 @@
 		"price":"39.98"
 	},
 	{
-		"car": "GTI 8（21",
+		"year":"2021",
+		"car": "GTI 8",
 		"BID": "BV1sm4y1o7Xs",
 		"Btitle": "30000块改装GTI，CYAN和N都是辣鸡？",
 		"hp": "220",
@@ -1101,7 +1218,8 @@
 		"price":"22.98"
 	},
 	{
-		"car": "BRZ（22",
+		"year":"2022",
+		"car": "BRZ",
 		"BID": "BV1MR4y1A7WS",
 		"Btitle": "全国首提二手新BRZ...",
 		"hp": "234",
@@ -1121,7 +1239,8 @@
 		"price":"30.88"
 	},
 	{
-		"car": "Cayman 981（13",
+		"year":"2013",
+		"car": "Cayman 981",
 		"BID": "BV1cX4y1G7EH",
 		"Btitle": "保时捷中置跑车内战，自然吸气6缸 vs 涡轮增压4缸~ | 新老Cayman谁更强？",
 		"hp": "275",
@@ -1141,7 +1260,8 @@
 		"price":"72.7"
 	},
 	{
-		"car": "菱帅 进化6（05",
+		"year":"2005",
+		"car": "菱帅 进化6",
 		"BID": "BV1oM41127vJ",
 		"Btitle": "锻造菱帅王，杀爆新手村！",
 		"hp": "140",
@@ -1161,7 +1281,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "Supra（21",
+		"year":"2021",
+		"car": "Supra",
 		"BID": "BV1zS4y1c7cL",
 		"Btitle": "2.0T内战，丰田SUPRA操控吊打丰田86？",
 		"hp": "197",
@@ -1181,7 +1302,8 @@
 		"price":"49.60"
 	},
 	{
-		"car": "Benz A45(16",
+		"year":"2016",
+		"car": "Benz A45",
 		"BID": "BV1u64y1x757",
 		"Btitle": "AMG A 45的真实实力，领克03+怎么比",
 		"hp": "381",
@@ -1201,7 +1323,8 @@
 		"price":"49.80"
 	},
 	{
-		"car": "思域Type-R（23",
+		"year":"2023",
+		"car": "思域Type-R",
 		"BID": "BV1az4y1p7ct",
 		"Btitle": "本田TYPE-R没有领克快，是人性的扭曲还是被充值了...",
 		"hp": "300",
@@ -1221,7 +1344,8 @@
 		"price":"40.20"
 	},
 	{
-		"car": "Focus RS（16",
+		"year":"2016",
+		"car": "Focus RS",
 		"BID": "av78690283",
 		"Btitle": "特斯拉Model3 vs 福克斯RS，教主的战车终于出现了！",
 		"hp": "350",
@@ -1241,7 +1365,8 @@
 		"price":"40.18"
 	},
 	{
-		"car": "小鹏P7（20",
+		"year":"2020",
+		"car": "小鹏P7",
 		"BID": "BV1Yq4y1E7Y8",
 		"Btitle": "小鹏P7能刷到1000ps么？",
 		"hp": "430",
@@ -1261,7 +1386,8 @@
 		"price":"34.99"
 	},
 	{
-		"car": "CT4（20",
+		"year":"2020",
+		"car": "CT4",
 		"BID": "BV1Qy4y1g79T",
 		"Btitle": "开一台改装“CT4”干掉全场“M2C”是什么体验？-- CT4改装分析",
 		"hp": "270",
@@ -1281,7 +1407,8 @@
 		"price":"25.97"
 	},
 	{
-		"car": "Z4（10",
+		"year":"2010",
+		"car": "Z4",
 		"BID": "BV1P5411R7zs",
 		"Btitle": "轻松600马力神车，N54宝马Z4赛道测试",
 		"hp": "306",
@@ -1301,7 +1428,8 @@
 		"price":"78.80"
 	},
 	{
-		"car": "奥迪S4（18",
+		"year":"2018",
+		"car": "奥迪S4",
 		"BID": "BV1KC4y1x7bk",
 		"Btitle": "V6+四驱=神，你想打几台86？--奥迪S4",
 		"hp": "354",
@@ -1321,7 +1449,8 @@
 		"price":"45.98"
 	},
 	{
-		"car": "CT5（20",
+		"year":"2020",
+		"car": "CT5",
 		"BID": "BV1Gt4y1B7De",
 		"Btitle": "凯迪拉克CT5干掉宝马330i，要花多少钱？",
 		"hp": "241",
@@ -1333,7 +1462,7 @@
 		"temperature": "26",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "129",
 		"powerType":"0",
 		"producer":"1",
@@ -1341,7 +1470,8 @@
 		"price":"33.97"
 	},
 	{
-		"car": "03+Cyan（22",
+		"year":"2022",
+		"car": "03+Cyan",
 		"BID": "BV1Aa411B7HM",
 		"Btitle": "领克03+Cyan徒有其表？值么？",
 		"hp": "265",
@@ -1361,7 +1491,8 @@
 		"price":"25.68"
 	},
 	{
-		"car": "领克03+（20",
+		"year":"2020",
+		"car": "领克03+",
 		"BID": "BV1A84y1c7fR",
 		"Btitle": "京城最速03+有多快，手动思域追不上？【头文字D追走】",
 		"hp": "254",
@@ -1381,7 +1512,8 @@
 		"price":"22.88"
 	},
 	{
-		"car": "飞凡F7（20",
+		"year":"2020",
+		"car": "飞凡F7",
 		"BID": "BV1oc411N7qx",
 		"Btitle": "飞凡F7跑赛道，是一种什么体验？",
 		"hp": "544",
@@ -1401,7 +1533,8 @@
 		"price":"30.19"
 	},
 	{
-		"car": "86（17",
+		"year":"2017",
+		"car": "86",
 		"BID": "BV1L5411m7bj",
 		"Btitle": "我把丰田86开着火了...",
 		"hp": "200",
@@ -1421,7 +1554,8 @@
 		"price":"27.78"
 	},
 	{
-		"car": "飞度（14",
+		"year":"2014",
+		"car": "飞度",
 		"BID": "BV13S4y1N7Gs",
 		"Btitle": "80000块移植K20A，飞度王！",
 		"hp": "220",
@@ -1433,7 +1567,7 @@
 		"temperature": "30",
 		"lv": "A0",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "136.96",
 		"powerType":"0",
 		"producer":"1",
@@ -1441,7 +1575,8 @@
 		"price":"7.38"
 	},
 	{
-		"car": "野马（20",
+		"year":"2020",
+		"car": "野马",
 		"BID": "BV15f4y1u79p",
 		"Btitle": "2.3T原厂Mustang的操控如何，赛道轻松干掉原厂86？",
 		"hp": "299",
@@ -1461,7 +1596,8 @@
 		"price":"36.98"
 	},
 	{
-		"car": "极氪001（21",
+		"year":"2021",
+		"car": "极氪001",
 		"BID": "BV1yS4y197Qp",
 		"Btitle": "赛道拉爆极氪001，要露馅了？",
 		"hp": "544",
@@ -1481,7 +1617,8 @@
 		"price":"36.00"
 	},
 	{
-		"car": "MINI JCW（13",
+		"year":"2013",
+		"car": "MINI JCW",
 		"BID": "BV1Bb4y1871i",
 		"Btitle": "小拉力赛车？MINI JCW R56性能测试！",
 		"hp": "211",
@@ -1501,7 +1638,8 @@
 		"price":"39.90"
 	},
 	{
-		"car": "LOTUS GT410（19",
+		"year":"2019",
+		"car": "LOTUS GT410",
 		"BID": "BV1hZ4y1P7Br",
 		"Btitle": "路特斯GT410，比保时捷911更硬？",
 		"hp": "410",
@@ -1513,7 +1651,7 @@
 		"temperature": "6",
 		"lv": "S",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "147",
 		"powerType":"0",
 		"producer":"2",
@@ -1521,7 +1659,8 @@
 		"price":"97.20"
 	},
 	{
-		"car": "Model Y（21",
+		"year":"2021",
+		"car": "Model Y",
 		"BID": "BV1qo4y1C7dt",
 		"Btitle": "SUV吊打小钢炮？特斯拉Model Y赛道测评！",
 		"hp": "432",
@@ -1541,7 +1680,8 @@
 		"price":"34.79"
 	},
 	{
-		"car": "宝马I4 M50（21",
+		"year":"2021",
+		"car": "宝马I4 M50",
 		"BID": "BV1cg411R7xw",
 		"Btitle": "半价M4，跑不过86？",
 		"hp": "544",
@@ -1561,7 +1701,8 @@
 		"price":"53.99"
 	},
 	{
-	  "car": "菱帅 进化5（05",
+	  "year":"2005",
+	  "car": "菱帅 进化5",
 	  "BID": "BV1eK41167Xe",
 	  "Btitle": "8000转的超级菱帅！【菱帅进化5.0】",
 	  "hp": "125",
@@ -1581,7 +1722,8 @@
 	  "price":"11.88"
 	},
 	{
-		"car": "飞度（14",
+		"year":"2014",
+		"car": "飞度",
 		"BID": "av48683350",
 		"Btitle": "7W买车7W改，超跑飞度成功刷新“键盘车神圈速榜”",
 		"hp": "151",
@@ -1601,7 +1743,8 @@
 		"price":"7.38"
 	},
 	{
-		"car": "领克03+（20",
+		"year":"2020",
+		"car": "领克03+",
 		"BID": "BV1NK4y1A7UW",
 		"Btitle": "国货之光领克03+被东瀛烂仔暴打？",
 		"hp": "254",
@@ -1621,7 +1764,8 @@
 		"price":"22.88"
 	},
 	{
-		"car": "谢尔比GTE（19",
+		"year":"2019",
+		"car": "谢尔比GTE",
 		"BID": "BV1144y1g72R",
 		"Btitle": "40W的野马王，比超跑还宽",
 		"hp": "368",
@@ -1641,7 +1785,8 @@
 		"price":"41.80"
 	},
 	{
-		"car": "CT5 尊贵型（21",
+		"year":"2021",
+		"car": "CT5 尊贵型",
 		"BID": "BV1P64y1v7f1",
 		"Btitle": "30万级最强底盘中型轿车 可能就是它！",
 		"hp": "237",
@@ -1661,7 +1806,8 @@
 		"price":"32.27"
 	},
 	{
-		"car": "影豹R（23",
+		"year":"2023",
+		"car": "影豹R",
 		"BID": "BV1nV4y1Y7r3",
 		"Btitle": "影豹R+LSD，可能是全国首测？",
 		"hp": "265",
@@ -1673,7 +1819,7 @@
 		"temperature": "29",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "140.00",
 		"powerType":"0",
 		"producer":"0",
@@ -1681,7 +1827,8 @@
 		"price":"15.80"
 	},
 	{
-		"car": "梅甘娜RS（14",
+		"year":"2014",
+		"car": "梅甘娜RS",
 		"BID": "BV1PU4y1878m",
 		"Btitle": "【最强手动挡钢炮特辑】梅甘娜RS，嘉年华ST，速翼特赛道PK！",
 		"hp": "275",
@@ -1701,7 +1848,8 @@
 		"price":"35.99"
 	},
 	{
-		"car": "宝马328i（13",
+		"year":"2013",
+		"car": "宝马328i",
 		"BID": "BV1gY4y167rz",
 		"Btitle": "永远的标杆，宝马328i~",
 		"hp": "245",
@@ -1721,7 +1869,8 @@
 		"price":"42.60"
 	},
 	{
-		"car": "Giulia 280（17",
+		"year":"2017",
+		"car": "Giulia 280",
 		"BID": "BV1mK411p7rK",
 		"Btitle": "Giulia是B级运动车最强？他能打爆CT5/宝马3/奥迪A4么?",
 		"hp": "330",
@@ -1741,7 +1890,8 @@
 		"price":"44.98"
 	},
 	{
-		"car": "Brz（15",
+		"year":"2015",
+		"car": "Brz",
 		"BID": "BV1PP4y1E7m2",
 		"Btitle": "换上米其林PS4，BRZ直接干翻小钢炮",
 		"hp": "200",
@@ -1761,7 +1911,8 @@
 		"price":"26.90"
 	},
 	{
-		"car": "小鹏P7（20",
+		"year":"2020",
+		"car": "小鹏P7",
 		"BID": "BV1Ra4y1L7p2",
 		"Btitle": "电动妖刀！小鹏P7！",
 		"hp": "430",
@@ -1781,7 +1932,8 @@
 		"price":"33.99"
 	},
 	{
-		"car": "Brz（17",
+		"year":"2017",
+		"car": "Brz",
 		"BID": "BV1PP4y1E7m2",
 		"Btitle": "换上米其林PS4，BRZ直接干翻小钢炮",
 		"hp": "200",
@@ -1801,7 +1953,8 @@
 		"price":"27.98"
 	},
 	{
-		"car": "MINI JCW（13",
+		"year":"2013",
+		"car": "MINI JCW",
 		"BID": "BV1Bb4y1871i",
 		"Btitle": "小拉力赛车？MINI JCW R56性能测试！",
 		"hp": "211",
@@ -1821,7 +1974,8 @@
 		"price":"39.90"
 	},
 	{
-		"car": "迈锐宝XL（20",
+		"year":"2020",
+		"car": "迈锐宝XL",
 		"BID": "BV1pU4y177kq",
 		"Btitle": "【迈锐宝XL进化1.0】白嫖的15W改装经费怎么花？",
 		"hp": "237",
@@ -1833,7 +1987,7 @@
 		"temperature": "33",
 		"lv": "B",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "125.01",
 		"powerType":"0",
 		"producer":"1",
@@ -1841,7 +1995,8 @@
 		"price":"20.49"
 	},
 	{
-		"car": "BMW 330i（20",
+		"year":"2020",
+		"car": "BMW 330i",
 		"BID": "BV1Sv4y1f76E",
 		"Btitle": "宝马3系，运动亡者？-- 330i挑战CT5圈速",
 		"hp": "258",
@@ -1861,7 +2016,8 @@
 		"price":"37.99"
 	},
 	{
-		"car": "BMW 540i（18",
+		"year":"2018",
+		"car": "BMW 540i",
 		"BID": "BV1Ya4y1i7mL",
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
 		"hp": "340",
@@ -1881,7 +2037,8 @@
 		"price":"59.39"
 	},
 	{
-		"car": "福克斯ST（13",
+		"year":"2013",
+		"car": "福克斯ST",
 		"BID": "BV12g4y1z7WV",
 		"Btitle": "10万块买的“低配”梅甘娜RS有多香？--福克斯ST",
 		"hp": "275",
@@ -1901,7 +2058,8 @@
 		"price":"25.98"
 	},
 	{
-		"car": "野马（20",
+		"year":"2020",
+		"car": "野马",
 		"BID": "BV1hQ4y1q7RW",
 		"Btitle": "流言终结者：Mustang操控真的很差？",
 		"hp": "350",
@@ -1921,7 +2079,8 @@
 		"price":"36.98"
 	},
 	{
-		"car": "CT5 顶配（20",
+		"year":"2020",
+		"car": "CT5 顶配",
 		"BID": "BV1ci4y1V7Ko",
 		"Btitle": "“洗浴城”的运动之王！--凯迪拉克CT5",
 		"hp": "241",
@@ -1934,14 +2093,15 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "8.0",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"US",
 		"price":"33.97"
 	},
 	{
-		"car": "菱帅（03",
+		"year":"2003",
+		"car": "菱帅",
 		"BID": "BV1TK411u7k2",
 		"Btitle": "我膨胀了！又买了台菱帅！【赛车 vs 街车】",
 		"hp": "100",
@@ -1953,7 +2113,7 @@
 		"temperature": "27",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "125",
 		"powerType":"0",
 		"producer":"0",
@@ -1961,7 +2121,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "GTI 8（21",
+		"year":"2021",
+		"car": "GTI 8",
 		"BID": "BV1F34y1Q7JC",
 		"Btitle": "GTI换上领克03+的轮胎，赛道圈速竟然这么快",
 		"hp": "220",
@@ -1981,7 +2142,8 @@
 		"price":"22.98"
 	},
 	{
-		"car": "02HB（21",
+		"year":"2021",
+		"car": "02HB",
 		"BID": "BV1oq4y1h7vb",
 		"Btitle": "18万，是钢炮？",
 		"hp": "254",
@@ -2001,7 +2163,8 @@
 		"price":"18.18"
 	},
 	{
-		"car": "福克斯ST（13",
+		"year":"2013",
+		"car": "福克斯ST",
 		"BID": "BV12g4y1z7WV",
 		"Btitle": "10万块买的“低配”梅甘娜RS有多香？",
 		"hp": "250",
@@ -2021,7 +2184,8 @@
 		"price":"25.98"
 	},
 	{
-		"car": "思域SI（14",
+		"year":"2014",
+		"car": "思域SI",
 		"BID": "BV1ii4y1S7LB",
 		"Btitle": "大排量自吸前驱车，谁最强？",
 		"hp": "207",
@@ -2041,7 +2205,8 @@
 		"price":"19.98"
 	},
 	{
-		"car": "Brz（15",
+		"year":"2015",
+		"car": "Brz",
 		"BID": "BV11Z4y1Q7a8",
 		"Btitle": "手动vs自动，原厂BRZ赛道测试！",
 		"hp": "200",
@@ -2061,7 +2226,8 @@
 		"price":"26.90"
 	},
 	{
-		"car": "领克03+（19",
+		"year":"2019",
+		"car": "领克03+",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
 		"hp": "254",
@@ -2081,7 +2247,8 @@
 		"price":"22.88"
 	},
 	{
-		"car": "奥迪A4L（20",
+		"year":"2020",
+		"car": "奥迪A4L",
 		"BID": "BV1iD4y1Q7KH",
 		"Btitle": "奥迪A4L的“运动性”反而退步了？",
 		"hp": "252",
@@ -2101,7 +2268,8 @@
 		"price":"39.68"
 	},
 	{
-		"car": "领克05+（22",
+		"year":"2022",
+		"car": "领克05+",
 		"BID": "BV1AF411V7CP",
 		"Btitle": "领克05+算的上“赛道级SUV”？",
 		"hp": "265",
@@ -2121,7 +2289,8 @@
 		"price":"23.58"
 	},
 	{
-		"car": "BMW M6（06",
+		"year":"2006",
+		"car": "BMW M6",
 		"BID": "BV1Hy4y1Y7Jz",
 		"Btitle": "20多万，买F1的V10引擎~",
 		"hp": "507",
@@ -2141,7 +2310,8 @@
 		"price":"229.80"
 	},
 	{
-		"car": "沃尔沃S60 T8（21",
+		"year":"2021",
+		"car": "沃尔沃S60 T8",
 		"BID": "BV1BA4y197S3",
 		"Btitle": "30万出头落地，S60 T8平替S4？",
 		"hp": "404",
@@ -2161,7 +2331,8 @@
 		"price":"46.19"
 	},
 	{
-		"car": "嘉年华ST（13",
+		"year":"2013",
+		"car": "嘉年华ST",
 		"BID": "BV1PU4y1878m",
 		"Btitle": "【最强手动挡钢炮特辑】梅甘娜RS，嘉年华ST，速翼特赛道PK！",
 		"hp": "182",
@@ -2181,7 +2352,8 @@
 		"price":"18.59"
 	},
 	{
-		"car": "马自达3（17",
+		"year":"2017",
+		"car": "马自达3",
 		"BID": "BV1BT4y1C767",
 		"Btitle": "2.5引擎+手动挡，帝王马自达3来了！",
 		"hp": "192",
@@ -2201,7 +2373,8 @@
 		"price":"11.30"
 	},
 	{
-		"car": "Brz（17",
+		"year":"2017",
+		"car": "Brz",
 		"BID": "BV11Z4y1Q7a8",
 		"Btitle": "手动vs自动，原厂BRZ赛道测试！",
 		"hp": "200",
@@ -2221,7 +2394,8 @@
 		"price":"27.98"
 	},
 	{
-		"car": "影豹R（23",
+		"year":"2023",
+		"car": "影豹R",
 		"BID": "BV1Wa4y1F72T",
 		"Btitle": "影豹R，低配如何变高配？",
 		"hp": "265",
@@ -2241,7 +2415,8 @@
 		"price":"13.80"
 	},
 	{
-		"car": "迈锐宝XL（20",
+		"year":"2020",
+		"car": "迈锐宝XL",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "237",
@@ -2260,9 +2435,9 @@
 		"nationality":"US",
 		"price":"21.99"
 	},
-
 	{
-		"car": "菱帅 进化4（05",
+		"year":"2005",
+		"car": "菱帅 进化4",
 		"BID": "BV1dh411474c",
 		"Btitle": "【菱帅进化4.0】小马力的春药，3000块你要么？",
 		"hp": "100",
@@ -2282,7 +2457,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "SLK（10",
+		"year":"2010",
+		"car": "SLK",
 		"BID": "BV1W84y1178n",
 		"Btitle": "6万块奔驰SLK，赛道日大杀四方？",
 		"hp": "184",
@@ -2302,7 +2478,8 @@
 		"price":"59.80"
  	},
 	{
-		"car": "野马（15",
+		"year":"2015",
+		"car": "野马",
 		"BID": "BV1hQ4y1q7RW",
 		"Btitle": "流言终结者：Mustang操控真的很差？",
 		"hp": "350",
@@ -2322,7 +2499,8 @@
 		"price":"39.98"
 	},
 	{
-		"car": "BMW 330Li（18",
+		"year":"2018",
+		"car": "BMW 330Li",
 		"BID": "BV1uk4y1o7NE",
 		"Btitle": "5W改装宝马330Li，还跑不过捷豹XEL嘛？",
 		"hp": "252",
@@ -2342,7 +2520,8 @@
 		"price":"42.98"
 	},
 	{
-		"car": "G37（09",
+		"year":"2009",
+		"car": "G37",
 		"BID": "BV1mu411z7Y9",
 		"Btitle": "人人都吹的奇瑞王G37，就这？",
 		"hp": "351",
@@ -2362,7 +2541,8 @@
 		"price":"49.10"
 	},
 	{
-		"car": "CT4（20",
+		"year":"2020",
+		"car": "CT4",
 		"BID": "BV1wa4y1H72F",
 		"Btitle": "凯迪拉克CT4：美国的宝马E90～",
 		"hp": "270",
@@ -2382,7 +2562,8 @@
 		"price":"25.97"
 	},
 	{
-		"car": "君威GS（21",
+		"year":"2021",
+		"car": "君威GS",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "237",
@@ -2402,7 +2583,8 @@
 		"price":"21.88"
 	},
 	{
-		"car": "菱帅 进化3（05",
+		"year":"2005",
+		"car": "菱帅 进化3",
 		"BID": "BV1ai4y1o7mB",
 		"Btitle": "【菱帅进化3.0】小马力前驱回归，自信男人の大杀器：Camber！",
 		"hp": "100",
@@ -2422,7 +2604,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "ATS-L（17",
+		"year":"2017",
+		"car": "ATS-L",
 		"BID": "BV1Pv411s7Tf",
 		"Btitle": "去洗浴中心，凯迪拉克ATS-L和CT4谁更快？",
 		"hp": "279",
@@ -2442,7 +2625,8 @@
 		"price":"36.88"
 	},
 	{
-		"car": "思域（22",
+		"year":"2022",
+		"car": "思域",
 		"BID": "BV1zi4y117xQ",
 		"Btitle": "【米其林PS5】性能测试，11代思域圈速提升几秒？",
 		"hp": "182",
@@ -2454,7 +2638,7 @@
 		"temperature": "0",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "131.46",
 		"powerType":"0",
 		"producer":"1",
@@ -2462,7 +2646,8 @@
 		"price":"14.29"
 	},
 	{
-		"car": "CT4（20",
+		"year":"2020",
+		"car": "CT4",
 		"BID": "BV1wa4y1H72F",
 		"Btitle": "凯迪拉克CT4：美国的宝马E90～",
 		"hp": "237",
@@ -2482,7 +2667,8 @@
 		"price":"25.97"
 	},
 	{
-		"car": "速腾GLI（16",
+		"year":"2016",
+		"car": "速腾GLI",
 		"BID": "av76939481",
 		"Btitle": "GTI vs GLI -- 大众“推头王”之间的对决？",
 		"hp": "290",
@@ -2502,7 +2688,8 @@
 		"price":"21.88"
 	},
 	{
-		"car": "C63 507（14",
+		"year":"2014",
+		"car": "C63 507",
 		"BID": "BV1r44y167gi",
 		"Btitle": "30多万的老奔驰-AMG C 63，操控堪比宝马M2C",
 		"hp": "507",
@@ -2515,14 +2702,15 @@
 		"lv": "B",
 		"time": "",
 		"accelerate": "4.2",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
 		"price":"114.80"
 	},
 	{
-		"car": "星越L（21",
+		"year":"2021",
+		"car": "星越L",
 		"BID": "BV1Yq4y1z77X",
 		"Btitle": "教主也造假？星越L比宝马3系快？",
 		"hp": "238",
@@ -2535,14 +2723,15 @@
 		"lv": "A",
 		"time": "",
 		"accelerate": "7.07",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"0",
 		"nationality":"CN",
 		"price":"18.52"
 	},
 	{
-		"car": "206 进化3（06",
+		"year":"2006",
+		"car": "206 进化3",
 		"BID": "",
 		"Btitle": "",
 		"hp": "165",
@@ -2555,14 +2744,15 @@
 		"lv": "A0",
 		"time": "",
 		"accelerate": "7.1",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"CN",
 		"price":"7.78"
 	},
 	{
-		"car": "GTI 8（21",
+		"year":"2021",
+		"car": "GTI 8",
 		"BID": "BV1F34y1Q7JC",
 		"Btitle": "GTI换上领克03+的轮胎，赛道圈速竟然这么快",
 		"hp": "220",
@@ -2582,7 +2772,8 @@
 		"price":"22.98"
 	},
 	{
-		"car": "捷豹XEL（19",
+		"year":"2019",
+		"car": "捷豹XEL",
 		"BID": "av40240801",
 		"Btitle": "你以为宝马3系同级别操控秒天秒地？试试捷豹XEL吧",
 		"hp": "250",
@@ -2595,14 +2786,15 @@
 		"lv": "B",
 		"time": "1364",
 		"accelerate": "7.8",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"UK",
 		"price":"36.28"
 	},
 	{
-		"car": "影豹R（23",
+		"year":"2023",
+		"car": "影豹R",
 		"BID": "BV1va4y1A7sA",
 		"Btitle": "影豹R，低配才香？",
 		"hp": "265",
@@ -2622,7 +2814,8 @@
 		"price":"13.80"
 	},
 	{
-		"car": "BMW 430i（21",
+		"year":"2021",
+		"car": "BMW 430i",
 		"BID": "BV1kK4y1R7Lb",
 		"Btitle": "2.0T卖60W+？宝马430i性能让我很失望",
 		"hp": "258",
@@ -2642,7 +2835,8 @@
 		"price":"45.98"
 	},
 	{
-		"car": "领克03（19",
+		"year":"2019",
+		"car": "领克03",
 		"BID": "av76609493",
 		"Btitle": "领克03四缸版,教主愿称他为“A级最速买菜王”",
 		"hp": "190",
@@ -2662,7 +2856,8 @@
 		"price":"15.48"
 	},
 	{
-		"car": "捷豹XF（14",
+		"year":"2014",
+		"car": "捷豹XF",
 		"BID": "BV1Ya4y1i7mL",
 		"Btitle": "3.0T标轴C级运动王 | 宝马540 vs 捷豹XF对比测评",
 		"hp": "340",
@@ -2682,7 +2877,8 @@
 		"price":"63.80"
 	},
 	{
-		"car": "BMW 325Li（21",
+		"year":"2021",
+		"car": "BMW 325Li",
 		"BID": "BV1P64y1v7f1",
 		"Btitle": "30万级最强底盘中型轿车 可能就是它！",
 		"hp": "184",
@@ -2702,7 +2898,8 @@
 		"price":"34.69"
 	},
 	{
-		"car": "A220L（20",
+		"year":"2020",
+		"car": "A220L",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "190",
@@ -2722,7 +2919,8 @@
 		"price":"29.98"
 	},
 	{
-		"car": "MG6（22",
+		"year":"2022",
+		"car": "MG6",
 		"BID": "BV1Ra411a7vQ",
 		"Btitle": "花里胡哨之王，MG6...",
 		"hp": "181",
@@ -2742,7 +2940,8 @@
 		"price":"13.98"
 	},
 	{
-		"car": "思域HB（21",
+		"year":"2021",
+		"car": "思域HB",
 		"BID": "BV1vR4y1T799",
 		"Btitle": "退步？思域11比10代还慢了...",
 		"hp": "177",
@@ -2762,7 +2961,8 @@
 		"price":"14.39"
 	},
 	{
-		"car": "E320L（15",
+		"year":"2015",
+		"car": "E320L",
 		"BID": "",
 		"Btitle": "",
 		"hp": "272",
@@ -2775,14 +2975,15 @@
 		"lv": "C",
 		"time": "",
 		"accelerate": "7.0",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"DE",
 		"price":"59.80"
 	},
 	{
-		"car": "天籁（19",
+		"year":"2019",
+		"car": "天籁",
 		"BID": "av58322205",
 		"Btitle": "“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
 		"hp": "252",
@@ -2802,7 +3003,8 @@
 		"price":"21.58"
 	},
 	{
-		"car": "思域（16",
+		"year":"2016",
+		"car": "思域",
 		"BID": "BV1rp4y1H7Ce",
 		"Btitle": "思域比领克03强在哪？改装+原厂全面解析！",
 		"hp": "177",
@@ -2822,7 +3024,8 @@
 		"price":"12.99"
 	},
 	{
-		"car": "翼神（13",
+		"year":"2013",
+		"car": "翼神",
 		"BID": "BV1ii4y1S7LB",
 		"Btitle": "大排量自吸前驱车，谁最强？",
 		"hp": "170",
@@ -2835,14 +3038,15 @@
 		"lv": "A0",
 		"time": "",
 		"accelerate": "7.5",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"0",
 		"nationality":"JP",
 		"price":"13.08"
 	},
 	{
-		"car": "嘉年华（10",
+		"year":"2010",
+		"car": "嘉年华",
 		"BID": "",
 		"Btitle": "",
 		"hp": "103",
@@ -2854,15 +3058,16 @@
 		"temperature": "0",
 		"lv": "A0",
 		"time": "",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"US",
 		"price":"9.29"
 	},
 	{
-		"car": "高尔夫GTI（18",
+		"year":"2018",
+		"car": "高尔夫GTI",
 		"BID": "BV1ui4y137jA",
 		"Btitle": "奥迪S3/大众GTI，被领克03+打爆了？",
 		"hp": "220",
@@ -2882,7 +3087,8 @@
 		"price":"23.99"
 	}, 
 	{
-		"car": "菲斯塔（19",
+		"year":"2019",
+		"car": "菲斯塔",
 		"BID": "av60306282",
 		"Btitle": "“现代菲斯塔”打爆“名爵MG6”，教主再次冲出赛道~",
 		"hp": "204",
@@ -2902,7 +3108,8 @@
 		"price":"14.08"
 	},
 	{
-		"car": "C2 进化2（07",
+		"year":"2007",
+		"car": "C2 进化2",
 		"BID": "BV1yt4y1z7Mo",
 		"Btitle": "【206进化2.0】135马力，不怕飞度、速翼特！",
 		"hp": "135",
@@ -2922,7 +3129,8 @@
 		"price":"8.88"
 	},
 	{
-		"car": "飞度（14",
+		"year":"2014",
+		"car": "飞度",
 		"BID": "av45970606",
 		"Btitle": "低配版“飞驰人生”！大众POLO vs 本田飞度",
 		"hp": "131",
@@ -2935,14 +3143,15 @@
 		"lv": "A0",
 		"time": "753",
 		"accelerate": "8.7",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"7.38"
 	},
 	{
-		"car": "高尔夫GTI（12",
+		"year":"2012",
+		"car": "高尔夫GTI",
 		"BID": "av76939481",
 		"Btitle": "GTI vs GLI -- 大众“推头王”之间的对决？",
 		"hp": "230",
@@ -2962,7 +3171,8 @@
 		"price":"23.58"
 	},
 	{
-		"car": "思域（22",
+		"year":"2022",
+		"car": "思域",
 		"BID": "BV1vR4y1T799",
 		"Btitle": "退步？思域11比10代还慢了...",
 		"hp": "182",
@@ -2982,7 +3192,8 @@
 		"price":"14.29"
 	},
 	{
-		"car": "奥迪A3（21",
+		"year":"2021",
+		"car": "奥迪A3",
 		"BID": "BV1Fb4y1Q7Fu",
 		"Btitle": "奔驰宝马被高尔夫吊打？凯特姐“进退两男”？",
 		"hp": "150",
@@ -3002,7 +3213,8 @@
 		"price":"20.31"
 	},
 	{
-		"car": "福克斯（15",
+		"year":"2015",
+		"car": "福克斯",
 		"BID": "av53756099",
 		"Btitle": "改装福克斯有福克斯RS几分功力？",
 		"hp": "236",
@@ -3014,15 +3226,16 @@
 		"temperature": "23",
 		"lv": "A",
 		"time": "1407",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"US",
 		"price":"14.98"
 	},
 	{
-		"car": "Golf 7（18",
+		"year":"2018",
+		"car": "Golf 7",
 		"BID": "BV1DK4y1C7vt",
 		"Btitle": "【误】高尔夫R vs 福克斯ST？--赛道周末Vlog23",
 		"hp": "150",
@@ -3042,7 +3255,8 @@
 		"price":"17.19"
 	},
 	{
-		"car": "Golf 8（21",
+		"year":"2021",
+		"car": "Golf 8",
 		"BID": "BV1F34y1Q7JC",
 		"Btitle": "GTI换上领克03+的轮胎，赛道圈速竟然这么快",
 		"hp": "150",
@@ -3062,7 +3276,8 @@
 		"price":"22.98"
 	},
 	{
-		"car": "菱帅 进化2（05",
+		"year":"2005",
+		"car": "菱帅 进化2",
 		"BID": "BV1tA411v7CG",
 		"Btitle": "【菱帅进化2.0】买车7000块，改刹车7000块？",
 		"hp": "100",
@@ -3082,7 +3297,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "Focus（19",
+		"year":"2019",
+		"car": "Focus",
 		"BID": "BV1DK4y1C7vt",
 		"Btitle": "【误】高尔夫R vs 福克斯ST？--赛道周末Vlog23",
 		"hp": "184",
@@ -3102,7 +3318,8 @@
 		"price":"13.48"
 	},
 	{
-		"car": "蔚来ES8（18",
+		"year":"2018",
+		"car": "蔚来ES8",
 		"BID": "",
 		"Btitle": "内容下架了",
 		"hp": "652",
@@ -3122,7 +3339,8 @@
 		"price":"44.80"
 	},
 	{
-		"car": "508L（19",
+		"year":"2019",
+		"car": "508L",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "211",
@@ -3142,7 +3360,8 @@
 		"price":"18.97"
 	},
 	{
-		"car": "嘉年华（11",
+		"year":"2011",
+		"car": "嘉年华",
 		"BID": "BV1qh4y1k7Aa",
 		"Btitle": "马自达2 vs 嘉年华，谁是2万钢炮王？",
 		"hp": "103",
@@ -3162,7 +3381,8 @@
 		"price":"10.19"
 	},
 	{
-		"car": "菱帅 进化1（05",
+		"year":"2005",
+		"car": "菱帅 进化1",
 		"BID": "av31676244",
 		"Btitle": "6000多块钱改装一台车，你不撞车谁撞车？",
 		"hp": "100",
@@ -3182,7 +3402,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "Giulia 200（17",
+		"year":"2017",
+		"car": "Giulia 200",
 		"BID": "av43028847",
 		"Btitle": "百万级底盘居然赢不了教主二手菱帅？",
 		"hp": "200",
@@ -3194,15 +3415,16 @@
 		"temperature": "6",
 		"lv": "B",
 		"time": "185",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"IT",
 		"price":"31.98"
 	},
 	{
-		"car": "马自达3（16",
+		"year":"2016",
+		"car": "马自达3",
 		"BID": "BV1ii4y1S7LB",
 		"Btitle": "大排量自吸前驱车，谁最强？",
 		"hp": "192",
@@ -3222,7 +3444,8 @@
 		"price":"11.49"
 	},
 	{
-		"car": "马自达2（11",
+		"year":"2011",
+		"car": "马自达2",
 		"BID": "BV1qh4y1k7Aa",
 		"Btitle": "马自达2 vs 嘉年华，谁是2万钢炮王？",
 		"hp": "102",
@@ -3242,7 +3465,8 @@
 		"price":"8.88"
 	},
 	{
-		"car": "BMW 118i（13",
+		"year":"2013",
+		"car": "BMW 118i",
 		"BID": "av36925339",
 		"Btitle": "【键盘对决第1期】马自达昂克赛拉VS宝马118（下集）",
 		"hp": "170",
@@ -3255,14 +3479,15 @@
 		"lv": "A",
 		"time": "537",
 		"accelerate": "7.2",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
 		"price":"29.20"
 	},
 	{
-		"car": "K5（20",
+		"year":"2020",
+		"car": "K5",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "240",
@@ -3282,7 +3507,8 @@
 		"price":"18.98"
 	},
 	{
-		"car": "UNI-T（20",
+		"year":"2020",
+		"car": "UNI-T",
 		"BID": "BV1ty4y1Y7Aw",
 		"Btitle": "国产小型SUV也配谈运动? -- 4车SUV大乱斗",
 		"hp": "180",
@@ -3302,7 +3528,8 @@
 		"price":"11.39"
 	},
 	{
-		"car": "奥迪A3L（21",
+		"year":"2021",
+		"car": "奥迪A3L",
 		"BID": "BV1Fb4y1Q7Fu",
 		"Btitle": "奔驰宝马被高尔夫吊打？凯特姐“进退两男”？",
 		"hp": "150",
@@ -3322,7 +3549,8 @@
 		"price":"20.96"
 	},
 	{
-		"car": "名爵MG6（19",
+		"year":"2019",
+		"car": "名爵MG6",
 		"BID": "av60306282",
 		"Btitle": "“现代菲斯塔”打爆“名爵MG6”，教主再次冲出赛道~",
 		"hp": "169",
@@ -3334,7 +3562,7 @@
 		"temperature": "23",
 		"lv": "A",
 		"time": "384",
-		"accelerate": "",
+		"accelerate": "-",
 		"limit": "120",
 		"powerType":"0",
 		"producer":"0",
@@ -3342,7 +3570,8 @@
 		"price":"10.98"
 	},
 	{
-		"car": "阿特兹（20",
+		"year":"2020",
+		"car": "阿特兹",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "192",
@@ -3362,7 +3591,8 @@
 		"price":"19.98"
 	},
 	{
-		"car": "奥迪A3（16",
+		"year":"2016",
+		"car": "奥迪A3",
 		"BID": "av57499131",
 		"Btitle": "“键盘车神”批判性的买了一台奥迪A3，开起来香么？",
 		"hp": "150",
@@ -3375,14 +3605,15 @@
 		"lv": "A",
 		"time": "1401",
 		"accelerate": "8.4",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"DE",
 		"price":"18.49"
 	},
 	{
-		"car": "零跑S01（20",
+		"year":"2020",
+		"car": "零跑S01",
 		"BID": "BV1KX4y1K7jm",
 		"Btitle": "年轻人的第一台电动超跑！我买下次一定！",
 		"hp": "170",
@@ -3402,7 +3633,8 @@
 		"price":"12.99"
 	},
 	{
-		"car": "领克06（20",
+		"year":"2020",
+		"car": "领克06",
 		"BID": "BV1ty4y1Y7Aw",
 		"Btitle": "国产小型SUV也配谈运动? -- 4车SUV大乱斗",
 		"hp": "177",
@@ -3422,7 +3654,8 @@
 		"price":"11.86"
 	},
 	{
-		"car": "索纳塔（20",
+		"year":"2020",
+		"car": "索纳塔",
 		"BID": "BV1Xt4y1e78H",
 		"Btitle": "6台屌丝战车，谁能追上奔驰?",
 		"hp": "240",
@@ -3442,7 +3675,8 @@
 		"price":"18.38"
 	},
 	{
-		"car": "凡尔赛（21",
+		"year":"2021",
+		"car": "凡尔赛",
 		"BID": "BV18b4y1B7jV",
 		"Btitle": "底盘操控到底怎样 凡尔赛性能测试",
 		"hp": "175",
@@ -3462,7 +3696,8 @@
 		"price":"18.67"
 	},
 	{
-		"car": "领克02（19",
+		"year":"2019",
+		"car": "领克02",
 		"BID": "BV1wh411d7X4",
 		"Btitle": "【B站】发了台“领克02”给我，SUV我就不去赛道了么？",
 		"hp": "180",
@@ -3482,7 +3717,8 @@
 		"price":"18.88"
 	},
 	{
-		"car": "昂克塞拉（16",
+		"year":"2016",
+		"car": "昂克塞拉",
 		"BID": "av36925339",
 		"Btitle": "【键盘对决第1期】马自达昂克赛拉VS宝马118（下集）",
 		"hp": "158",
@@ -3494,15 +3730,16 @@
 		"temperature": "31",
 		"lv": "A",
 		"time": "537",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"15.29"
 	},
 	{
-		"car": "吉利ICON（20",
+		"year":"2020",
+		"car": "吉利ICON",
 		"BID": "BV1ty4y1Y7Aw",
 		"Btitle": "国产小型SUV也配谈运动? -- 4车SUV大乱斗",
 		"hp": "177",
@@ -3522,7 +3759,8 @@
 		"price":"12.88"
 	},
 	{
-	  "car": "拿铁DHT-PHEV（22",
+	  "year":"2022",
+	  "car": "拿铁DHT-PHEV",
 	  "BID": "BV1yv4y1v7QU",
 	  "Btitle": "键盘车神教的女主持人？",
 	  "hp": "437",
@@ -3542,7 +3780,8 @@
 	  "price":"26.30"
 	},
 	{
-		"car": "CX-4（20",
+		"year":"2020",
+		"car": "CX-4",
 		"BID": "",
 		"Btitle": "www.zhihu.com/zvideo/1279892141532749824",
 		"hp": "196",
@@ -3562,7 +3801,8 @@
 		"price":"17.98"
 	},
 	{
-		"car": "凌云S（22",
+		"year":"2022",
+		"car": "凌云S",
 		"BID": "BV1vr4y147p4",
 		"Btitle": "凌云S特调造假，让我白花18万？",
 		"hp": "261",
@@ -3582,7 +3822,8 @@
 		"price":"16.99"
 	},
 	{
-		"car": "奔驰A200L（20",
+		"year":"2020",
+		"car": "奔驰A200L",
 		"BID": "BV1Fb4y1Q7Fu",
 		"Btitle": "奔驰宝马被高尔夫吊打？凯特姐“进退两男”？",
 		"hp": "163",
@@ -3602,7 +3843,8 @@
 		"price":"24.98"
 	},
 	{
-		"car": "BMW 120（21",
+		"year":"2021",
+		"car": "BMW 120",
 		"BID": "BV1Fb4y1Q7Fu",
 		"Btitle": "奔驰宝马被高尔夫吊打？凯特姐“进退两男”？",
 		"hp": "140",
@@ -3621,8 +3863,9 @@
 		"nationality":"DE",
 		"price":"20.38"
 	},
-		{
-		"car": "创酷RS（22",
+	{
+		"year":"2022",
+		"car": "创酷RS",
 		"BID": "BV1Ga411Q755",
 		"Btitle": "10W最强SUV？创酷RS赛道测试...",
 		"hp": "184",
@@ -3642,7 +3885,8 @@
 		"price":"12.89"
 	},
 	{
-		"car": "凯美瑞（19",
+		"year":"2019",
+		"car": "凯美瑞",
 		"BID": "av58322205",
 		"Btitle": "“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
 		"hp": "218",
@@ -3655,14 +3899,15 @@
 		"lv": "B",
 		"time": "252",
 		"accelerate": "8.8",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"23.98"
 	},
 	{
-		"car": "206 进化1（06",
+		"year":"2006",
+		"car": "206 进化1",
 		"BID": "BV17E411u7hn",
 		"Btitle": "【206进化1.0】啥叫“新手改装4件套”？-- 8000块改一台标致206",
 		"hp": "130",
@@ -3675,14 +3920,15 @@
 		"lv": "A0",
 		"time": "",
 		"accelerate": "9.7",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"CN",
 		"price":"10.28"
 	},
 	{
-		"car": "飞度（18",
+		"year":"2018",
+		"car": "飞度",
 		"BID": "BV1aK4y1a7nN",
 		"Btitle": "教主太膨胀，直接买超跑？",
 		"hp": "131",
@@ -3702,7 +3948,8 @@
 		"price":"7.38"
 	},
 	{
-		"car": "ES200（20",
+		"year":"2020",
+		"car": "ES200",
 		"BID": "BV13b4y1t7z1",
 		"Btitle": "ES200，公路闪电？",
 		"hp": "173",
@@ -3722,7 +3969,8 @@
 		"price":"29.49"
 	},
 	{
-		"car": "POLO（14",
+		"year":"2014",
+		"car": "POLO",
 		"BID": "av45970606",
 		"Btitle": "低配版“飞驰人生”！大众POLO vs 本田飞度",
 		"hp": "110",
@@ -3734,15 +3982,16 @@
 		"temperature": "6",
 		"lv": "A0",
 		"time": "753",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"DE",
 		"price":"10.39"
 	},
 	{
-		"car": "思铂睿（09",
+		"year":"2009",
+		"car": "思铂睿",
 		"BID": "av50120061",
 		"Btitle": "2.4高转自然吸气“大号思域SI买菜车”",
 		"hp": "181",
@@ -3754,16 +4003,16 @@
 		"temperature": "18",
 		"lv": "B",
 		"time": "313",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"23.78"
 	},
-
 	{
-		"car": "威朗（18",
+		"year":"2018",
+		"car": "威朗",
 		"BID": "av38448486",
 		"Btitle": "要不是变速箱拦着，我能打十台思域",
 		"hp": "169",
@@ -3775,15 +4024,16 @@
 		"temperature": "26",
 		"lv": "A",
 		"time": "985",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"US",
 		"price":"15.59"
 	},
 	{
-		"car": "菱帅（05",
+		"year":"2005",
+		"car": "菱帅",
 		"BID": "av24427381",
 		"Btitle": "7000块的二手菱帅，下赛道居然直追小钢炮？",
 		"hp": "100",
@@ -3803,7 +4053,8 @@
 		"price":"11.88"
 	},
 	{
-		"car": "雅阁（18",
+		"year":"2018",
+		"car": "雅阁",
 		"BID": "av58322205",
 		"Btitle": "“天籁 | 凯美瑞 | 雅阁”赛道大横评，谁是“虚假的运动车型”？",
 		"hp": "215",
@@ -3823,7 +4074,8 @@
 		"price":"19.98"
 	},
 	{
-		"car": "捷达VS5（19",
+		"year":"2019",
+		"car": "捷达VS5",
 		"BID": "BV1ty4y1Y7Aw",
 		"Btitle": "国产小型SUV也配谈运动? -- 4车SUV大乱斗",
 		"hp": "150",
@@ -3831,7 +4083,7 @@
 		"Powertrain": "1.4T/6AT",
 		"speed": "67.70",
 		"mods": "0",
-		"tyre": "玲珑-绿",
+		"tyre": "玲珑GREEN",
 		"temperature": "-3",
 		"lv": "A",
 		"time": "",
@@ -3843,7 +4095,8 @@
 		"price":"9.88"
 	},
 	{
-		"car": "福克斯（12",
+		"year":"2012",
+		"car": "福克斯",
 		"BID": "av49386270",
 		"Btitle": "“平民操控王”经典福克斯，赛道圈速竟然倒数第一？",
 		"hp": "124",
@@ -3855,15 +4108,16 @@
 		"temperature": "18",
 		"lv": "A",
 		"time": "357",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"US",
 		"price":"9.98"
 	},
 	{
-		"car": "206（06",
+		"year":"2006",	
+		"car": "206",
 		"BID": "BV1oE411E7Q2",
 		"Btitle": "【206进化赛道篇】万元驾驶之王？“标致206”vs“东南菱帅”",
 		"hp": "120",
@@ -3876,14 +4130,15 @@
 		"lv": "A0",
 		"time": "",
 		"accelerate": "9.7",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"FR",
 		"price":"10.28"
 	},
 	{
-		"car": "北汽魔方（22",
+		"year":"2022",	
+		"car": "北汽魔方",
 		"BID": "BV1BP4y1m71E",
 		"Btitle": "9.99万买这么大个SUV？",
 		"hp": "188",
@@ -3903,7 +4158,8 @@
 		"price":"9.99"
 	},
 	{
-		"car": "雷凌（17",
+		"year":"2017",
+		"car": "雷凌",
 		"BID": "BV1Jp4y1972m",
 		"Btitle": "AE86的真正继任者，10W块买回家 -- 赛道周末Vlog24",
 		"hp": "116",
@@ -3916,13 +4172,14 @@
 		"lv": "A",
 		"time": "",
 		"accelerate": "10.5",
-		"limit": "",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"10.78"
 	},
 	{
+		"year":"-",
 		"car": "富康",
 		"BID": "BV1VN411o7fj",
 		"Btitle": "韩寒座驾，5000块你要么?",
@@ -3935,15 +4192,16 @@
 		"temperature": "30",
 		"lv": "A",
 		"time": "",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"0",
 		"nationality":"FR",
 		"price":"7.58"
 	},
 	{
-		"car": "POLO（08",
+		"year":"2008",
+		"car": "POLO",
 		"BID": "av55145767",
 		"Btitle": "打工1W多块买的老POLO，二挡5800转换挡变身买菜王！",
 		"hp": "86",
@@ -3955,15 +4213,16 @@
 		"temperature": "18",
 		"lv": "A0",
 		"time": "622",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"DE",
 		"price":"8.68"
 	},
 	{
-		"car": "菱悦（15",
+		"year":"2015",
+		"car": "菱悦",
 		"BID": "av77754389",
 		"Btitle": "【干货】菱悦VS菱帅，谁才是键盘车神的最爱？",
 		"hp": "120",
@@ -3975,15 +4234,16 @@
 		"temperature": "28",
 		"lv": "A",
 		"time": "35",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"0",
 		"nationality":"CN",
 		"price":"5.69"
 	},
 	{
-		"car": "甲壳虫（06",
+		"year":"2006",
+		"car": "甲壳虫",
 		"BID": "av55879307",
 		"Btitle": "“逗斗车”的甲壳虫，教主借来豁赛道~",
 		"hp": "115",
@@ -3995,15 +4255,16 @@
 		"temperature": "21",
 		"lv": "A",
 		"time": "531",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"2",
 		"nationality":"DE",
 		"price":"36.50"
 	},
 	{
-		"car": "奥拓（13",
+		"year":"2013",
+		"car": "奥拓",
 		"BID": "BV1R7411D72A",
 		"Btitle": "【送命挑战】普通人开“宝马”能赢赛车手开“奥拓”？",
 		"hp": "71",
@@ -4015,15 +4276,16 @@
 		"temperature": "30",
 		"lv": "A00",
 		"time": "",
-		"accelerate": "",
-		"limit": "",
+		"accelerate": "-",
+		"limit": "-",
 		"powerType":"0",
 		"producer":"1",
 		"nationality":"JP",
 		"price":"4.18"
 	},
 	{
-		  "car": "五菱EV（22",
+		  "year":"2022",
+		  "car": "五菱EV",
 		  "BID": "BV1PL4y1c7qB",
 		  "Btitle": "41马力，是钢炮？",
 		  "hp": "41",
@@ -4043,7 +4305,8 @@
 		  "price":"5.58"
 	},
 	{
-		"car": "五菱EV（20",
+		"year":"2020",
+		"car": "五菱EV",
 		"BID": "BV1Rv411W7A7",
 		"Btitle": "27马力的赛道猛男，会翻车？",
 		"hp": "27",

@@ -24,7 +24,7 @@ $(function () {
   };
   //获取json数据
   $.ajax({
-    url: "./goldport.json?v=20240226",
+    url: "./goldport.json?v=20240306",
     // async: false,
     success: function (res) {
       console.log('goldport',res);
