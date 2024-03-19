@@ -104,15 +104,20 @@ tr.speed6:hover {
 .blue {
 	background-color: rgba(33,33,33, 0.1);
 }
+.align-left {
+	text-align:left !important;
+}
 
 .table {
 	margin-bottom: 0;
 
 	min-width: 1500px;
 	display: none;
+
+	text-align:center;
 }
 .table.active {
-	display: block;
+	display: table;
 }
 
 a {
@@ -184,7 +189,14 @@ footer {
 	cursor: pointer;
 }
 #tb_results td ,
-#tb_results2 td {
+#tb_results2 td,
+#tb_results thead ,
+#tb_results2 thead,
+#tb_results tr ,
+#tb_results2 tr,
+#tb_results th ,
+#tb_results2 th{
+	text-align:center;
 	border: 1px solid;
 }
 
