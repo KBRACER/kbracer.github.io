@@ -184,23 +184,18 @@ footer {
 }
 
 #tb_results .icon ,
-#tb_results2 .icon ,
-#tb_results3 .icon {
+#tb_results2 .icon {
 	width: 15px;
 	cursor: pointer;
 }
 #tb_results td ,
 #tb_results2 td,
-#tb_results3 td,
 #tb_results thead ,
 #tb_results2 thead,
-#tb_results3 thead,
 #tb_results tr ,
 #tb_results2 tr,
-#tb_results3 tr,
 #tb_results th ,
-#tb_results2 th,
-#tb_results3 th{
+#tb_results2 th{
 	text-align:center;
 	border: 1px solid;
 }
@@ -210,37 +205,29 @@ footer {
 #tb_results .accelerate,
 #tb_results .speed ,
 #tb_results2 .ranking,
-#tb_results3 .ranking,
 #tb_results2 .limit,
-#tb_results3 .limit,
 #tb_results2 .accelerate,
-#tb_results3 .accelerate,
-#tb_results2 .speed ,
-#tb_results3 .speed {
+#tb_results2 .speed {
 	min-width: 65px;
 }
 
 #tb_results .mods ,
-#tb_results2 .mods ,
-#tb_results3 .mods {
+#tb_results2 .mods {
 	min-width: 80px;
 }
 
 #tb_results .lv ,
-#tb_results2 .lv ,
-#tb_results3 .lv {
+#tb_results2 .lv {
 	min-width: 50px;
 }
 
 #tb_results .temperature ,
-#tb_results2 .temperature ,
-#tb_results3 .temperature {
+#tb_results2 .temperature {
 	min-width: 90px;
 }
 
 #tb_results .car ,
-#tb_results2 .car ,
-#tb_results3 .car {
+#tb_results2 .car {
 	min-width: 135px;
 }
 

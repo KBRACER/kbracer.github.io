@@ -1,7 +1,6 @@
 $(function () {
   var jsonData;
   var goldData;
-  var bigVData;
   function setTable(arr) {
     var htmlStr = template("tb", {
       data: arr,
@@ -13,12 +12,6 @@ $(function () {
       data: arr,
     });
     $("#tb_results2 > tbody").html(htmlStr);
-  }
-  function setTableBigV(arr) {
-    var htmlStr = template("tb3", {
-      data: arr,
-    });
-    $("#tb_results3 > tbody").html(htmlStr);
   }
 
   template.defaults.imports.timeFormat = function (date) {
@@ -48,15 +41,6 @@ $(function () {
       setTable(jsonData);
     },
   });
-  $.ajax({
-    url: "./bigV.json?v=20240226",
-    // async: false,
-    success: function (res) {
-      console.log('bigV',res);
-      bigVData = res;
-      setTableBigV(bigVData);
-    },
-  });
   // setTable(jsonData);
   // setTableGold(goldData);
 
@@ -64,10 +48,10 @@ $(function () {
     // screen($(this).val())
     screen(jsonData,'ruisi');
     screen(goldData,'gold');
-    screen(bigVData,'bigV');
   });
   // 筛选
   function screen(arr,type) {
+    console.log(234);
     var lv = $(".lv").val(),
       mods = $(".mods").val(),
       powerType = $(".powerType").val(),
@@ -125,20 +109,7 @@ $(function () {
       })
     }
     console.log(type,arr);
-    switch (type) {
-      case 'ruisi':
-        setTable(arr)
-        break;
-      case 'gold':
-        setTableGold(arr)
-        break;
-      case 'bigV':
-        setTableBigV(arr)
-        break;
-    
-      default:
-        break;
-    }
+    type == 'ruisi'?setTable(arr):setTableGold(arr);
   }
 
   //搜索车型
@@ -152,7 +123,6 @@ $(function () {
     // screen()
     screen(jsonData,'ruisi');
     screen(goldData,'gold');
-    screen(bigVData,'bigV');
   });
 
   // button动效
