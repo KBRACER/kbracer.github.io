@@ -102,7 +102,7 @@ tr.speed6:hover {
 	background-color: rgba(33,33,33, 0.1);
 }
 .blue {
-	background-color: rgba(33,33,33, 0.1);
+	background-color: rgba(33,33,33, 0.6);
 }
 .align-left {
 	text-align:left !important;
@@ -184,18 +184,23 @@ footer {
 }
 
 #tb_results .icon ,
-#tb_results2 .icon {
+#tb_results2 .icon ,
+#tb_results3 .icon {
 	width: 15px;
 	cursor: pointer;
 }
 #tb_results td ,
 #tb_results2 td,
+#tb_results3 td,
 #tb_results thead ,
 #tb_results2 thead,
+#tb_results3 thead,
 #tb_results tr ,
 #tb_results2 tr,
+#tb_results3 tr,
 #tb_results th ,
-#tb_results2 th{
+#tb_results2 th,
+#tb_results3 th{
 	text-align:center;
 	border: 1px solid;
 }
@@ -205,29 +210,37 @@ footer {
 #tb_results .accelerate,
 #tb_results .speed ,
 #tb_results2 .ranking,
+#tb_results3 .ranking,
 #tb_results2 .limit,
+#tb_results3 .limit,
 #tb_results2 .accelerate,
-#tb_results2 .speed {
+#tb_results3 .accelerate,
+#tb_results2 .speed ,
+#tb_results3 .speed {
 	min-width: 65px;
 }
 
 #tb_results .mods ,
-#tb_results2 .mods {
+#tb_results2 .mods ,
+#tb_results3 .mods {
 	min-width: 80px;
 }
 
 #tb_results .lv ,
-#tb_results2 .lv {
+#tb_results2 .lv ,
+#tb_results3 .lv {
 	min-width: 50px;
 }
 
 #tb_results .temperature ,
-#tb_results2 .temperature {
+#tb_results2 .temperature ,
+#tb_results3 .temperature {
 	min-width: 90px;
 }
 
 #tb_results .car ,
-#tb_results2 .car {
+#tb_results2 .car ,
+#tb_results3 .car {
 	min-width: 135px;
 }
 
