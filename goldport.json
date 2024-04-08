@@ -423,7 +423,7 @@
 		"year":"2022",
 		"car": "Giulia QV",
 		"BID": "BV1Bk4y1477X",
-		"Btitle": "	大家别骂键盘打工人了，Giulia QV二番战！",
+		"Btitle": "大家别骂键盘打工人了，Giulia QV二番战！",
 		"hp": "510",
 		"hp_content": "510",
 		"Powertrain": "2.9T/8AT",
@@ -607,6 +607,27 @@
 		"producer":"2",
 		"nationality":"DE",
 		"price":"54.50"
+	},
+	{
+		"year":"2022",
+		"car": "Giulia QV",
+		"BID": "BV1or4y1V7rX",
+		"Btitle": "100W的Giulia四叶草，虚假的赛道机器？",
+		"hp": "510",
+		"hp_content": "510",
+		"Powertrain": "2.9T/8AT",
+		"speed": "69.98",
+		"mods": "0",
+		"tyre": "Cup2C",
+		"temperature": "35",
+		"lv": "A",
+		"time": "",
+		"accelerate": "4.33",
+		"limit": "187.35",
+		"powerType":"0",
+		"producer":"2",
+		"nationality":"IT",
+		"price":"90.28"
 	},
 	{
 		"year":"2021",
@@ -798,6 +819,7 @@
 		"price":"26.98"
 	},
 	{
+<<<<<<< HEAD
 		"year":"2008",
 		"car": "STI",
 		"BID": "BV1Fu4m1u75P",
@@ -819,6 +841,8 @@
 		"price":"48.80"
 	},
 	{
+=======
+>>>>>>> parent of 0356cf8 (日常更新)
 		"year":"2023",
 		"car": "思域 Type-R",
 		"BID": "BV18e411C7bH",
@@ -1011,7 +1035,7 @@
 		"year":"2021",
 		"car": "CT4",
 		"BID": "BV1fA411k7WG",
-		"Btitle": "	【4车进化】领克全车拆空，大战思域、GTI、CT4！",
+		"Btitle": "【4车进化】领克全车拆空，大战思域、GTI、CT4！",
 		"hp": "264",
 		"hp_content": "237+27",
 		"Powertrain": "2.0T/8AT",
@@ -1032,7 +1056,7 @@
 		"year":"2012",
 		"car": "劳恩斯-酷派",
 		"BID": "BV1R54y1K7sP",
-		"Btitle": "	EVO的跑车版本:劳恩斯-酷派",
+		"Btitle": "EVO的跑车版本:劳恩斯-酷派",
 		"hp": "330",
 		"hp_content": "260+70",
 		"Powertrain": "2.0T/6MT",
@@ -1214,7 +1238,7 @@
 		"limit": "169.68",
 		"powerType":"1",
 		"producer":"1",
-		"nationality":"SW",
+		"nationality":"SE",
 		"price":"35.88"
 	},
 	{
@@ -2355,7 +2379,7 @@
 		"year":"2021",
 		"car": "飞度",
 		"BID": "BV1UF411V7Gb",
-		"Btitle": "	飞度GR9，还是“超跑”么？",
+		"Btitle": "飞度GR9，还是“超跑”么？",
 		"hp": "131",
 		"hp_content": "131",
 		"Powertrain": "1.5/CVT",
@@ -2434,5 +2458,5 @@
 		"producer":"0",
 		"nationality":"CN",
 		"price":"11.78"
-	},
+	}
 ]
