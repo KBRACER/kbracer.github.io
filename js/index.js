@@ -79,7 +79,7 @@ $(function () {
     if (lv !== "all") {
       if (lv == "SUV") {
         arr = jsonData.filter(function (v) {
-          return ["SUV1", "SUV2", "SUV3", "SUV4"].includes(v.lv);
+          return ["SUV1", "SUV2", "SUV3", "SUV4","SUV5"].includes(v.lv);
         });
       } else if (lv == "0") {
         arr = jsonData.filter(function (v) {
