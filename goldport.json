@@ -377,7 +377,7 @@
 		"nationality":"JP",
 		"price":"42.00"
 	},{
-		"year":"2024",
+		"year":"2023",
 		"car": "影豹R",
 		"BID": "BV12V6gYLEmu",
 		"Btitle": "影豹RR第二季的最后一次圈速测试。",
@@ -390,7 +390,6 @@
 		"temperature": "18",
 		"lv": "A",
 		"time": "",
-		"accelerate": "--",
 		"accelerate": "4.91",
 		"limit": "175.14",
 		"powerType":"0",
