@@ -391,6 +391,7 @@
 		"lv": "A",
 		"time": "",
 		"accelerate": "--",
+		"accelerate": "4.91",
 		"limit": "175.14",
 		"powerType":"0",
 		"producer":"0",
