@@ -78,15 +78,15 @@ $(function () {
     // 车型级别
     if (lv !== "all") {
       if (lv == "SUV") {
-        arr = jsonData.filter(function (v) {
+        arr = arr.filter(function (v) {
           return ["SUV1", "SUV2", "SUV3", "SUV4","SUV5"].includes(v.lv);
         });
       } else if (lv == "0") {
-        arr = jsonData.filter(function (v) {
+        arr = arr.filter(function (v) {
           return ["A00", "A0", "A", "B", "C","D"].includes(v.lv);
         });
       } else {
-        arr = jsonData.filter(function (v) {
+        arr = arr.filter(function (v) {
           return v.lv == lv;
         });
       }
