@@ -44,7 +44,7 @@
 		"driver":"Jerry杨浩宇"
 	},{
 		"year":"2019",
-		"car": "AMG GT C",
+		"car": "AMG GTC",
 		"BID": "BV1W7HczjEen",
 		"Btitle": "【大V榜】小米工程师开AMG GTC",
 		"hp": "557",
@@ -129,5 +129,5 @@
 		"nationality":"DE",
 		"price":"-",
 		"driver":"亢岳"
-	},
+	}
 ]
