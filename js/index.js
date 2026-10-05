@@ -2,6 +2,12 @@ $(function () {
   var jsonData;
   var goldData;
   var bigVData;
+  var sortState = {
+    ruisi: { key: "speed", order: "asc" },
+    gold: { key: "speed", order: "asc" },
+    bigV: { key: "speed", order: "asc" },
+  };
+
   function setTable(arr) {
     var htmlStr = template("tb", {
       data: arr,
@@ -21,6 +27,85 @@ $(function () {
     $("#tb_results3 > tbody").html(htmlStr);
   }
 
+  function renderTable(type, arr) {
+    switch (type) {
+      case "ruisi":
+        setTable(arr);
+        break;
+      case "gold":
+        setTableGold(arr);
+        break;
+      case "bigV":
+        setTableBigV(arr);
+        break;
+      default:
+        break;
+    }
+  }
+
+  function getDataByType(type) {
+    if (type === "ruisi") return jsonData;
+    if (type === "gold") return goldData;
+    if (type === "bigV") return bigVData;
+    return [];
+  }
+
+  function parseSortValue(row, key) {
+    var value = row[key];
+    if (key === "car" || key === "driver") {
+      return (value || "").toString().toLowerCase();
+    }
+    var numeric = parseFloat(value);
+    return isNaN(numeric) ? Number.MAX_SAFE_INTEGER : numeric;
+  }
+
+  function sortData(arr, type) {
+    var state = sortState[type] || {};
+    if (!state.key) return arr;
+    var order = state.order === "desc" ? -1 : 1;
+    return arr.slice().sort(function (a, b) {
+      var va = parseSortValue(a, state.key);
+      var vb = parseSortValue(b, state.key);
+      if (typeof va === "string" || typeof vb === "string") {
+        return va.localeCompare(vb, "zh-Hans-CN") * order;
+      }
+      return (va - vb) * order;
+    });
+  }
+
+  function getTableSelector(type) {
+    if (type === "ruisi") return "#tb_results";
+    if (type === "gold") return "#tb_results2";
+    if (type === "bigV") return "#tb_results3";
+    return "";
+  }
+
+  function updateSortIndicators(type) {
+    var tableSelector = getTableSelector(type);
+    var state = sortState[type];
+    if (!tableSelector || !state) return;
+    var $table = $(tableSelector);
+    $table.find("th.sortable").removeClass("sort-asc sort-desc");
+    $table
+      .find('th[data-sort-key="' + state.key + '"]')
+      .addClass(state.order === "desc" ? "sort-desc" : "sort-asc");
+  }
+
+  function refreshTable(type) {
+    var data = getDataByType(type);
+    if (!Array.isArray(data)) return;
+    var filtered = screen(data, type, { render: false });
+    var sorted = sortData(filtered, type);
+    renderTable(type, sorted);
+    updateSortIndicators(type);
+  }
+
+  function refreshAllTables() {
+    refreshTable("ruisi");
+    refreshTable("gold");
+    refreshTable("bigV");
+  }
+
   template.defaults.imports.timeFormat = function (date) {
     var timeArr = date.split("."),
       sec = timeArr[0] % 60,
@@ -29,61 +114,61 @@ $(function () {
     sec < 10 ? (sec = "0" + sec) : null;
     return `${min}:${sec}.${timeArr[1]}`;
   };
-  //获取json数据
-  $.ajax({
-    url: "./goldport.json?v=20240306",
-    // async: false,
-    success: function (res) {
-      console.log('goldport',res);
-      goldData = res;
-      setTableGold(goldData);
-    },
-  });
-  $.ajax({
-    url: "./speed.json?v=20240226",
-    // async: false,
-    success: function (res) {
-      console.log('ruisi',res);
-      jsonData = res;
-      setTable(jsonData);
-    },
-  });
-  $.ajax({
-    url: "./bigV.json?v=20240226",
-    // async: false,
-    success: function (res) {
-      console.log('bigV',res);
-      bigVData = res;
-      setTableBigV(bigVData);
-    },
-  });
-  // setTable(jsonData);
-  // setTableGold(goldData);
+  // 获取数据：file:// 下使用预加载 JS，http(s) 下读取 JSON，兼容静态服务器和本地双击打开。
+  if (window.location.protocol === "file:") {
+    var localData = window.__KBRACER_LOCAL_DATA__ || {};
+    goldData = localData.goldport || [];
+    jsonData = localData.speed || [];
+    bigVData = localData.bigV || [];
+    refreshAllTables();
+  } else {
+    $.ajax({
+      url: "./goldport.json?v=20240306",
+      success: function (res) {
+        console.log("goldport", res);
+        goldData = res;
+        refreshTable("gold");
+      },
+    });
+    $.ajax({
+      url: "./speed.json?v=20240226",
+      success: function (res) {
+        console.log("ruisi", res);
+        jsonData = res;
+        refreshTable("ruisi");
+      },
+    });
+    $.ajax({
+      url: "./bigV.json?v=20240226",
+      success: function (res) {
+        console.log("bigV", res);
+        bigVData = res;
+        refreshTable("bigV");
+      },
+    });
+  }
 
   $(".mods,.lv,.powerType,.producer").on("change", function () {
-    // screen($(this).val())
-    screen(jsonData,'ruisi');
-    screen(goldData,'gold');
-    screen(bigVData,'bigV');
+    refreshAllTables();
   });
   // 筛选
-  function screen(arr,type) {
+  function screen(arr, type, options) {
+    var shouldRender = !options || options.render !== false;
     var lv = $(".lv").val(),
       mods = $(".mods").val(),
       powerType = $(".powerType").val(),
       producer = $(".producer").val(),
-      search = $('.search').val().toLowerCase();
-      // arr = jsonData;
+      search = $(".search").val().toLowerCase();
 
     // 车型级别
     if (lv !== "all") {
       if (lv == "SUV") {
         arr = arr.filter(function (v) {
-          return ["SUV1", "SUV2", "SUV3", "SUV4","SUV5"].includes(v.lv);
+          return ["SUV1", "SUV2", "SUV3", "SUV4", "SUV5"].includes(v.lv);
         });
       } else if (lv == "0") {
         arr = arr.filter(function (v) {
-          return ["A00", "A0", "A", "B", "C","D"].includes(v.lv);
+          return ["A00", "A0", "A", "B", "C", "D"].includes(v.lv);
         });
       } else {
         arr = arr.filter(function (v) {
@@ -119,42 +204,42 @@ $(function () {
       });
     }
 
-    if(search){
-      arr = arr.filter((v) => {
+    if (search) {
+      arr = arr.filter(function (v) {
         return v.car.toLowerCase().indexOf(search) != -1;
-      })
+      });
     }
-    console.log(type,arr);
-    switch (type) {
-      case 'ruisi':
-        setTable(arr)
-        break;
-      case 'gold':
-        setTableGold(arr)
-        break;
-      case 'bigV':
-        setTableBigV(arr)
-        break;
-    
-      default:
-        break;
+    console.log(type, arr);
+
+    if (shouldRender) {
+      var sorted = sortData(arr, type);
+      renderTable(type, sorted);
+      updateSortIndicators(type);
     }
+
+    return arr;
   }
 
   //搜索车型
   $(".search").on("input", function () {
-    // var val = $(this).val().toLowerCase();
-    // var arr = jsonData.filter((v) => {
-    //   return v.car.toLowerCase().indexOf(val) != -1;
-    // });
-    // setTable(arr);
-    
-    // screen()
-    screen(jsonData,'ruisi');
-    screen(goldData,'gold');
-    screen(bigVData,'bigV');
+    refreshAllTables();
   });
 
+  $("th[data-sort-key]").on("click", function () {
+    var $th = $(this);
+    var sortKey = $th.data("sortKey");
+    var tableId = $th.closest("table").attr("id");
+    var type = tableId === "tb_results" ? "ruisi" : tableId === "tb_results2" ? "gold" : "bigV";
+
+    if (sortState[type].key === sortKey) {
+      sortState[type].order = sortState[type].order === "asc" ? "desc" : "asc";
+    } else {
+      sortState[type].key = sortKey;
+      sortState[type].order = "asc";
+    }
+
+    refreshTable(type);
+  });
   // button动效
   document.querySelector(".button").onmousemove = (e) => {
     const x = e.pageX - e.target.offsetLeft;

@@ -25,9 +25,12 @@
 	<script src="./lib/template.js"></script>
 	<script src="./lib/canvas-bg/TweenLite.min.js"></script>
 	<script src="./lib/canvas-bg/EasePack.min.js"></script>
-	<script src="./lib/canvas-bg/rAF.js"></script>
-	<script src="./lib/layer/layer.js"></script>
-	<script src="./js/index.js?v=20240322"></script>
+		<script src="./lib/canvas-bg/rAF.js"></script>
+		<script src="./lib/layer/layer.js"></script>
+		<script src="./js/data/speed.js"></script>
+		<script src="./js/data/goldport.js"></script>
+		<script src="./js/data/bigV.js"></script>
+		<script src="./js/index.js?v=2"></script>
 </head>
 
 <body>
@@ -187,10 +190,11 @@
 					排名
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="car">车型</th>
-				<th class="price t-right" style="width:100px;">售价</th>
-				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
-				<th class="speed blue t-left"  style="width:100px;">
+				<th class="car sortable" data-sort-key="car">车型</th>
+
+				<th class="price t-right sortable" data-sort-key="price" style="width:100px;">售价</th>
+				<th class="hp t-center sortable" data-sort-key="hp"  style="width:120px;">马力 (Ps)</th>
+				<th class="	" data-sort-key="speed"  style="width:100px;">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
@@ -198,17 +202,17 @@
 					轮胎
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="temperature t-center">
+				<th class="temperature t-center sortable" data-sort-key="temperature">
 					气温 (℃)
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="powertrain black">动力总成</th>
-				<th class="limit black">
+				<th class="limit black sortable" data-sort-key="limit">
 					尾速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="accelerate black">0-100</th>
-				<th class="mods t-center black"  style="width:40px;">
+				<th class="accelerate black sortable" data-sort-key="accelerate">0-100</th>
+				<th class="mods t-center black sortable" data-sort-key="mods"  style="width:40px;">
 					改装程度
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
@@ -226,10 +230,10 @@
 					排名
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="car">车型</th>
-				<th class="price t-right" style="width:100px;">售价</th>
-				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
-				<th class="speed blue t-left"  style="width:100px;">
+				<th class="car sortable" data-sort-key="car">车型</th>
+						<th class="price t-right sortable" data-sort-key="price" style="width:100px;">售价</th>
+				<th class="hp t-center sortable" data-sort-key="hp"  style="width:120px;">马力 (Ps)</th>
+				<th class="speed blue t-left sortable" data-sort-key="speed"  style="width:100px;">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
@@ -237,17 +241,17 @@
 					轮胎
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="temperature t-center">
+				<th class="temperature t-center sortable" data-sort-key="temperature">
 					气温 (℃)
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="powertrain black">动力总成</th>
-				<th class="limit black">
+				<th class="limit black sortable" data-sort-key="limit">
 					尾速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="accelerate black">0-100</th>
-				<th class="mods t-center black"  style="width:40px;">
+				<th class="accelerate black sortable" data-sort-key="accelerate">0-100</th>
+				<th class="mods t-center black sortable" data-sort-key="mods"  style="width:40px;">
 					是否改装
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
@@ -265,28 +269,28 @@
 					排名
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="car">车型</th>
-				<th class="price t-right" style="width:100px;">车手</th>
-				<th class="speed blue t-left"  style="width:100px;">
+				<th class="car sortable" data-sort-key="car">车型</th>
+				<th class="price t-right sortable" data-sort-key="driver" style="width:100px;">车手</th>
+				<th class="speed blue t-left sortable" data-sort-key="speed"  style="width:100px;">
 					圈速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="hp t-center"  style="width:120px;">马力 (Ps)</th>
+				<th class="hp t-center sortable" data-sort-key="hp"  style="width:120px;">马力 (Ps)</th>
 				<th class="tyre"  style="width:80px;">
 					轮胎
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="temperature t-center">
+				<th class="temperature t-center sortable" data-sort-key="temperature">
 					气温 (℃)
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
 				<th class="powertrain black">动力总成</th>
-				<th class="limit black">
+				<th class="limit black sortable" data-sort-key="limit">
 					尾速
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
-				<th class="accelerate black">0-100</th>
-				<th class="mods t-center black"  style="width:40px;">
+				<th class="accelerate black sortable" data-sort-key="accelerate">0-100</th>
+				<th class="mods t-center black sortable" data-sort-key="mods"  style="width:40px;">
 					是否改装
 					<!-- <img src="./img/tips_alarm.png" alt="" class="icon"> -->
 				</th>
@@ -416,7 +420,7 @@
 
 <script type="text/template" id="tb">
 
-	{{each data as v i}}
+	{{each data v i}}
 <tr 
   class="
   {{if v.speed < 55}}
@@ -460,7 +464,7 @@
 </script>
 <script type="text/template" id="tb2">
 
-	{{each data as v i}}
+		{{each data v i}}
 <tr 
   class="
   {{if v.speed < 69}}
@@ -504,7 +508,7 @@
 </script>
 <script type="text/template" id="tb3">
 
-	{{each data as v i}}
+		{{each data v i}}
 <tr 
   class="
   {{if v.speed < 69}}

@@ -205,6 +205,42 @@ footer {
 	border: 1px solid;
 }
 
+
+#tb_results th.sortable,
+#tb_results2 th.sortable,
+#tb_results3 th.sortable {
+	cursor: pointer;
+	user-select: none;
+	position: relative;
+	padding-right: 18px;
+}
+
+#tb_results th.sortable::after,
+#tb_results2 th.sortable::after,
+#tb_results3 th.sortable::after {
+	content: "↕";
+	position: absolute;
+	right: 4px;
+	top: 50%;
+	transform: translateY(-50%);
+	opacity: 0.35;
+	font-size: 12px;
+}
+
+#tb_results th.sort-asc::after,
+#tb_results2 th.sort-asc::after,
+#tb_results3 th.sort-asc::after {
+	content: "↑";
+	opacity: 1;
+}
+
+#tb_results th.sort-desc::after,
+#tb_results2 th.sort-desc::after,
+#tb_results3 th.sort-desc::after {
+	content: "↓";
+	opacity: 1;
+}	
+
 #tb_results .ranking,
 #tb_results .limit,
 #tb_results .accelerate,
